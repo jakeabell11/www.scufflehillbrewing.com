@@ -43,6 +43,50 @@
 			"bottleDate" : "03/08/2020",
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "Tropical Storm",
+			"style" : "American Pale Ale",
+			"description" : "Brewed with pineapple, mango, and oranges.",
+			"abv" : "6.2",
+			"ibu" : "38",
+			"picture" : "",
+			"bottleDate" : "03/14/2020",
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "The Mandarlorian",
+			"style" : "Session IPA",
+			"description" : "Brewed with mandarin oranges.",
+			"abv" : "3.2",
+			"ibu" : "36",
+			"picture" : "",
+			"bottleDate" : "03/21/2020",
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "The Lawnmower",
+			"style" : "American Light",
+			"description" : "Perfect for drinking while mowing the grass.",
+			"abv" : "4.3",
+			"ibu" : "19",
+			"picture" : "",
+			"bottleDate" : "04/04/2020",
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Da 'RONA",
+			"style" : "Mexican Cerveza",
+			"description" : "Don't catch it.",
+			"abv" : "",
+			"ibu" : "20",
+			"picture" : "",
+			"bottleDate" : "04/11/2020",
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
