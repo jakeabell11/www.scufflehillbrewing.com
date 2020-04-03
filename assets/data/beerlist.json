@@ -32,6 +32,17 @@
 			"bottleDate" : "02/22/2020",
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "Strawberry / Kiwi Crush",
+			"style" : "Cream Ale",
+			"description" : "Cream ale fermented with fresh strawberries and kiwis!",
+			"abv" : "3.4",
+			"ibu" : "14",
+			"picture" : "",
+			"bottleDate" : "03/08/2020",
+			"available" : "yes",
+			"comingSoon" : "no"
 		}
 	]
 }
