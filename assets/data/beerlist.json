@@ -1,0 +1,37 @@
+{
+	"beer": [
+		{
+			"name" : "English Sock",
+			"style" : "English Pale Ale",
+			"description" : "Filtered with a sock!",
+			"abv" : "4.7",
+			"ibu" : "44",
+			"picture" : "",
+			"bottleDate" : "01/25/2020",
+			"available" : "no",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Double Berry Wheat",
+			"style" : "Wheat Beer",
+			"description" : "Made with Raspberries and Blackberries.",
+			"abv" : "5.6",
+			"ibu" : "8",
+			"picture" : "",
+			"bottleDate" : "02/22/2020",
+			"available" : "no",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Oh Canada",
+			"style" : "Oatmeal Stout",
+			"description" : "Made with Canadian Maple Syrup. This \"Stout\" is not so stout, expect more of a brown ale taste.",
+			"abv" : "5.9",
+			"ibu" : "15",
+			"picture" : "",
+			"bottleDate" : "02/22/2020",
+			"available" : "yes",
+			"comingSoon" : "no"
+		}
+	]
+}
