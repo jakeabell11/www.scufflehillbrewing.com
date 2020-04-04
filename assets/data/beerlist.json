@@ -3,7 +3,7 @@
 		{
 			"name" : "English Sock",
 			"style" : "English Pale Ale",
-			"description" : "Filtered with a sock!",
+			"description" : "Our take on a classic English style that has a medium to high bitterness. Tasting notes of pine and caramel malt. This is a drinkable Special Bitter.",
 			"abv" : "4.7",
 			"ibu" : "44",
 			"picture" : "",
@@ -14,7 +14,7 @@
 		{
 			"name" : "Double Berry Wheat",
 			"style" : "Wheat Beer",
-			"description" : "Made with Raspberries and Blackberries.",
+			"description" : "Our \"Double Berry Wheat\" is a wheat beer made with fresh blackberries and raspberries. It has a tart, dry berry flavor accented by the wheat flavors in the base of the beer.",
 			"abv" : "5.6",
 			"ibu" : "8",
 			"picture" : "",
@@ -25,7 +25,7 @@
 		{
 			"name" : "Oh Canada",
 			"style" : "Oatmeal Stout",
-			"description" : "Made with Canadian Maple Syrup. This \"Stout\" is not so stout, expect more of a brown ale taste.",
+			"description" : "Our Maple Oatmeal Stout is a stout that turns out to be more of a brown ale. Tasting notes of chocolate, caramel malt, oatmeal, and a hint of Canadian maple syrup. This is an easy drinking dark beer.",
 			"abv" : "5.9",
 			"ibu" : "15",
 			"picture" : "",
@@ -36,7 +36,7 @@
 		{
 			"name" : "Strawberry / Kiwi Crush",
 			"style" : "Cream Ale",
-			"description" : "Cream ale fermented with fresh strawberries and kiwis!",
+			"description" : "Our cream ale made with fresh strawberries and kiwis. It’s very easy drinking and crushable like a Strawberry Kiwi Caprisun. Perfect for a sunny day when you’re enjoying the beautiful weather outdoors.",
 			"abv" : "3.4",
 			"ibu" : "14",
 			"picture" : "",
@@ -47,7 +47,7 @@
 		{
 			"name" : "Tropical Storm",
 			"style" : "American Pale Ale",
-			"description" : "Brewed with pineapple, mango, and oranges.",
+			"description" : "Our American Pale Ale made with fresh oranges, mangos, and pineapple. This pale ale packs a heavy tropical flavor from the fruits and citrus flavors from the hops. It is hoppy with a hint of caramel malt. Watch out, as the Tropical Storm will hit you after knocking this beer back.",
 			"abv" : "6.2",
 			"ibu" : "38",
 			"picture" : "",
@@ -58,7 +58,7 @@
 		{
 			"name" : "The Mandarlorian",
 			"style" : "Session IPA",
-			"description" : "Brewed with mandarin oranges.",
+			"description" : "The drink approved by Mandalorians. This Session IPA is made with fresh mandarins. It has a heavy citrus taste alongside the tasting of orange peel. This hoppy beer packs a strong taste up front but is still light enough for a bounty hunter to drink and still be able to shoot straight catching their bounties.",
 			"abv" : "3.2",
 			"ibu" : "36",
 			"picture" : "",
@@ -69,7 +69,7 @@
 		{
 			"name" : "The Lawnmower",
 			"style" : "American Light",
-			"description" : "Perfect for drinking while mowing the grass.",
+			"description" : "This is our take on an American Light Lager fermented as an ale. It’s light-bodied, clean, and refreshing. It’s perfect to quench your thirst while mowing the yard, washing the car, picking the weeds or any other chore that needs to be done.",
 			"abv" : "4.3",
 			"ibu" : "19",
 			"picture" : "",
@@ -80,7 +80,7 @@
 		{
 			"name" : "Da 'RONA",
 			"style" : "Mexican Cerveza",
-			"description" : "Don't catch it.",
+			"description" : "Made to combat the Coronavirus by giving you something to sip on during Quarantine. Our Mexican Cerveza is light hopped, clean and refreshing with a slight aroma of lime peel. It’s served best with a fresh slice of lime while you sit outside and enjoy some fresh air during this quarantine.",
 			"abv" : "",
 			"ibu" : "20",
 			"picture" : "",
