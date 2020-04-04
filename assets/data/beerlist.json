@@ -63,8 +63,8 @@
 			"ibu" : "36",
 			"picture" : "",
 			"bottleDate" : "03/21/2020",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "The Lawnmower",
@@ -81,7 +81,7 @@
 			"name" : "Da 'RONA",
 			"style" : "Mexican Cerveza",
 			"description" : "Made to combat the Coronavirus by giving you something to sip on during Quarantine. Our Mexican Cerveza is light hopped, clean and refreshing with a slight aroma of lime peel. It’s served best with a fresh slice of lime while you sit outside and enjoy some fresh air during this quarantine.",
-			"abv" : "",
+			"abv" : "5.4",
 			"ibu" : "20",
 			"picture" : "",
 			"bottleDate" : "04/11/2020",
