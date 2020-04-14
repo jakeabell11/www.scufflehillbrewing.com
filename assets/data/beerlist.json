@@ -87,6 +87,39 @@
 			"bottleDate" : "04/11/2020",
 			"available" : "no",
 			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Easy Peasy Lemon Squeezy",
+			"style" : "Wheat Beer",
+			"description" : "This wheat beer was made with homemade fresh squeezed lemonade! Should be the right amount of tart and sweet, just like grandma’s recipe.",
+			"abv" : "",
+			"ibu" : "8",
+			"picture" : "",
+			"bottleDate" : "",
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Tricorn IPA",
+			"style" : "IPA",
+			"description" : "Named after the hat wore by revolutionary war soldiers and officers, this IPA has a blend of three hops: Galaxy, Amarillo, and Citra. This was made for our hop heads! Tasting notes should include passionfruit, grapefruit, lime, and clean citrus brought on from this blend of hops. Hints of caramel and malt may be tasted. General Joseph Martin possibly could have been wearing this hat when he claimed “Scuffle Hill” as his land.",
+			"abv" : "",
+			"ibu" : "61",
+			"picture" : "",
+			"bottleDate" : "",
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Raz Ma Taz",
+			"style" : "Wheat Beer",
+			"description" : "This is our experimental wheat beer brewed with blue raspberry jolly ranchers! We definitely felt like mad scientists concocting this recipe!",
+			"abv" : "",
+			"ibu" : "8",
+			"picture" : "",
+			"bottleDate" : "",
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
