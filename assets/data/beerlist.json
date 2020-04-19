@@ -70,8 +70,8 @@
 			"name" : "The Lawnmower",
 			"style" : "American Light",
 			"description" : "This is our take on an American Light Lager fermented as an ale. It’s light-bodied, clean, and refreshing. It’s perfect to quench your thirst while mowing the yard, washing the car, picking the weeds or any other chore that needs to be done.",
-			"abv" : "4.3",
-			"ibu" : "19",
+			"abv" : "",
+			"ibu" : "16",
 			"picture" : "",
 			"bottleDate" : "04/04/2020",
 			"available" : "no",
@@ -85,8 +85,8 @@
 			"ibu" : "20",
 			"picture" : "",
 			"bottleDate" : "04/11/2020",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Easy Peasy Lemon Squeezy",
@@ -103,7 +103,7 @@
 			"name" : "Tricorn IPA",
 			"style" : "American IPA",
 			"description" : "Named after the hat worn by revolutionary war soldiers and officers, this IPA has a blend of three hops: Galaxy, Amarillo, and Citra. This was made for our hop heads! Tasting notes should include passionfruit, grapefruit, lime, and clean citrus brought on from this blend of hops. Hints of caramel and malt may be tasted. General Joseph Martin possibly could have been wearing this hat when he claimed “Scuffle Hill” as his land.",
-			"abv" : "",
+			"abv" : "6",
 			"ibu" : "61",
 			"picture" : "",
 			"bottleDate" : "",
