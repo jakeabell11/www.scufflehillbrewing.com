@@ -70,10 +70,10 @@
 			"name" : "The Lawnmower",
 			"style" : "American Light",
 			"description" : "This is our take on an American Light Lager fermented as an ale. It’s light-bodied, clean, and refreshing. It’s perfect to quench your thirst while mowing the yard, washing the car, picking the weeds or any other chore that needs to be done.",
-			"abv" : "",
-			"ibu" : "16",
+			"abv" : "4.3",
+			"ibu" : "19",
 			"picture" : "",
-			"bottleDate" : "04/04/2020",
+			"bottleDate" : "04/25/2020",
 			"available" : "no",
 			"comingSoon" : "yes"
 		},
@@ -84,18 +84,18 @@
 			"abv" : "5.4",
 			"ibu" : "20",
 			"picture" : "",
-			"bottleDate" : "04/11/2020",
-			"available" : "yes",
-			"comingSoon" : "no"
+			"bottleDate" : "04/18/2020",
+			"available" : "no",
+			"comingSoon" : "yes"
 		},
 		{
 			"name" : "Easy Peasy Lemon Squeezy",
 			"style" : "Wheat Beer",
 			"description" : "This wheat beer was made with homemade fresh squeezed lemonade! Should be the right amount of tart and sweet, just like grandma’s recipe.",
-			"abv" : "",
+			"abv" : "5.8",
 			"ibu" : "8",
 			"picture" : "",
-			"bottleDate" : "",
+			"bottleDate" : "04/26/2020",
 			"available" : "no",
 			"comingSoon" : "yes"
 		},
@@ -106,7 +106,7 @@
 			"abv" : "6",
 			"ibu" : "61",
 			"picture" : "",
-			"bottleDate" : "",
+			"bottleDate" : "04/18/2020",
 			"available" : "no",
 			"comingSoon" : "yes"
 		},
@@ -117,7 +117,7 @@
 			"abv" : "",
 			"ibu" : "8",
 			"picture" : "",
-			"bottleDate" : "",
+			"bottleDate" : "04/26/2020",
 			"available" : "no",
 			"comingSoon" : "yes"
 		},
