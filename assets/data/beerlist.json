@@ -114,7 +114,7 @@
 			"name" : "Raz Ma Taz",
 			"style" : "Wheat Beer",
 			"description" : "This is our experimental wheat beer brewed with blue raspberry jolly ranchers! We definitely felt like mad scientists concocting this recipe!",
-			"abv" : "",
+			"abv" : "5",
 			"ibu" : "8",
 			"picture" : "",
 			"bottleDate" : "04/26/2020",
