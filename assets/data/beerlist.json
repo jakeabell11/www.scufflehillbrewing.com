@@ -131,6 +131,39 @@
 			"bottleDate" : "04/18/2020",
 			"available" : "no",
 			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Day Late IPA",
+			"style" : "Belgian IPA",
+			"description" : "This name is derived from the Battle of Guilford Courthouse because the Henry County Militia was a day late to the battle. This IPA is a Belgian Style IPA, also known as a “Farmhouse IPA”. It will have a complex farmhouse taste with a spicy and peppery background mixed in with tropical notes of clean citrus, mango, gooseberries, and stone fruit. You will be a “Day Late” to any event after crushing this IPA.",
+			"abv" : "",
+			"ibu" : "62",
+			"picture" : "",
+			"bottleDate" : "",
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Citra Sunrise",
+			"style" : "Blonde Ale",
+			"description" : "This is our Blonde Ale brewed with Citra hops. Hints of honey and caramel mix with flavors of orange, citrus and grapefruit.",
+			"abv" : "",
+			"ibu" : "21",
+			"picture" : "",
+			"bottleDate" : "",
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Push Pop",
+			"style" : "Cream Ale",
+			"description" : "Our Orangesicle Cream Ale brewed with fresh oranges and lactose. It has a smooth creaminess with sweet orange flavors to create a dream come true!",
+			"abv" : "",
+			"ibu" : "19",
+			"picture" : "",
+			"bottleDate" : "",
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
