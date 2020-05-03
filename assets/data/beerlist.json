@@ -85,8 +85,8 @@
 			"ibu" : "20",
 			"picture" : "",
 			"bottleDate" : "04/18/2020",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Easy Peasy Lemon Squeezy",
@@ -107,8 +107,8 @@
 			"ibu" : "61",
 			"picture" : "",
 			"bottleDate" : "04/18/2020",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Raz Ma Taz",
@@ -129,17 +129,17 @@
 			"ibu" : "28",
 			"picture" : "",
 			"bottleDate" : "04/18/2020",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Day Late IPA",
 			"style" : "Belgian IPA",
 			"description" : "This name is derived from the Battle of Guilford Courthouse because the Henry County Militia was a day late to the battle. This IPA is a Belgian Style IPA, also known as a “Farmhouse IPA”. It will have a complex farmhouse taste with a spicy and peppery background mixed in with tropical notes of clean citrus, mango, gooseberries, and stone fruit. You will be a “Day Late” to any event after crushing this IPA.",
-			"abv" : "",
+			"abv" : "7.6",
 			"ibu" : "62",
 			"picture" : "",
-			"bottleDate" : "",
+			"bottleDate" : "05/03/2020",
 			"available" : "no",
 			"comingSoon" : "yes"
 		},
@@ -147,10 +147,10 @@
 			"name" : "Citra Sunrise",
 			"style" : "Blonde Ale",
 			"description" : "This is our Blonde Ale brewed with Citra hops. Hints of honey and caramel mix with flavors of orange, citrus and grapefruit.",
-			"abv" : "",
+			"abv" : "4.9",
 			"ibu" : "21",
 			"picture" : "",
-			"bottleDate" : "",
+			"bottleDate" : "05/02/2020",
 			"available" : "no",
 			"comingSoon" : "yes"
 		},
