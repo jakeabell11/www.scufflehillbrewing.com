@@ -164,6 +164,28 @@
 			"bottleDate" : "",
 			"available" : "no",
 			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Brown's Log Cabin",
+			"style" : "Brown Ale",
+			"description" : "Our brown ale made with fresh wildflower honey! Its refreshing, crisp, and flavorful with tasting notes of sweet malt, honey, chocolate, and nuts with a low bitterness from the hops. “Brown’s Log Cabin” name is derived from the old plug tobacco that Henry County was famous for making.",
+			"abv" : "",
+			"ibu" : "37",
+			"picture" : "",
+			"bottleDate" : "",
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Mango Seltzer Water",
+			"style" : "Seltzer Water",
+			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet mango.",
+			"abv" : "",
+			"ibu" : "",
+			"picture" : "",
+			"bottleDate" : "",
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
