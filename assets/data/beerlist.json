@@ -74,7 +74,7 @@
 			"ibu" : "19",
 			"picture" : "",
 			"bottleDate" : "04/25/2020",
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "yes"
 		},
 		{
@@ -96,7 +96,7 @@
 			"ibu" : "8",
 			"picture" : "",
 			"bottleDate" : "04/26/2020",
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "yes"
 		},
 		{
@@ -107,7 +107,7 @@
 			"ibu" : "61",
 			"picture" : "",
 			"bottleDate" : "04/18/2020",
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -118,7 +118,7 @@
 			"ibu" : "8",
 			"picture" : "",
 			"bottleDate" : "04/26/2020",
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "yes"
 		},
 		{
@@ -180,7 +180,7 @@
 			"name" : "Mango Seltzer Water",
 			"style" : "Seltzer Water",
 			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet mango.",
-			"abv" : "",
+			"abv" : "5.4",
 			"ibu" : "",
 			"picture" : "",
 			"bottleDate" : "",
