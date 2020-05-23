@@ -162,8 +162,8 @@
 			"ibu" : "19",
 			"picture" : "",
 			"bottleDate" : "",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Brown's Log Cabin",
@@ -173,8 +173,8 @@
 			"ibu" : "37",
 			"picture" : "",
 			"bottleDate" : "",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Mango Seltzer Water",
