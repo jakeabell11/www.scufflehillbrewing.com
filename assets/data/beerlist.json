@@ -274,11 +274,11 @@
 			"ibu" : "61",
 			"picture" : "",
 			"bottleDate" : "05/30/2020",
-			"availableDate" : "",
+			"availableDate" : "06/12/2020",
 			"tappedOutDate" : "",
 			"yield" : "10",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		}
 	]
 }
