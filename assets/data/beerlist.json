@@ -180,7 +180,7 @@
 			"tappedOutDate" : "",
 			"yield" : "5",
 			"available" : "yes",
-			"comingSoon" : "yes"
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Citra Sunrise",
@@ -194,7 +194,7 @@
 			"tappedOutDate" : "",
 			"yield" : "5",
 			"available" : "yes",
-			"comingSoon" : "yes"
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Push Pop",
@@ -293,6 +293,20 @@
 			"yield" : "5",
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "1902",
+			"style" : "Kentucky Common",
+			"description" : "This is our take on a historic beer style called a Kentucky Common! The name originates from the year the beer was first created and documented. It originated in Louisville, Kentucky and was brewed from 1902 up until prohibition. It was one of Louisville’s most popular beer styles until prohibition killed it off. Unfortunately, the beer style was never revived after prohibition up until recently with a few craft brewers experimenting with it. The taste is sweet with a bready, biscuit, toffee taste up front with a creamy taste on the backend. Do not let the color fool you, it is very light and easy drinking!",
+			"abv" : "4",
+			"ibu" : "22",
+			"picture" : "",
+			"bottleDate" : "06/25/2020",
+			"availableDate" : "",
+			"tappedOutDate" : "",
+			"yield" : "5",
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
