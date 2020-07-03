@@ -279,6 +279,20 @@
 			"yield" : "10",
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "Palimons Porter",
+			"style" : "Smoked Porter",
+			"description" : "Although this beer is classified as a Smoked Porter, do not let that fool you! This is a S’mores Porter that we created with tasting notes of creamy chocolate, graham crackers, sweetness of marshmallow, and a hint of cinnamon and smoke. This beer mimics a S’mores you made on the campfire! Named after our friends at \"Palimons\", an up and coming outdoor company in our local community of Henry County. Check out their website at www.palimons.com or find them on Instagram or Facebook @palimons.",
+			"abv" : "5.3",
+			"ibu" : "35",
+			"picture" : "",
+			"bottleDate" : "06/20/2020",
+			"availableDate" : "07/01/2020",
+			"tappedOutDate" : "",
+			"yield" : "5",
+			"available" : "yes",
+			"comingSoon" : "no"
 		}
 	]
 }
