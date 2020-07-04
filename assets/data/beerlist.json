@@ -121,10 +121,10 @@
 			"picture" : "",
 			"bottleDate" : "04/26/2020",
 			"availableDate" : "05/09/2020",
-			"tappedOutDate" : "",
+			"tappedOutDate" : "07/03/2020",
 			"yield" : "5",
-			"available" : "yes",
-			"comingSoon" : "yes"
+			"available" : "no",
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Tricorn IPA",
@@ -152,7 +152,7 @@
 			"tappedOutDate" : "",
 			"yield" : "5",
 			"available" : "yes",
-			"comingSoon" : "yes"
+			"comingSoon" : "no"
 		},
 		{
 			"name" : "Field-Ale",
