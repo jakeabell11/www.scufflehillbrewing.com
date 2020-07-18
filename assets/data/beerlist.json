@@ -302,11 +302,25 @@
 			"ibu" : "22",
 			"picture" : "",
 			"bottleDate" : "06/25/2020",
-			"availableDate" : "",
+			"availableDate" : "07/09/2020",
 			"tappedOutDate" : "",
 			"yield" : "5",
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "The Lawnmower",
+			"style" : "American Light",
+			"description" : "This is our take on an American Light Lager fermented as an ale. It’s light-bodied, clean, and refreshing. It’s perfect to quench your thirst while mowing the yard, washing the car, picking the weeds or any other chore that needs to be done.",
+			"abv" : "4.5",
+			"ibu" : "16",
+			"picture" : "",
+			"bottleDate" : "07/17/2020",
+			"availableDate" : "07/17/2020",
+			"tappedOutDate" : "",
+			"yield" : "10",
+			"available" : "yes",
+			"comingSoon" : "no"
 		}
 	]
 }
