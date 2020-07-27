@@ -7,23 +7,23 @@ function makeBrew(jsonObject)
 {
 	var html = "";
 
-	html += "<h2>" + jsonObject.name + "</h2>";
-    if(jsonObject.style != "");
-	   html += "<h3>" + jsonObject.style + "</h3>";
+	html += "<h2>" + jsonObject.gsx$name.$t + "</h2>";
+    if(jsonObject.gsx$style.$t != "");
+	   html += "<h3>" + jsonObject.gsx$style.$t + "</h3>";
 
 	html += "<p>";
 
-    if(jsonObject.abv != "")
-	   html += "ABV " + jsonObject.abv + "%";
+    if(jsonObject.gsx$abv.$t != "")
+	   html += "ABV " + jsonObject.gsx$abv.$t + "%";
 
-    if(jsonObject.abv != "" && jsonObject.ibu != "")
+    if(jsonObject.gsx$abv.$t != "" && jsonObject.gsx$ibu.$t != "")
         html += " - "; 
 
-    if(jsonObject.ibu != "")
-        html += "IBU " + jsonObject.ibu;
+    if(jsonObject.gsx$ibu.$t != "")
+        html += "IBU " + jsonObject.gsx$ibu.$t;
     
 	html += "<br />"
-	html += jsonObject.description + "</p>";
+	html += jsonObject.gsx$description.$t + "</p>";
 
 	return html;
 }
@@ -31,23 +31,23 @@ function makeBrew(jsonObject)
 function makeBrewList()
 {
 	$.ajax({
-        url: 'assets/data/beerlist.json?' + Math.random(),
+        url: 'https://spreadsheets.google.com/feeds/list/1UNMbaiEQi6Im6rcd8ATxnZb3_tm_hq_Vxp-bL6SDGXg/od6/public/values?alt=json&asdfgh=' + Math.random(),
         dataType: 'json',
         type: 'get',
         success: function (data) {
         	var availableNowHTML = "";
         	var comingSoonHTML = ""
 
-        	for(var i = 0; i < data.beer.length; i++)
+        	for(var i = 0; i < data.feed.entry.length; i++)
         	{
-                if(data.beer[i].available == "yes")
+                if(data.feed.entry[i].gsx$oz.$t > 0 || data.feed.entry[i].gsx$oz_2.$t > 0 || data.feed.entry[i].gsx$oz_3.$t > 0 && data.feed.entry[i].gsx$comingsoon.$t == "no")
                 {
-        		  availableNowHTML += makeBrew(data.beer[i]);
-        		  availableNowHTML += "<hr></hr>";
+        		    availableNowHTML += makeBrew(data.feed.entry[i]);
+        		    availableNowHTML += "<hr></hr>";
                 }
-                else if(data.beer[i].comingSoon == "yes")
+                else if (data.feed.entry[i].gsx$comingsoon.$t == "yes")
                 {
-                    comingSoonHTML += makeBrew(data.beer[i]);
+                    comingSoonHTML += makeBrew(data.feed.entry[i]);
                     comingSoonHTML += "<hr></hr>";
                 }
         	}
