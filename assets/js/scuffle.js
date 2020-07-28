@@ -31,7 +31,7 @@ function makeBrew(jsonObject)
 function makeBrewList()
 {
 	$.ajax({
-        url: 'https://spreadsheets.google.com/feeds/list/1UNMbaiEQi6Im6rcd8ATxnZb3_tm_hq_Vxp-bL6SDGXg/od6/public/values?alt=json&asdfgh=' + Math.random(),
+        url: 'https://spreadsheets.google.com/feeds/list/1UNMbaiEQi6Im6rcd8ATxnZb3_tm_hq_Vxp-bL6SDGXg/2/public/values?alt=json&asdfgh=' + Math.random(),
         dataType: 'json',
         type: 'get',
         success: function (data) {
@@ -40,12 +40,13 @@ function makeBrewList()
 
         	for(var i = 0; i < data.feed.entry.length; i++)
         	{
-                if(data.feed.entry[i].gsx$oz.$t > 0 || data.feed.entry[i].gsx$oz_2.$t > 0 || data.feed.entry[i].gsx$oz_3.$t > 0 && data.feed.entry[i].gsx$comingsoon.$t == "no")
+                if(data.feed.entry[i].gsx$available.$t == "true")
                 {
         		    availableNowHTML += makeBrew(data.feed.entry[i]);
         		    availableNowHTML += "<hr></hr>";
                 }
-                else if (data.feed.entry[i].gsx$comingsoon.$t == "yes")
+                
+                if (data.feed.entry[i].gsx$comingsoon.$t == "true")
                 {
                     comingSoonHTML += makeBrew(data.feed.entry[i]);
                     comingSoonHTML += "<hr></hr>";
