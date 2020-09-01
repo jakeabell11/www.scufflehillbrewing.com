@@ -261,9 +261,10 @@ function getOrderDetails()
 function makeProductOptionHTML(selectID, optionTitle, options, shipping)
 {
     var html = "";
+    var optionsHTML = "";
     var onclick = "showPurchaseButton()";
     html += optionTitle + ":";
-    html += "<select id='" + selectID + "' onchange='updateSelectedOptions()' onblur='updateSelectedOptions()'>";
+    html += "<select id='" + selectID + "' onchange='updateSelectedOptions(); showPurchaseButton(); adjustShipping()'>";
     html += "<option selected='true' disabled='disabled' value='--Select--'>--Select--</option>";
     for(var i = 0; i < options.length; i++)
     {
@@ -275,8 +276,11 @@ function makeProductOptionHTML(selectID, optionTitle, options, shipping)
                 onclick = "adjustShipping(" + 0 + ")";
         }
 
-        html += "<option onclick='" + onclick + "' value='" + options[i] + "'>" + options[i] + "</option>";
+        optionsHTML += "<option onclick='" + onclick + "' value='" + options[i] + "'>" + options[i] + "</option>";
     }
+
+
+    html += optionsHTML;
     html += "</select>";
 
     merchSelects.push(selectID);
@@ -284,9 +288,12 @@ function makeProductOptionHTML(selectID, optionTitle, options, shipping)
     return html;
 }
 
-function adjustShipping(shipping)
+function adjustShipping()
 {
-    shippingPrice = shipping;
+    if(document.getElementById("select3").value == "Shipped")
+        shippingPrice = 8;
+    else
+        shippingPrice = 0
     adjustPrice();
 }
 
