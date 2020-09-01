@@ -263,7 +263,7 @@ function makeProductOptionHTML(selectID, optionTitle, options, shipping)
     var html = "";
     var onclick = "showPurchaseButton()";
     html += optionTitle + ":";
-    html += "<select id='" + selectID + "' onchange='updateSelectedOptions()'>";
+    html += "<select id='" + selectID + "' onchange='updateSelectedOptions()' onblur='updateSelectedOptions()'>";
     html += "<option selected='true' disabled='disabled' value='--Select--'>--Select--</option>";
     for(var i = 0; i < options.length; i++)
     {
@@ -497,6 +497,7 @@ function showSlides(n) {
   for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
   }
+
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 } 
