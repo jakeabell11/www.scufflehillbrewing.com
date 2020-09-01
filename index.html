@@ -39,6 +39,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="Description" content="Coming soon, Martinsville, Virginia's first craft beer brewery." />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<script src="https://www.paypal.com/sdk/js?client-id=AUDetHS_nCsw_LgVG5sp6d_I5GC7-g-2f69evfAw-OE7zvkFPaECyPKhFgw3tNkN5iR66Q-wFJe5wzz4&currency=USD" data-sdk-integration-source="button-factory"></script>
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -63,6 +64,7 @@
 							<ul>
 								<li><a href="#brews">Brews</a></li>
 								<li><a href="#support">Support</a></li>
+								<li><a href="#store">Store</a></li>
 								<li><a href="#about">About</a></li>
 								<li><a href="#contact">Contact</a></li>
 							</ul>
@@ -85,6 +87,12 @@
 								<p id="support_description"></p>
 							</article>
 
+						<!-- Store -->
+							<article id="store">
+								<h1 class="store">Store</h1>
+								<p id="store_description"></p>
+							</article>
+
 						<!-- About -->
 							<article id="about">
 								<h1 class="major">About</h1>
@@ -99,6 +107,18 @@
 									<li><a href="https://www.facebook.com/ScuffleHill/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 									<li><a href="https://www.instagram.com/scufflehillbrewing/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 								</ul>
+							</article>
+
+						<!-- ProductPage -->
+							<article id="productPage">
+								<h1 id="activeProduct" class="major"></h1>
+								<p id="activeProductDescription"><div style='display: none;' id='paypal-button-container'></div></p>
+							</article>
+
+						<!-- Thanks -->
+							<article id="thanks">
+								<h1 id="thanksHeader" class="major"></h1>
+								<p id="thanksBody"></p>
 							</article>
 					</div>
 
