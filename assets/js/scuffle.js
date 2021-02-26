@@ -311,7 +311,7 @@ function adjustPrice()
 
 function getTaxPrice(price)
 {
-    taxPrice = (price * .053);
+    taxPrice = (price * .063);
     return taxPrice.toFixed(2);
 }
 
