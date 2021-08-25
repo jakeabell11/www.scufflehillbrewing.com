@@ -34,8 +34,8 @@
 			"name" : "Dick & Willie",
 			"style" : "Oatmeal Stout",
 			"description" : "Named after the famous Railroad that ran through Henry County now turned into the famous walking trail. Tasting notes of dark chocolate, coffee, oatmeal, and a hint of maple syrup. This is an easy drinking dark beer.",
-			"abv" : "",
-			"ibu" : "18",
+			"abv" : "5.1",
+			"ibu" : "19",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.50",
@@ -109,7 +109,7 @@
 			"name" : "Pineapple Seltzer Water",
 			"style" : "Seltzer Water",
 			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet pineapple.",
-			"abv" : "",
+			"abv" : "4.1",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
