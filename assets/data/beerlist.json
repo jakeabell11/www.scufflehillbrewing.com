@@ -19,7 +19,7 @@
 			"name" : "1902",
 			"style" : "Kentucky Common",
 			"description" : "This is our take on a historic beer style called a Kentucky Common! The name originates from the year the beer was first created and documented. It originated in Louisville, Kentucky and was brewed from 1902 up until prohibition. It was one of Louisville’s most popular beer styles until prohibition killed it off. Unfortunately, the beer style was never revived after prohibition up until recently with a few craft brewers experimenting with it. The taste is sweet with a bready, biscuit, toffee taste up front with a creamy taste on the backend. Do not let the color fool you, it is very light and easy drinking!",
-			"abv" : "",
+			"abv" : "4",
 			"ibu" : "22",
 			"picture" : "",
 			"tap_room":{
@@ -49,7 +49,7 @@
 			"name" : "Tricorn",
 			"style" : "American IPA",
 			"description" : "Named after the hat worn by revolutionary war soldiers and officers, this IPA has a blend of three hops: Galaxy, Amarillo, and Citra. This was made for our hop heads! Tasting notes should include passionfruit, grapefruit, lime, and clean citrus brought on from this blend of hops. Hints of caramel and malt may be tasted. General Joseph Martin possibly could have been wearing this hat when he claimed “Scuffle Hill” as his land.",
-			"abv" : "",
+			"abv" : "6.7",
 			"ibu" : "61",
 			"picture" : "",
 			"tap_room":{
@@ -64,7 +64,7 @@
 			"name" : "The Big Chair",
 			"style" : "Blonde Ale",
 			"description" : "This is our flagship Blonde Ale, hopped with El Dorado and Huell melon giving it a sweet taste with hints of melon. The name “Big Chair” comes from the worlds largest chair that was manufactured by Bassett Furniture and used to be displayed in Uptown Martinsville.",
-			"abv" : "",
+			"abv" : "5",
 			"ibu" : "25",
 			"picture" : "",
 			"tap_room":{
@@ -94,7 +94,7 @@
 			"name" : "A Lighter Shade of Pale",
 			"style" : "Hazy Pale Ale",
 			"description" : "A single hopped Hazy Pale Ale, made with Vic Secret hops. It has a sweet taste with hints of mango, citrus, and pineapple accompanied by a slight hoppy bitterness.",
-			"abv" : "",
+			"abv" : "5",
 			"ibu" : "54",
 			"picture" : "",
 			"tap_room":{
