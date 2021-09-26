@@ -57,7 +57,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -119,6 +119,22 @@
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+                {
+			"name" : "Fall Beer Sucks",
+			"style" : "American IPA",
+			"description" : "Dry hopped w/ Ahtanum, Amarillo, Mosaic, and East Kent Goldings! Brewed for the people that are already tired of pumpkin beers, this IPA is 7.0% and 70 IBUs with a malty caramel backbone accompanied by tasting notes of citrus, orange peel, grapefruit, and floral hoppiness!",
+			"abv" : "7",
+			"ibu" : "70",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
 		}
+
 	]
 }
