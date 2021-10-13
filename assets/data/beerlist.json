@@ -102,7 +102,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -126,6 +126,21 @@
 			"description" : "Dry hopped w/ Ahtanum, Amarillo, Mosaic, and East Kent Goldings! Brewed for the people that are already tired of pumpkin beers, this IPA is 7.0% and 70 IBUs with a malty caramel backbone accompanied by tasting notes of citrus, orange peel, grapefruit, and floral hoppiness!",
 			"abv" : "7",
 			"ibu" : "70",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+                {
+			"name" : "Grandaddy's Apple Pie",
+			"style" : "Spiced Apple Ale",
+			"description" : "A spiced Apple Ale brewed with cinnamon, nutmeg, fresh gala apples, apple cider, and Madagascar vanilla bean! Clocks in with a 7.5% ABV and 16 IBUs. It’s like apple pie in a glass!",
+			"abv" : "7.5",
+			"ibu" : "16",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.50",
