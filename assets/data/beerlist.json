@@ -27,7 +27,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -132,7 +132,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -149,7 +149,36 @@
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+                {
+			"name" : "Campfires & Canteens",
+			"style" : "Smoked Rauchbier",
+			"description" : "A German Rauchbier with a malty, toasty richness with a smoky taste that almost resembles flavors of bacon, just like you’d find in Germany.",
+			"abv" : "5.5",
+			"ibu" : "25",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+                {
+			"name" : "Darkwater Project",
+			"style" : "Black IPA",
+			"description" : "Full of citrusy and resinous aroma and flavors accompanied by a smooth aftertaste of Chocolate! Dry hopped w/ cascade and nugget!",
+			"abv" : "6.2",
+			"ibu" : "63",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
 		}
-
 	]
 }
