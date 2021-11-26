@@ -117,7 +117,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -147,7 +147,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -162,7 +162,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -171,6 +171,66 @@
 			"description" : "Full of citrusy and resinous aroma and flavors accompanied by a smooth aftertaste of Chocolate! Dry hopped w/ cascade and nugget!",
 			"abv" : "6.2",
 			"ibu" : "63",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "no",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Deshazo’s Silo",
+			"style" : "ESB",
+			"description" : "This is our take on an English Special Bitter. Don’t let the word bitter scare you, it brings sweet flavors of caramel and dark fruits accompanied by a very slight earthy bitter. Named after the “Deshazo’s Silo” found on the Dick & Willie trail. It was used as an incinerator for the G.M. Finley’s sawmill in the early 1900s.",
+			"abv" : "5.6",
+			"ibu" : "32",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Hoppin' Haze",
+			"style" : "Hazy Pale Ale",
+			"description" : "Dry hopped with Centennial, Amarillo, and Simcoe. A sessionable hazy pale ale with tasting notes and aroma of light citrus, dank, earthy, and hoppy! Named after Hayes Panill who used to be a freight car hopper in Henry County!",
+			"abv" : "4.9",
+			"ibu" : "62",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Country Inn",
+			"style" : "English Dark Mild",
+			"description" : "Named after the old “Country Inn” motel in Oak Level, this beer provides tasting notes of sweet chocolate, caramel, and dark fruit flavors.",
+			"abv" : "4.5",
+			"ibu" : "28",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Strawberry Seltzer Water",
+			"style" : "English Dark Mild",
+			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet strawberry. Made with real strawberry puree!",
+			"abv" : "4.1",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.50",
