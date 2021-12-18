@@ -207,7 +207,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -239,6 +239,36 @@
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "Scuffling Up Hops",
+			"style" : "New England IPA",
+			"description" : "Brewed and Dry hopped with all New Zealand hops! The flavors of Wai-iti, Motueka, Riwaka, and Wakatu bring powerful tropical notes of mango, stone fruit, tangerine, lime, and melon! The best way to describe it is a fruit salad of IPAs.",
+			"abv" : "7.2",
+			"ibu" : "35",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "The Big Chair w/Coffee",
+			"style" : "Blonde Ale",
+			"description" : "We took our “The Big Chair” Blonde Ale base and threw in some coffee given to us from our friends at “The Ground Floor” to give us a blonde ale with a nice light coffee flavor! This one is for our coffee lovers!",
+			"abv" : "5",
+			"ibu" : "25",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
