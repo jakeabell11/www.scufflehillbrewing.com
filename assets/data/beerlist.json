@@ -237,8 +237,8 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available" : "no",
+			"comingSoon" : "yes"
 		},
 		{
 			"name" : "Scuffling Up Hops",
@@ -269,6 +269,36 @@
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "Margarita Seltzer Water",
+			"style" : "Seltzer Water",
+			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of a nice green margarita!",
+			"abv" : "4.1",
+			"ibu" : "",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Orange Pomegranate Wheat",
+			"style" : "Wheat Beer",
+			"description" : "A nice refreshing wheat beer made with fresh orange and pomegranate!",
+			"abv" : "5.6",
+			"ibu" : "14",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
