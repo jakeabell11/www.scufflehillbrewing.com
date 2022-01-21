@@ -42,7 +42,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -252,7 +252,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -296,6 +296,35 @@
 				"4oz" : "$2.50",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Evergreen IPA",
+			"style" : "American IPA",
+			"description" : "Brewed and Dry hopped with CTZ, Chinook, Simcoe, Nugget and Evergreen hops! This IPA brings a nice juicy orange citrus flavor upfront with a smooth spicy, herbal, and piney bitter on the back end.",
+			"abv" : "6.2",
+			"ibu" : "65",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "0 Dark 30",
+			"style" : "Imperial Chocolate Stout",
+			"description" : "Dark as the night when you wake up to PT at “0 Dark 30”, this imperial chocolate stout just tastes like smooth, dark chocolatey goodness. It’s full of body and was brewed with cocoa cereal, cocoa nibs, and cocoa powder.",
+			"abv" : "12",
+			"ibu" : "76",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$3.50",
+				"10oz" : "$6.00"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
