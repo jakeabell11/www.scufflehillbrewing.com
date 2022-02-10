@@ -328,6 +328,36 @@
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "Dam Sour w/ Cherry",
+			"style" : "Berliner Weisse",
+			"description" : "A sour ale brewed with fresh Tart Cherry and Black Cherry bringing a nice tart cherry sour! Named after the Philpott Dam!",
+			"abv" : "4.9",
+			"ibu" : "6",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Fog Of War",
+			"style" : "Smoked Rye IPA",
+			"description" : "Named after the term Fog of War, which is used to describe anything that disorients you in combat! This IPA brings nice flavors of cherrywood smoke, spicy rye, and a earthy, herbal bitterness and aroma from the chinook and warrior hops!",
+			"abv" : "6.7",
+			"ibu" : "69",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
