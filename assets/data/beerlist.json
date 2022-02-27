@@ -267,7 +267,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -350,6 +350,21 @@
 			"description" : "Named after the term Fog of War, which is used to describe anything that disorients you in combat! This IPA brings nice flavors of cherrywood smoke, spicy rye, and a earthy, herbal bitterness and aroma from the chinook and warrior hops!",
 			"abv" : "6.7",
 			"ibu" : "69",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Pröst",
+			"style" : "Hefeweizen",
+			"description" : "Meaning Cheers in German, is our German Hefeweizen with an American twist! Bringing mellow flavors of banana and clove traditional to a Hefeweizen, with a slight citrusy orange flavor coming from the small dry hop of Cascade and Amarillo we added!",
+			"abv" : "4.2",
+			"ibu" : "11",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.50",
