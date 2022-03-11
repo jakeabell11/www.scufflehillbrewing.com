@@ -57,7 +57,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -117,7 +117,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
                 {
@@ -282,7 +282,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -373,6 +373,51 @@
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "Type I",
+			"style" : "Coffee Porter",
+			"description" : "A nice full-bodied porter with tasting notes of roasty black coffee containing hints of chocolate. This Porter features a Dark Roast of Coffee from our friends at “The Ground Floor” in Uptown Martinsville!",
+			"abv" : "7",
+			"ibu" : "35",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Neely's Red",
+			"style" : "Irish Red Ale",
+			"description" : "Our take on a traditional Irish Red Ale bringing a toasty, malty backbone with a slight earthy bitterness. It also has a nice amber, red color!",
+			"abv" : "4.3",
+			"ibu" : "19",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "no",
+			"comingSoon" : "yes"
+		},
+		{
+			"name" : "Field-Ale",
+			"style" : "Cherry Dry Hopped Saison",
+			"description" : "A Belgian Saison named after the local community of Fieldale! Bringing traditional Belgian flavors of banana and clove accompanied by the fresh black and tart cherry additions. The dry hop of Idaho Gem and experimental hop HBC 630 accentuate those flavors more by providing more hoppy cherry flavors!",
+			"abv" : "6.3",
+			"ibu" : "24",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
