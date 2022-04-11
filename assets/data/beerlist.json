@@ -27,7 +27,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -43,7 +43,7 @@
 				"16oz" : "$6.00"
 			},
 			"available" : "no",
-			"comingSoon" : "no"
+			"comingSoon" : "yes"
 		},
 		{
 			"name" : "Tricorn",
@@ -356,7 +356,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -371,7 +371,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -433,6 +433,36 @@
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
+		},
+		{
+			"name" : "Galaxy Smash",
+			"style" : "Pale Ale",
+			"description" : "This pale ale was made solely with only one grain and one hop. Dry hopped and brewed with galaxy hops to bring out a passionfruit, citrus, and peach aroma and flavor with a slight piney bitterness.",
+			"abv" : "6",
+			"ibu" : "42",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Killen's DIPA",
+			"style" : "Double IPA",
+			"description" : "This is a homebrewer spotlight showcasing local homebrewer, Braydon Killen’s, Double IPA recipe. This DIPA brings an assertive grapefruit zest bitterness supported by the malty caramel backbone, and finishes with a floral & earthy hop note, accompanied by a grapefruit, citrus, and pine aroma! ",
+			"abv" : "8",
+			"ibu" : "976",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.50",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "no",
+			"comingSoon" : "yes"
 		}
 	]
 }
