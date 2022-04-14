@@ -34,7 +34,7 @@
 			"name" : "Dick & Willie",
 			"style" : "Oatmeal Stout",
 			"description" : "Named after the famous Railroad that ran through Henry County now turned into the famous walking trail. Tasting notes of dark chocolate, coffee, oatmeal, and a hint of maple syrup. This is an easy drinking dark beer.",
-			"abv" : "5.1",
+			"abv" : "6.7",
 			"ibu" : "19",
 			"picture" : "",
 			"tap_room":{
@@ -57,7 +57,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -326,7 +326,7 @@
 				"4oz" : "$3.50",
 				"10oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
