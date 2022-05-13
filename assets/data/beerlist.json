@@ -244,15 +244,15 @@
 			"name" : "Scuffling Up Hops",
 			"style" : "New England IPA",
 			"description" : "Brewed and Dry hopped with all New Zealand hops! The flavors of Wai-iti, Motueka, Riwaka, and Wakatu bring powerful tropical notes of mango, stone fruit, tangerine, lime, and melon! The best way to describe it is a fruit salad of IPAs.",
-			"abv" : "7.2",
-			"ibu" : "35",
+			"abv" : "7",
+			"ibu" : "33",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -477,6 +477,21 @@
 				"16oz" : "$6.00"
 			},
 			"available" : "no",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Dam Sour w/ Cherry",
+			"style" : "Sour Ale",
+			"description" : "A Sour Ale brewed with fresh tart cherry and black cherry, bringing a nice sour cherry flavor!",
+			"abv" : "4.9",
+			"ibu" : "14",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.00",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
 			"comingSoon" : "no"
 		}
 	]
