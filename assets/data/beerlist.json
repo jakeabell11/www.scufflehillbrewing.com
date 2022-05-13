@@ -461,12 +461,12 @@
 				"8oz" : "$4.25",
 				"16oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
 			"name" : "Double Berry Wheat",
-			"style" : "Wheat Ale,
+			"style" : "Wheat Ale",
 			"description" : "A Wheat Ale brewed with fresh blackberry and raspberry puree, bringing a nice fruity berry flavor!",
 			"abv" : "5.5",
 			"ibu" : "14",
@@ -476,7 +476,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		}
 	]
