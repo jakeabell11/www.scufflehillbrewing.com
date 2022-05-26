@@ -117,7 +117,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -401,7 +401,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -485,6 +485,51 @@
 			"description" : "A Sour Ale brewed with fresh tart cherry and black cherry, bringing a nice sour cherry flavor!",
 			"abv" : "4.9",
 			"ibu" : "14",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.00",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "The Big Chair w/ Strawberry",
+			"style" : "Blonde Ale",
+			"description" : "Our Flagship Blonde Ale “The Big Chair” bringing all the flavors from the original plus some nice fresh strawberry flavors! Made with fresh strawberry puree!",
+			"abv" : "5",
+			"ibu" : "25",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.00",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Legend of Bernard",
+			"style" : "Piwo Grodziskie",
+			"description" : "A historic beer from Poland made with 100% oak smoked wheat! Bringing slight oaky, smoky flavors accompanied by a nice wheat body! ",
+			"abv" : "4",
+			"ibu" : "22",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.00",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
+		},
+		{
+			"name" : "Tom Collins Seltzer",
+			"style" : "Seltzer Water",
+			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet, tangy lemon, orange, and grapefruit! All the tastiness of a Tom Collins mixed drink, just without the Gin! ",
+			"abv" : "4.1",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
