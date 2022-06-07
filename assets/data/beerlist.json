@@ -375,18 +375,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Type I",
-			"style" : "Coffee Porter",
-			"description" : "A nice full-bodied porter with tasting notes of roasty black coffee containing hints of chocolate. This Porter features a Dark Roast of Coffee from our friends at “The Ground Floor” in Uptown Martinsville!",
-			"abv" : "7",
-			"ibu" : "35",
+			"name" : "Piers Plowman",
+			"style" : "Milkshake Brown Ale",
+			"description" : "A light bodied Milkshake Brown Ale, bringing nutty, milk chocolate flavors upfront with a nice creamy chocolate and vanilla finish, resembling chocolate ice cream. Made with fresh Cocoa Powder, Madagascar Vanilla Bean, and Milk Sugar. *CONTAINS LACTOSE* “Ne noon halfpenny ale in none wise drynke, But of the beste and of the brunneste that brewesteres selle” – Piers Plowman “Best and brownest” could be taken to indicate that the browner the beer the better, and thus more popular.",
+			"abv" : "5.3",
+			"ibu" : "27",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
