@@ -10,7 +10,9 @@
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"16oz" : "$6.00",
+				"16oz Can" : "$6.00",
+				"16oz 4 Pack" : "$11"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
