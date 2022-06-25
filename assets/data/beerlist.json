@@ -508,7 +508,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -555,6 +555,20 @@
 			},
 			"available" : "no",
 			"comingSoon" : "no"
-		}
+		},
+		{
+			"name" : "The Big Chair w/ Cantaloupe",
+			"style" : "Blonde Ale",
+			"description" : "Our Flagship Blonde Ale “The Big Chair” bringing all the flavors from the original plus some nice fresh cantaloupe flavors! Made with almost 50lbs of fresh cantaloupe!",
+			"abv" : "5",
+			"ibu" : "25",
+			"picture" : "",
+			"tap_room":{
+				"4oz" : "$2.00",
+				"8oz" : "$4.00",
+				"16oz" : "$6.00"
+			},
+			"available" : "yes",
+			"comingSoon" : "no"
 	]
 }
