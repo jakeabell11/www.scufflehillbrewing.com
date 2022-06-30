@@ -254,7 +254,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -437,11 +437,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Galaxy Smash",
+			"name" : "El Dorado Smash",
 			"style" : "Pale Ale",
-			"description" : "This pale ale was made solely with only one grain and one hop. Dry hopped and brewed with galaxy hops to bring out a passionfruit, citrus, and peach aroma and flavor with a slight piney bitterness.",
+			"description" : "This version of our SMASH series of Pale Ales features the El Dorado Hop. This pale ale was made solely with one grain and El Dorado hops bringing danky flavors of tropical fruits, pear, melon, and stone fruit.",
 			"abv" : "6",
-			"ibu" : "42",
+			"ibu" : "45",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
