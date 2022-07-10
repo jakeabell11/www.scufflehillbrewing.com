@@ -423,17 +423,17 @@
 		},
 		{
 			"name" : "Dam Sour w/ Mango",
-			"style" : "Mango Ale",
-			"description" : "A sour ale brewed with loads of fresh mango puree bringing a nice fruity mango flavor! More of a fruity mango ale then a sour this time around!  Named after the Philpott Dam!",
+			"style" : "Sour Ale",
+			"description" : "A sour ale brewed with loads of fresh mango puree bringing a nice sour mango flavor! Named after the Philpott Dam!",
 			"abv" : "4.4",
-			"ibu" : "8",
+			"ibu" : "6",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -493,7 +493,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
