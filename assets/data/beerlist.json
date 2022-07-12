@@ -29,7 +29,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -542,18 +542,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Easy Peasy",
-			"style" : "Seltzer Water",
-			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet, tangy lemon, orange, and grapefruit! All the tastiness of a Tom Collins mixed drink, just without the Gin! ",
-			"abv" : "4.1",
-			"ibu" : "",
+			"name" : "Easy Peasy Lemon Squeezy",
+			"style" : "Lemonade Wheat Ale",
+			"description" : "Our Lemonade Wheat Ale made from fresh homemade lemonade! Bringing nice tart lemon flavors and a little hint of wheat!",
+			"abv" : "6",
+			"ibu" : "13",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
