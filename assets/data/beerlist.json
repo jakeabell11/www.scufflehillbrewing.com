@@ -557,11 +557,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "The Big Chair w/ Cantaloupe",
-			"style" : "Blonde Ale",
-			"description" : "Our Flagship Blonde Ale “The Big Chair” bringing all the flavors from the original plus some nice fresh cantaloupe flavors! Made with almost 50lbs of fresh cantaloupe!",
-			"abv" : "5",
-			"ibu" : "25",
+			"name" : "Sunny with a Chance of Watermelon",
+			"style" : "Watermelon Ale",
+			"description" : "Our Watermelon ale made with tons of fresh watermelon puree! Bringing forth a nice sweet and tart watermelon ale!",
+			"abv" : "4.2",
+			"ibu" : "6",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
