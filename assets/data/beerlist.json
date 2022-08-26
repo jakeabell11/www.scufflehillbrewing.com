@@ -557,16 +557,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Sunny with a Chance of Watermelon",
-			"style" : "Watermelon Ale",
-			"description" : "Our Watermelon ale made with tons of fresh watermelon puree! Bringing forth a nice sweet and tart watermelon ale!",
-			"abv" : "4.2",
-			"ibu" : "6",
+			"name" : "Trainwreck Tripel Threat",
+			"style" : "Belgian Tripel",
+			"description" : "A Belgian Tripel bringing nice belgiany banana flavors with a hint of clove. Brewed in collaboration with Trainwreck Homebrewers Guild and two local breweries! $1 per pint sold will be donated to Giving Back LLC, a local non profit who uses funds to benefit local veterans and first responders with mental help and many other benefits!",
+			"abv" : "9.5",
+			"ibu" : "23",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"4oz" : "$2.50",
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
