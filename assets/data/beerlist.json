@@ -542,11 +542,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Easy Peasy Lemon Squeezy",
-			"style" : "Lemonade Wheat Ale",
-			"description" : "Our Lemonade Wheat Ale made from fresh homemade lemonade! Bringing nice tart lemon flavors and a little hint of wheat!",
+			"name" : "Oktoberfest",
+			"style" : "Oktoberfest Marzen",
+			"description" : "Our take on a tradional German Oktoberfest! Boasting good flavors of German Malts accompanied by some toasty and biscuity notes along with some sweet aromas of caramel and toasted bread!",
 			"abv" : "6",
-			"ibu" : "13",
+			"ibu" : "20",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
