@@ -422,11 +422,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Dam Sour w/ Mango",
-			"style" : "Sour Ale",
-			"description" : "A sour ale brewed with loads of fresh mango puree bringing a nice sour mango flavor! Named after the Philpott Dam!",
-			"abv" : "4.4",
-			"ibu" : "6",
+			"name" : "Cucumber Mint Gose",
+			"style" : "Fruited Gose",
+			"description" : "A Gose brewed with fresh cucumber, mint, and sea salt to bring a nice refreshing and sour puckering taste! Bringing good flavors of cucumber with hints of mint by the nice salty/sour flavors of a traditional Gose!",
+			"abv" : "4.7",
+			"ibu" : "8",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
