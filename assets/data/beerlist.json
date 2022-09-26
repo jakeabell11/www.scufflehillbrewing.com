@@ -377,16 +377,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Piers Plowman",
-			"style" : "Milkshake Brown Ale",
-			"description" : "A light bodied Milkshake Brown Ale, bringing nutty, milk chocolate flavors upfront with a nice creamy chocolate and vanilla finish, resembling chocolate ice cream. Made with fresh Cocoa Powder, Madagascar Vanilla Bean, and Milk Sugar. *CONTAINS LACTOSE* “Ne noon halfpenny ale in none wise drynke, But of the beste and of the brunneste that brewesteres selle” – Piers Plowman “Best and brownest” could be taken to indicate that the browner the beer the better, and thus more popular.",
-			"abv" : "5.3",
-			"ibu" : "27",
+			"name" : "Graceland Special",
+			"style" : "Imperial Peanut Butter Banana Stout",
+			"description" : "An Imperial Peanut Butter Banana Stout bringing forth robust, roasty stout flavors with a smooth peanut butter banana sweetness. Full bodied and frothy! Paying homage to Elvis's favorite snack! CONTAINS LACTOSE.",
+			"abv" : "1o",
+			"ibu" : "50",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"4oz" : "$3.00",
+				"8oz" : "$0.00",
+				"10oz" : "$6.00"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
