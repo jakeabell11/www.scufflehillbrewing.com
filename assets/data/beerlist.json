@@ -145,11 +145,11 @@
 			"ibu" : "16",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"4oz" : "$2.50",
+				"8oz" : "$4.50",
+				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
                 {
@@ -523,7 +523,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
