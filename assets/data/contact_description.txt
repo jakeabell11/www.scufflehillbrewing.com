@@ -13,11 +13,11 @@ Tuesday: CLOSED
 <br />
 Wednesday: 5:00 PM - 9:00 PM
 <br />
-Thursday: 5:00 PM - 9:00 PM
+Thursday: 5:00 PM - 10:00 PM
 <br />
-Friday: 4:30 PM - 10:30 PM
+Friday: 5:00 PM - 11:00 PM
 <br />
-Saturday: 2:00 PM - 10:30 PM
+Saturday: 2:00 PM - 11:00 PM
 <br />
 Sunday: 2:00 PM - 7:00 PM
 <br />
