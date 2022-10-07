@@ -241,16 +241,16 @@
 		{
 			"name" : "Scuffling Up Hops",
 			"style" : "New England IPA",
-			"description" : "This version of our NEIPA Series is brewed and dry hopped with Citra, Citra Cryo, and Azacca Hops to bring fruity hoppy flavors and aroma of intense citrus, grapefruit, orange, melon, lemon and lime! ",
-			"abv" : "7",
-			"ibu" : "33",
+			"description" : "This version of our NEIPA Series is brewed and dry hopped with Sabro and Idaho Gem Hops to bring herbal/dank flavors and aroma of cherry, tangerine, stonefruit,and pineapple! ",
+			"abv" : "7.2",
+			"ibu" : "45",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -444,7 +444,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
