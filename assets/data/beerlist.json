@@ -538,10 +538,10 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Oktoberfest",
-			"style" : "Oktoberfest Marzen",
-			"description" : "Our take on a tradional German Oktoberfest! Boasting good flavors of German Malts accompanied by some toasty and biscuity notes along with some sweet aromas of caramel and toasted bread!",
-			"abv" : "6",
+			"name" : "Omnicron",
+			"style" : "Negra Cerveza",
+			"description" : "Our Dark Mexican Cerveza boasting flavors and aromas of toasted bread, caramel, with a slightly floral bitterness! The taste is just as infectious as the name, pairs great with a lime!",
+			"abv" : "5",
 			"ibu" : "20",
 			"picture" : "",
 			"tap_room":{
