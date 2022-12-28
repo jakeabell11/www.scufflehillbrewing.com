@@ -115,7 +115,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -299,18 +299,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Evergreen IPA",
+			"name" : "1.75, My GF's Untapped Rating",
 			"style" : "American IPA",
-			"description" : "Brewed and Dry hopped with CTZ, Chinook, Simcoe, Nugget and Evergreen hops! This IPA brings a nice juicy orange citrus flavor upfront with a smooth spicy, herbal, and piney bitter on the back end.",
-			"abv" : "6.2",
-			"ibu" : "65",
+			"description" : "Our owner Jake's girlfriend Allyson thinks all IPAs smell and taste like grapefruit, subsequently she rates them all 1.75 on Untapped, which is a poor rating on the beer rating app. So we made a Blood Orange IPA brewed with fresh Blood Orange, with the use of Falconer's Flight and Amarillo hops! This IPA boasts flavors and aromas of juicy Blood Orange, Grapefruit, and Grapefruit Peel, which makes the name quite fitting!",
+			"abv" : "6.8",
+			"ibu" : "60",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
