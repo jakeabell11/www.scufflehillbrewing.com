@@ -300,7 +300,7 @@
 		},
 		{
 			"name" : "1.75, My GF's Untapped Rating",
-			"style" : "American IPA",
+			"style" : "Blood Orange IPA",
 			"description" : "Our owner Jake's girlfriend Allyson thinks all IPAs smell and taste like grapefruit, subsequently she rates them all 1.75 on Untapped, which is a poor rating on the beer rating app. So we made a Blood Orange IPA brewed with fresh Blood Orange, with the use of Falconer's Flight and Amarillo hops! This IPA boasts flavors and aromas of juicy Blood Orange, Grapefruit, and Grapefruit Peel, which makes the name quite fitting!",
 			"abv" : "6.8",
 			"ibu" : "60",
@@ -418,9 +418,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Cucumber Mint Gose",
+			"name" : "P.O.G. Gose",
 			"style" : "Fruited Gose",
-			"description" : "A Gose brewed with fresh cucumber, mint, and sea salt to bring a nice refreshing and sour puckering taste! Bringing good flavors of cucumber with hints of mint by the nice salty/sour flavors of a traditional Gose!",
+			"description" : "A Gose brewed with fresh passion fruit, orange, guava and sea salt to bring nice refreshing flavors of all the fruit accompanied by the salty/sour flavors of a traditional Gose!",
 			"abv" : "4.7",
 			"ibu" : "8",
 			"picture" : "",
@@ -463,18 +463,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Double Berry Wheat",
-			"style" : "Wheat Ale",
-			"description" : "A Wheat Ale brewed with fresh blackberry and raspberry puree, bringing a nice fruity berry flavor!",
-			"abv" : "5.5",
-			"ibu" : "14",
+			"name" : "Spruce Tip Ale",
+			"style" : "Spruce Pale Ale",
+			"description" : "A Pale Ale brewed with fresh Spruce Tips from the Rocky Mountains! Bringing tasting notes of fresh spruce and pine accompanied by hints of melon!",
+			"abv" : "6",
+			"ibu" : "25",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
