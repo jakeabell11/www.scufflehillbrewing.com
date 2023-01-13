@@ -224,9 +224,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Strawberry Seltzer Water",
+			"name" : "Fruit Punch Seltzer Water",
 			"style" : "Seltzer Water",
-			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet strawberry. Made with real strawberry puree!",
+			"description" : "Crisp, bubbly and refreshing hard seltzer water made with peach, passionfruit, orange, and strawberry! Bringing sweet fruity flavors resembling your favorite fruit punch drinks!",
 			"abv" : "4.1",
 			"ibu" : "",
 			"picture" : "",
@@ -235,7 +235,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -280,7 +280,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -369,7 +369,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
