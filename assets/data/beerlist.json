@@ -324,7 +324,7 @@
 				"4oz" : "$3.50",
 				"10oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -384,7 +384,7 @@
 				"8oz" : "$0.00",
 				"10oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
