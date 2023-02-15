@@ -166,7 +166,7 @@
                 {
 			"name" : "Darkwater Project",
 			"style" : "Black IPA",
-			"description" : "Full of citrusy and resinous aroma and flavors accompanied by a smooth aftertaste of Chocolate! Dry hopped w/ cascade and nugget!",
+			"description" : "Full of citrusy, herbal and resinous aroma and flavors accompanied by a smooth aftertaste of Chocolate! Dry hopped w/ cascade, falconer's flight and nugget!",
 			"abv" : "6.2",
 			"ibu" : "63",
 			"picture" : "",
@@ -175,7 +175,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -310,7 +310,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
