@@ -91,16 +91,16 @@
 		{
 			"name" : "A Lighter Shade of Pale",
 			"style" : "Hazy Pale Ale",
-			"description" : "A single hopped Hazy Pale Ale, made with Vic Secret hops. It has a sweet taste with hints of mango, citrus, and pineapple accompanied by a slight hoppy bitterness.",
+			"description" : "A single hopped Hazy Pale Ale, made with Austrailian Vic Secret hops and a specialized Belgian yeast strain. It has a sweet taste with hints of mango, citrus, and pineapple accompanied by a slightly dank, piney, hoppy bitterness.",
 			"abv" : "5",
-			"ibu" : "54",
+			"ibu" : "56",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -474,7 +474,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
