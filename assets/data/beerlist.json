@@ -160,7 +160,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -390,7 +390,7 @@
 		{
 			"name" : "Neely's Red",
 			"style" : "Irish Red Ale",
-			"description" : "Our take on a traditional Irish Red Ale bringing a toasty, malty backbone with a slight earthy bitterness. It also has a nice amber, red color!",
+			"description" : "Our take on a traditional Irish Red Ale bringing a toasty, caramel malty backbone with a slight earthy bitterness. It also has a nice amber, red color!",
 			"abv" : "4.3",
 			"ibu" : "19",
 			"picture" : "",
@@ -399,7 +399,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
