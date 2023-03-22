@@ -369,7 +369,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -553,9 +553,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Trainwreck Tripel Threat",
+			"name" : "Trainwreck Tripel Threat W/ Peach & Apricot",
 			"style" : "Belgian Tripel",
-			"description" : "A Belgian Tripel bringing nice belgiany banana flavors with a hint of clove. Brewed in collaboration with Trainwreck Homebrewers Guild and two local breweries! $1 per pint sold will be donated to Giving Back LLC, a local non profit who uses funds to benefit local veterans and first responders with mental help and many other benefits!",
+			"description" : "A Belgian Tripel bringing nice belgiany banana flavors with a hint of clove. Additions of Apricot and Peach were added to give it nice sweet flavors of each fruit! A perfect beer to ring in spring!",
 			"abv" : "9.5",
 			"ibu" : "23",
 			"picture" : "",
@@ -564,7 +564,7 @@
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		}
 	]
