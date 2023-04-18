@@ -328,10 +328,10 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Dam Sour w/ Cherry",
+			"name" : "Key Lime Pie Gose",
 			"style" : "Berliner Weisse",
-			"description" : "A sour ale brewed with fresh Tart Cherry and Black Cherry bringing a nice tart cherry sour! Named after the Philpott Dam!",
-			"abv" : "4.9",
+			"description" : "A german sour ale made with sea salt, coriander, madagascar vanilla bean, lactose, and graham cracker! It brings tasting notes of creamy vanilla, tart key lime, and a hint of graham cracker resembling the taste of this popular dessert!",
+			"abv" : "4.7",
 			"ibu" : "6",
 			"picture" : "",
 			"tap_room":{
@@ -339,7 +339,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
