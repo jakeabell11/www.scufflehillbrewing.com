@@ -478,18 +478,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Dam Sour w/ Cherry",
-			"style" : "Sour Ale",
-			"description" : "A Sour Ale brewed with fresh tart cherry and black cherry, bringing a nice sour cherry flavor!",
-			"abv" : "4.9",
-			"ibu" : "14",
+			"name" : "McNally's Porter",
+			"style" : "Robust Porter",
+			"description" : "A medium bodied Robust Porter with tasting notes of creamy chocolate, caramel, and a hint of roastiness! We named this Porter after our friend Sean McNally because on every visit to the brewery he always said we needed a basic Porter with NO ADJUNCTS! This one's for you Sean, Cheers!",
+			"abv" : "6.5",
+			"ibu" : "28",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
