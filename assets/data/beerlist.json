@@ -399,7 +399,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -508,22 +508,22 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Legend of Bernard",
-			"style" : "Piwo Grodziskie",
+			"name" : "Stubbie",
+			"style" : "New Zealand Pilsner",
 			"description" : "Hey, pass me a Stubbie! This is what you may hear kiwis call a beer in New Zealand! This Pilsner was brewed and dry hopped with all New Zealand hops. It’s clean, crisp and refreshing! The flavors of Motueka, Pacific Jade, and Nelson Sauvin bring tasting notes of lemon, lime, and citrus.",
-			"abv" : "4",
-			"ibu" : "22",
+			"abv" : "4.6",
+			"ibu" : "26",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Tom Collins Seltzer",
+			"name" : "Southern Charm Seltzer",
 			"style" : "Seltzer Water",
 			"description" : "Crisp, bubbly and refreshing hard seltzer made with cantaloupe, passion fruit, strawberry, and watermelon!",
 			"abv" : "4.1",
