@@ -235,7 +235,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -525,7 +525,7 @@
 		{
 			"name" : "Tom Collins Seltzer",
 			"style" : "Seltzer Water",
-			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet, tangy lemon, orange, and grapefruit! All the tastiness of a Tom Collins mixed drink, just without the Gin! ",
+			"description" : "Crisp, bubbly and refreshing hard seltzer made with cantaloupe, passion fruit, strawberry, and watermelon!",
 			"abv" : "4.1",
 			"ibu" : "",
 			"picture" : "",
@@ -534,7 +534,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
