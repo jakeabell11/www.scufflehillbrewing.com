@@ -418,18 +418,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "P.O.G. Gose",
-			"style" : "Fruited Gose",
-			"description" : "A Gose brewed with fresh passion fruit, orange, guava and sea salt to bring nice refreshing flavors of all the fruit accompanied by the salty/sour flavors of a traditional Gose!",
-			"abv" : "4.7",
-			"ibu" : "8",
+			"name" : "Uluru Aussie Amber",
+			"style" : "Amber Ale",
+			"description" : "An experimental Amber Ale made with all Australian Hops (Galaxy and Vic Secret). It brings forward tasting notes and aromas of pineapple, stone fruit, and tropical fruits while finishing up with a toasty, caramel backbone. The name is derived from the infamous Uluru Red Rock in Australia.",
+			"abv" : "5.6",
+			"ibu" : "32",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
