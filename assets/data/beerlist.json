@@ -295,7 +295,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -493,18 +493,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "The Big Chair w/ Strawberry",
-			"style" : "Blonde Ale",
-			"description" : "Our Flagship Blonde Ale “The Big Chair” bringing all the flavors from the original plus some nice fresh strawberry flavors! Made with fresh strawberry puree!",
-			"abv" : "5",
-			"ibu" : "25",
+			"name" : "Sunny with a Chance of Peaches",
+			"style" : "Fruit Beer",
+			"description" : "Our Peaches and Cream Ale made with yellow peach puree, madagascar vanilla bean, and lactose! A slightly tart, sweet, and peachy fruited ale.",
+			"abv" : "4.5",
+			"ibu" : "8",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
