@@ -360,8 +360,8 @@
 		{
 			"name" : "Pröst",
 			"style" : "Hefeweizen",
-			"description" : "Meaning Cheers in German, is our German Hefeweizen with an American twist! Bringing mellow flavors of banana and clove traditional to a Hefeweizen, with a slight citrusy orange flavor coming from the small dry hop of Cascade and Amarillo we added!",
-			"abv" : "4.2",
+			"description" : "Meaning Cheers in German, Pröst is our German Hefeweizen with an American twist! Bringing mellow flavors of banana and clove traditional to a Hefeweizen, with a slight citrusy orange flavor coming from the small dry hop of Cascade and Amarillo we added!",
+			"abv" : "4.5",
 			"ibu" : "11",
 			"picture" : "",
 			"tap_room":{
@@ -369,7 +369,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -519,7 +519,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
