@@ -175,7 +175,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -196,8 +196,8 @@
 		{
 			"name" : "Hoppin' Haze",
 			"style" : "Hazy Pale Ale",
-			"description" : "Dry hopped with Centennial, Amarillo, and Simcoe. A sessionable hazy pale ale with tasting notes and aroma of light citrus, dank, earthy, and hoppy! Named after Hayes Panill who used to be a freight car hopper in Henry County!",
-			"abv" : "4.9",
+			"description" : "Dry hopped with Centennial, Amarillo, and Simcoe. A sessionable hazy pale ale with tasting notes and aroma of light citrus, herbal, and hoppy! Named after Hayes Panill who used to be a freight car hopper in Henry County!",
+			"abv" : "5.3",
 			"ibu" : "62",
 			"picture" : "",
 			"tap_room":{
@@ -205,7 +205,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
