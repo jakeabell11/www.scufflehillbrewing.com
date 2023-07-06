@@ -179,18 +179,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Deshazo’s Silo",
-			"style" : "ESB",
-			"description" : "This is our take on an English Special Bitter. Don’t let the word bitter scare you, it brings sweet flavors of caramel and dark fruits accompanied by a very slight earthy bitter. Named after the “Deshazo’s Silo” found on the Dick & Willie trail. It was used as an incinerator for the G.M. Finley’s sawmill in the early 1900s.",
-			"abv" : "5.6",
-			"ibu" : "32",
+			"name" : "The Belmont",
+			"style" : "Cherry Belgian Dubbel",
+			"description" : "A Cherry Belgian Dubbel bringing tasting notes of caramel malt along with fruity esters reminiscent of ripe banana and dark fruits produced by the Belgian yeast. Sweet Black Cherry puree was added during fermentation to bring a flavorful cherry taste to this Dubbel. This brew takes its name from the Belmont Estate that General Joesph Martin lived in in Leatherwood Creek, before moving to Scuffle Hill.",
+			"abv" : "8.0",
+			"ibu" : "15",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -489,7 +489,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
