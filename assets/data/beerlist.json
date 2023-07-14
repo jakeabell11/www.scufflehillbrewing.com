@@ -493,9 +493,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Sunny with a Chance of Peaches",
+			"name" : "Sunny with a Chance of Watermelon",
 			"style" : "Fruit Beer",
-			"description" : "Our Peaches and Cream Ale made with yellow peach puree, madagascar vanilla bean, and lactose! A slightly tart, sweet, and peachy fruited ale.",
+			"description" : "A slightly tart, sweet, and fruity watermelon ale.",
 			"abv" : "4.5",
 			"ibu" : "8",
 			"picture" : "",
@@ -519,7 +519,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
