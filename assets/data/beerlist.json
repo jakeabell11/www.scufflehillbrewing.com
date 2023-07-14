@@ -403,10 +403,10 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Field-Ale",
-			"style" : "Cherry Dry Hopped Saison",
-			"description" : "A Belgian Saison named after the local community of Fieldale! Bringing traditional Belgian flavors of banana and clove accompanied by the fresh black and tart cherry additions. The dry hop of Idaho Gem and experimental hop HBC 630 accentuate those flavors more by providing more hoppy cherry flavors!",
-			"abv" : "6.3",
+			"name" : "Strawberry Station",
+			"style" : "Milkshake IPA",
+			"description" : "A Stawberry Milkshake IPA made with strawberry puree, madagascar vanilla bean, lactose and addtions of galxy, mosaic, citra hops during the boil, whirlpool, and dry hop. This IPA boasts a strong sweet strawberry aroma accompanied by sweet strawberry and vanilla tasting notes. The hops provide nice tropical fruit, stone fruit, and citrus undertones that meld well with the sweet fruity flavors! ",
+			"abv" : "6.5",
 			"ibu" : "24",
 			"picture" : "",
 			"tap_room":{
@@ -414,7 +414,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
