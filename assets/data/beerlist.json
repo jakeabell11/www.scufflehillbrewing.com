@@ -224,18 +224,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Fruit Punch Seltzer Water",
-			"style" : "Seltzer Water",
-			"description" : "Crisp, bubbly and refreshing hard seltzer water made with peach, passionfruit, orange, and strawberry! Bringing sweet fruity flavors resembling your favorite fruit punch drinks!",
-			"abv" : "4.1",
-			"ibu" : "",
+			"name" : "General Joe's",
+			"style" : "American Light Lager",
+			"description" : "A crisp, resfreshing light lager with light bready, apple, and herbal undertones! Named after General Joesph Martin, the revolutionary war general credited as the founder of Martinsville!",
+			"abv" : "4.5",
+			"ibu" : "13",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -250,7 +250,7 @@
 				"12oz" : "$7.00",
 				"16oz" : "$0.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
