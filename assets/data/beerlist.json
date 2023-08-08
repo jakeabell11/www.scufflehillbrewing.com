@@ -343,18 +343,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Fog Of War",
-			"style" : "Smoked Rye IPA",
-			"description" : "Named after the term Fog of War, which is used to describe anything that disorients you in combat! This IPA brings nice flavors of cherrywood smoke, spicy rye, and a earthy, herbal bitterness and aroma from the chinook and warrior hops!",
-			"abv" : "6.7",
-			"ibu" : "69",
+			"name" : "Stoneleigh IPA",
+			"style" : "American IPA",
+			"description" : "This IPA brings forth nice juicy tasting notes of citrus, grapefruit and hints of stonefruit accompanied by a nice caramel malty backbone. The name is taken from Stoneleigh Mansion in Stanleytown. The Estate is on the National Historic Registry and was built in 1929 as a home for former Virginia Governpr Thomas B. Stanley.",
+			"abv" : "6.8",
+			"ibu" : "70",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"8oz" : "$4.25",
+				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
