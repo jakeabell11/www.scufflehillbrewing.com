@@ -220,7 +220,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -254,9 +254,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "The Big Chair w/Coffee",
+			"name" : "The Big Chair w/Cantaloupe",
 			"style" : "Blonde Ale",
-			"description" : "We took our “The Big Chair” Blonde Ale base and threw in some coffee given to us from our friends at “The Ground Floor” to give us a blonde ale with a nice light coffee flavor! This one is for our coffee lovers!",
+			"description" : "We took our “The Big Chair” Blonde Ale base and added loads cantaloupe sourced from the local farmers market! Brings all the tasting notes of our flagship blonde ale plus a nice fruity cantaloupe taste!",
 			"abv" : "5",
 			"ibu" : "25",
 			"picture" : "",
@@ -265,7 +265,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
