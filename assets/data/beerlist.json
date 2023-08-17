@@ -414,7 +414,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -553,9 +553,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Trainwreck Tripel Threat W/ Peach & Apricot",
+			"name" : "Trainwreck Tripel Threat W/ Mango & Passionfruit",
 			"style" : "Belgian Tripel",
-			"description" : "A Belgian Tripel bringing nice belgiany banana flavors with a hint of clove. Additions of Apricot and Peach were added to give it nice sweet flavors of each fruit! A perfect beer to ring in spring!",
+			"description" : "A Belgian Tripel bringing nice belgiany banana flavors with a hint of clove. Additions of Mango and Passionfruit were added to give it nice sweet flavors of each fruit!",
 			"abv" : "9.5",
 			"ibu" : "23",
 			"picture" : "",
