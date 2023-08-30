@@ -403,9 +403,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Strawberry Station",
+			"name" : "Anniversary IPA",
 			"style" : "Milkshake IPA",
-			"description" : "A Stawberry Milkshake IPA made with strawberry puree, madagascar vanilla bean, lactose and addtions of galxy, mosaic, citra hops during the boil, whirlpool, and dry hop. This IPA boasts a strong sweet strawberry aroma accompanied by sweet strawberry and vanilla tasting notes. The hops provide nice tropical fruit, stone fruit, and citrus undertones that meld well with the sweet fruity flavors! ",
+			"description" : "This brew was made to celebrate our two year anniversary! A Birthday Cake Milkshake IPA made with birthday cake, madagascar vanilla bean, lactose and addtions of galxy, mosaic, citra hops during the boil, whirlpool, and dry hop. This IPA boasts a nice birthday cake aroma accompanied by nice cake and vanilla tasting notes. The hops provide nice tropical fruit, stone fruit, and citrus undertones that meld well with the sweet birthday cake flavors! ",
 			"abv" : "6.5",
 			"ibu" : "33",
 			"picture" : "",
@@ -414,7 +414,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -504,7 +504,7 @@
 				"8oz" : "$4.00",
 				"16oz" : "$6.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
