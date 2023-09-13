@@ -22,9 +22,9 @@
 			"ibu" : "22",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
 				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"16oz" : "$6.00",
+				"20oz" : "$6.50"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
@@ -269,9 +269,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Margarita Seltzer Water",
+			"name" : "Watermelon Seltzer Water",
 			"style" : "Seltzer Water",
-			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of a nice green margarita!",
+			"description" : "Crisp, bubbly and refreshing hard seltzer water with tasting notes of sweet watermelon!",
 			"abv" : "4.1",
 			"ibu" : "",
 			"picture" : "",
