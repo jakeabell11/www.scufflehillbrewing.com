@@ -27,7 +27,7 @@
 				"16oz" : "$6.00",
 				"20oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -518,18 +518,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Southern Charm Seltzer",
-			"style" : "Seltzer Water",
-			"description" : "Crisp, bubbly and refreshing hard seltzer made with cantaloupe, passion fruit, strawberry, and watermelon!",
-			"abv" : "4.1",
-			"ibu" : "",
+			"name" : "Oktoberfest",
+			"style" : "Marzen",
+			"description" : "A sweet caramel, malty German amber lager! Brewed in celebration of Oktoberfest!",
+			"abv" : "6",
+			"ibu" : "20",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
 				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"16oz" : "$6.00",
+				"20oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
