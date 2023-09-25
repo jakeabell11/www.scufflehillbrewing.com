@@ -134,15 +134,15 @@
 			"comingSoon" : "no"
 		},
                 {
-			"name" : "Grandaddy's Apple Pie",
-			"style" : "Spiced Apple Ale",
+			"name" : "Scuffling Up Hops W/ Nectaron & Vic Secret",
+			"style" : "New England IPA",
 			"description" : "This variant of our New England IPA series features Nectaron and Vic Secret hops! This combination of hops brings tasting notes and aromas of sweet tropical fruits, orange, tangerine, and grapefruit!",
 			"abv" : "6.5",
 			"ibu" : "46",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.25",
-				"8oz" : "$6.50"
+				"16oz" : "$6.50"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
