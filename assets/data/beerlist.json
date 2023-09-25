@@ -532,18 +532,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Omnicron",
-			"style" : "Negra Cerveza",
-			"description" : "Our Dark Mexican Cerveza boasting flavors and aromas of toasted bread, caramel, with a slightly floral bitterness! The taste is just as infectious as the name, pairs great with a lime!",
-			"abv" : "5",
-			"ibu" : "20",
+			"name" : "The Great Wagon Road",
+			"style" : "German Pilsner",
+			"description" : "A crisp, dry biscuity and bready German Pilsner with an earthy bitter bite! Named after the old immigration route taken by German settlers when they came to America! A leg of this route once ran through what is now Martinsville city!",
+			"abv" : "5.1",
+			"ibu" : "36",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
 				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"16oz" : "$6.00",
+				"20oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
