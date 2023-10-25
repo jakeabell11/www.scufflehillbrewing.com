@@ -363,7 +363,7 @@
 				"16oz" : "$6.00",
 				"20oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -456,18 +456,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Spruce Tip Ale",
-			"style" : "Spruce Pale Ale",
-			"description" : "A Pale Ale brewed with fresh Spruce Tips from the Rocky Mountains! Bringing tasting notes of fresh spruce and pine accompanied by hints of melon!",
-			"abv" : "6",
-			"ibu" : "25",
+			"name" : "Lederhosen",
+			"style" : "Weissbier",
+			"description" : "A Traditional German Wheat that brings forth big aromas and tasting notes of banana! Hallertau hops give this a crisp hop bite accompanied by a biscuity, malty backbone.",
+			"abv" : "5.1",
+			"ibu" : "10",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
 				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"16oz" : "$6.00",
+				"20oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
