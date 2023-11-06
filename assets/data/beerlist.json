@@ -323,11 +323,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Strawberry Lemonade Gose",
+			"name" : "Margarita Gose",
 			"style" : "Fruited Gose",
-			"description" : "A german sour ale made with sea salt, coriander, strawberries, and lemons! It brings tasting notes of resembling tart and refreshing strawberry lemonade!",
+			"description" : "A german sour ale made with sea salt, coriander, lemon, lime, orange, and blue agave nectar! All these combined plus the tartness of the Gose make this brew resemble the taste of a green margarita!",
 			"abv" : "4.7",
-			"ibu" : "6",
+			"ibu" : "8",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.25",
