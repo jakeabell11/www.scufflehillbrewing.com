@@ -260,7 +260,7 @@
 				"8oz" : "$4.25",
 				"16oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -484,18 +484,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Sunny with a Chance of Watermelon",
-			"style" : "Fruit Beer",
-			"description" : "A slightly tart, sweet, and fruity watermelon ale.",
-			"abv" : "4.5",
-			"ibu" : "8",
+			"name" : "Blood Orange Wheat",
+			"style" : "Fruited American Wheat",
+			"description" : "A Pale American Wheat made with Mandarina Bavaria hops, Blood Orange Puree, and German Wheat Ale Yeast. It's effervescent, with juicy blood orange upront with a crisp, slightly bitter hop bite!",
+			"abv" : "4.8",
+			"ibu" : "20",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"8oz" : "$4.25",
+				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
