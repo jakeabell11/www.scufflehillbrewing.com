@@ -372,11 +372,9 @@
 			"ibu" : "28",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$3.00",
-				"8oz" : "$0.00",
-				"10oz" : "$6.00"
+				"10oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
