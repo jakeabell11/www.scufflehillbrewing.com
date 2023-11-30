@@ -365,11 +365,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Graceland Special",
-			"style" : "Imperial Peanut Butter Banana Stout",
-			"description" : "An Imperial Peanut Butter Banana Stout bringing forth robust, roasty stout flavors with a smooth peanut butter banana sweetness. Full bodied and frothy! Paying homage to Elvis's favorite snack! CONTAINS LACTOSE.",
+			"name" : "Rocko's Peanut Butter Cookie Dough",
+			"style" : "Imperial Peanut Butter Cookie Dough Porter",
+			"description" : "A full bodied, syrupy Imperial Porter made with Peanut Butter & Cookie Dough! The flavors meld perfectly together to bring tasting notes of peanut butter cookies with a nice chocolaty finish! Made for our friend PJ with Rocko's Cigars because he loves peanut butter beers and was wanting a beer to pair well with cigars!",
 			"abv" : "1o",
-			"ibu" : "50",
+			"ibu" : "28",
 			"picture" : "",
 			"tap_room":{
 				"4oz" : "$3.00",
