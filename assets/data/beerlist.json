@@ -1,18 +1,18 @@
 {
 	"beer": [
 		{
-			"name" : "The Lawnmower",
-			"style" : "American Light Ale",
-			"description" : "This is our take on an American Light Lager fermented as an ale. It’s light-bodied, clean, and refreshing. It’s perfect to quench your thirst while mowing the yard, washing the car, picking the weeds or any other chore that needs to be done.",
-			"abv" : "5",
-			"ibu" : "16",
+			"name" : "Big Tony's",
+			"style" : "Italian Pilsner",
+			"description" : "A crisp, clean Pilsner with a floral, herbal hop bite supported by a biscuity backbone. We wanted to make a good beer to pair with pizza, because who doesn't love pizza and beer?! This pilsner is named after Tony Palumbo, owner of Papa's Pizzeria! ",
+			"abv" : "5.5",
+			"ibu" : "31",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
 				"16oz" : "$6.00",
 				"20oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
