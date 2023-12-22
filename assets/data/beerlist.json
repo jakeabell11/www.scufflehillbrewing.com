@@ -492,7 +492,7 @@
 				"8oz" : "$4.25",
 				"16oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -511,18 +511,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Oktoberfest",
-			"style" : "Marzen",
-			"description" : "A sweet caramel, malty German amber lager! Brewed in celebration of Oktoberfest!",
-			"abv" : "6",
-			"ibu" : "20",
+			"name" : "DeShazo's Silo",
+			"style" : "ESB",
+			"description" : "An Extra Special Bitter that has a very sweet caramel malty backbone accompanied by dark fruity esters and a slight earthy bitterness! Named after the Silo on the Dick & Willie, that was in reality, used as an incinerator by the DeShazo Lumber Company in the early 1900s.",
+			"abv" : "6", 
+			"ibu" : "32",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
 				"16oz" : "$6.00",
 				"20oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
