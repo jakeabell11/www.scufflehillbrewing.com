@@ -128,7 +128,7 @@
 				"8oz" : "$4.25",
 				"16oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -393,11 +393,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Anniversary IPA",
-			"style" : "Milkshake IPA",
-			"description" : "This brew was made to celebrate our two year anniversary! A Birthday Cake Milkshake IPA made with birthday cake, madagascar vanilla bean, lactose and addtions of galxy, mosaic, citra hops during the boil, whirlpool, and dry hop. This IPA boasts a nice birthday cake aroma accompanied by nice cake and vanilla tasting notes. The hops provide nice tropical fruit, stone fruit, and citrus undertones that meld well with the sweet birthday cake flavors! ",
-			"abv" : "6.5",
-			"ibu" : "33",
+			"name" : "Evergreen IPA",
+			"style" : "West Coast IPA",
+			"description" : "A decidedly hoppy and bitter West Coast IPA. This IPA was brewed with copious amounts of Chinook and Simcoe hops bringing forth a nice piney, resinous bite accompanied by a nice caramel malty backbone with a dry finish!",
+			"abv" : "6.8",
+			"ibu" : "87",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.25",
