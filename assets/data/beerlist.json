@@ -27,7 +27,7 @@
 				"16oz" : "$6.00",
 				"20oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -157,7 +157,7 @@
 				"16oz" : "$6.00",
 				"20oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
