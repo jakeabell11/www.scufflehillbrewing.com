@@ -114,7 +114,7 @@
 				"8oz" : "$4.25",
 				"16oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -190,18 +190,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Hoppin' Haze",
-			"style" : "Hazy Pale Ale",
-			"description" : "Dry hopped with Centennial, Amarillo, and Simcoe. A sessionable hazy pale ale with tasting notes and aroma of light citrus, herbal, and hoppy! Named after Hayes Panill who used to be a freight car hopper in Henry County!",
-			"abv" : "5.3",
-			"ibu" : "62",
+			"name" : "Fog of War",
+			"style" : "Smoked Rye IPA",
+			"description" : "A Cherrywood Smoked Rye IPA that presents a nice earthy, piney, resinous hop bite! The Cherrywood smoke is smooth and melds well with the spiciness of the rye used in the mash! Fog of War is the term given for anything that causes confusion during war on the battlefield! An example of this could be confusion caused by smoke on the battlefield.",
+			"abv" : "6.8",
+			"ibu" : "70",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"8oz" : "$4.25",
+				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
