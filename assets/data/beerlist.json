@@ -12,7 +12,7 @@
 				"16oz" : "$6.00",
 				"20oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -322,9 +322,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Margarita Gose",
+			"name" : "Tangelo Gose",
 			"style" : "Fruited Gose",
-			"description" : "A german sour ale made with sea salt, coriander, lemon, lime, orange, and blue agave nectar! All these combined plus the tartness of the Gose make this brew resemble the taste of a green margarita!",
+			"description" : "A german sour ale made with sea salt, coriander, and tangelo puree! Providing sour tasting notes of tangerine, orange, and a slight hint of grapefruit!",
 			"abv" : "4.7",
 			"ibu" : "8",
 			"picture" : "",
