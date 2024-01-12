@@ -234,18 +234,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "No Show Collins",
-			"style" : "Double Dry Hopped New England IPA",
-			"description" : "Our first Double Dry Hopped Double New England IPA made with Belma, Citra, and Galaxy hops. Its tasting notes and aromas include citrus, tropical fruits, and stone fruits accompanied by a sweet malty backbone. Alcohol is present in the finish of the beer. Named after Levi Bertrand aka Cap’n Collins who had a grand plan to establish a battery-less flashlight factory in Collinsville. After investors poured money into this factory, Cap’n Collins no showed and skipped town to establish this factory elsewhere. ",
-			"abv" : "9.8",
-			"ibu" : "38",
+			"name" : "PT Schwartz",
+			"style" : "Schwarzbier",
+			"description" : "A German Black Lager, that's clean, light, and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee! ",
+			"abv" : "5.1",
+			"ibu" : "25",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$0.00",
-				"12oz" : "$7.00",
-				"16oz" : "$0.00"
+				"8oz" : "$4.00",
+				"16oz" : "$6.00",
+				"20oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
