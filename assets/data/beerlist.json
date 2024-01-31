@@ -16,11 +16,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "1902",
-			"style" : "Kentucky Common",
-			"description" : "This is our take on a historic beer style called a Kentucky Common! The name originates from the year the beer was first created and documented. It originated in Louisville, Kentucky and was brewed from 1902 up until prohibition. It was one of Louisville’s most popular beer styles until prohibition killed it off. Unfortunately, the beer style was never revived after prohibition up until recently with a few craft brewers experimenting with it. The taste is sweet with a bready, biscuit, toffee taste up front with a creamy taste on the backend. Do not let the color fool you, it is very light and easy drinking!",
-			"abv" : "4",
-			"ibu" : "22",
+			"name" : "Colonel Rucker",
+			"style" : "Czech Pilsner",
+			"description" : "Clean, crisp with a nice biscuity malt backbone supported by a nice herbal hop bite from 100% Czech Saaz Hops! Named Colonel Pannill Rucker who is credited with starting to rebuild the Parish House after a fire destroyed it in 1917.",
+			"abv" : "5.3",
+			"ibu" : "35",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
