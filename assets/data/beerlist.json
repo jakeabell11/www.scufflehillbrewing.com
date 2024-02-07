@@ -176,9 +176,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "The Belmont",
-			"style" : "Cherry Belgian Dubbel",
-			"description" : "A Cherry Belgian Dubbel bringing tasting notes of caramel malt along with fruity esters reminiscent of ripe banana and dark fruits produced by the Belgian yeast. Sweet Black Cherry puree was added during fermentation to bring a flavorful cherry taste to this Dubbel. This brew takes its name from the Belmont Estate that General Joesph Martin lived in in Leatherwood Creek, before moving to Scuffle Hill.",
+			"name" : "Belleview",
+			"style" : "Blueberry Belgian Dubbel",
+			"description" : "A Blueberry Belgian Dubbel bringing tasting notes of caramel malt along with fruity esters reminiscent of ripe banana and dark fruits produced by the Belgian yeast. Blueberry puree was added during fermentation to bring a flavorful blueberry taste to this Dubbel. This brew takes its name from the Belleview Estate that Major John Redd lived in.",
 			"abv" : "8.0",
 			"ibu" : "15",
 			"picture" : "",
@@ -432,7 +432,7 @@
 				"16oz" : "$6.00",
 				"20oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
