@@ -309,15 +309,14 @@
 		{
 			"name" : "0 Dark 30",
 			"style" : "Imperial Chocolate Stout",
-			"description" : "Dark as the night when you wake up to PT at “0 Dark 30”, this imperial chocolate stout just tastes like smooth, dark chocolatey goodness. It’s full of body and was brewed with cocoa cereal, cocoa nibs, and cocoa powder.",
+			"description" : "Dark as the night when you wake up to PT at “0 Dark 30”, this imperial chocolate stout just tastes like smooth, dark chocolatey goodness. It’s full of body and was brewed with cocoa cereal, cocao nibs, and cocao powder.",
 			"abv" : "12",
-			"ibu" : "76",
+			"ibu" : "75",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$3.50",
-				"10oz" : "$6.00"
+				"10oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -373,7 +372,7 @@
 			"tap_room":{
 				"10oz" : "$7.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
