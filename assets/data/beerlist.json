@@ -391,15 +391,15 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Evergreen IPA",
-			"style" : "West Coast IPA",
-			"description" : "A decidedly hoppy and bitter West Coast IPA. This IPA was brewed with copious amounts of Chinook and Simcoe hops bringing forth a nice piney, resinous bite accompanied by a nice caramel malty backbone with a dry finish!",
-			"abv" : "6.8",
-			"ibu" : "87",
+			"name" : "Major Redd",
+			"style" : "Imperial Red IPA",
+			"description" : "Boasting malty and fruity flavors upfront, finishing with a nice grapefruit and resinous bite! The Columbus, Chinook, Galaxy, and Mosaic hops work in tandem with the malts to bring a unique flavor to this brew! Named after Major John Redd, one of the first settlers to come to Henry County, served as a Major in the American Continental Forces during the revolution, and later went on to serve as High Sheriff, as well as a member on the County Court for 40 years! He also built his Belleview Estate listed on the National Register of Historic Places!",
+			"abv" : "8.0",
+			"ibu" : "81",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+				"8oz" : "$5.00",
+				"16oz" : "$7.50"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
