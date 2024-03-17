@@ -538,17 +538,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Trainwreck Tripel Threat W/ Mango & Passionfruit",
+			"name" : "Trainwreck Tripel Threat W/ Orange Blossom",
 			"style" : "Belgian Tripel",
-			"description" : "A Belgian Tripel bringing nice belgiany banana flavors with a hint of clove. Additions of Mango and Passionfruit were added to give it nice sweet flavors of each fruit!",
+			"description" : "A Belgian Tripel bringing nice belgiany banana flavors with a hint of clove. Additions of Orange Blossom Puree were added during fermentation to give it nice aromatic citrus notes with a smooth floral finish!",
 			"abv" : "9.5",
 			"ibu" : "23",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+				"8oz" : "$5.00",
+				"16oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		}
 	]
