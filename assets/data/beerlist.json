@@ -234,10 +234,10 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "PT Schwartz",
-			"style" : "Schwarzbier",
-			"description" : "A German Black Lager, that's clean, light, and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee! ",
-			"abv" : "5.1",
+			"name" : "Brown's Log Cabin",
+			"style" : "English Brown Ale",
+			"description" : "A nice light bodied, easy drinking brown ale bringing tasting notes chocolate, caramel, dark fruity esters reminiscent of raisins, and a slight earthy hop bite! Named after the Brown's Log Cabin Tobacco Henry County was famous for.",
+			"abv" : "5.5",
 			"ibu" : "25",
 			"picture" : "",
 			"tap_room":{
