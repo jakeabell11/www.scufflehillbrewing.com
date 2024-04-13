@@ -481,15 +481,15 @@
 		{
 			"name" : "Blood Orange Wheat",
 			"style" : "Fruited American Wheat",
-			"description" : "A Pale American Wheat made with Mandarina Bavaria hops, Blood Orange Puree, and German Wheat Ale Yeast. It's effervescent, with juicy blood orange upfront with a crisp, slightly bitter hop bite!",
-			"abv" : "4.8",
-			"ibu" : "20",
+			"description" : "A Pale American Wheat made with Mandarina Bavaria hops, Tangerine Puree, and German Wheat Ale Yeast. It's effervescent, with tangerine upfront with a crisp, slightly bitter hop bite that resembles citrus peel!",
+			"abv" : "5.0",
+			"ibu" : "25",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.25",
 				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -548,7 +548,7 @@
 				"8oz" : "$5.00",
 				"16oz" : "$7.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		}
 	]
