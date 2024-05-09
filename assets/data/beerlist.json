@@ -176,17 +176,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Belleview",
-			"style" : "Blueberry Belgian Dubbel",
-			"description" : "A Blueberry Belgian Dubbel bringing tasting notes of caramel malt along with fruity esters reminiscent of ripe banana and dark fruits produced by the Belgian yeast. Blueberry puree was added during fermentation to bring a flavorful blueberry taste to this Dubbel. This brew takes its name from the Belleview Estate that Major John Redd lived in.",
-			"abv" : "8.0",
-			"ibu" : "15",
+			"name" : "Margarita Slushie Seltzer",
+			"style" : "Hard Seltzer Slushie",
+			"description" : "The perfect drink for warm weather! This slushie boasts all the flavors of a traditional green margarita that you know and love.",
+			"abv" : "7.0",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$5.00",
-				"16oz" : "$7.50"
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
