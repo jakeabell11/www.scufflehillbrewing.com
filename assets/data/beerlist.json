@@ -190,15 +190,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Fog of War",
-			"style" : "Smoked Rye IPA",
-			"description" : "A Cherrywood Smoked Rye IPA that presents a nice earthy, piney, resinous hop bite! The Cherrywood smoke is smooth and melds well with the spiciness of the rye used in the mash! Fog of War is the term given for anything that causes confusion during war on the battlefield! An example of this could be confusion caused by smoke on the battlefield.",
-			"abv" : "6.8",
-			"ibu" : "70",
+			"name" : "Lemon Drop Lager",
+			"style" : "Hoppy American Lager",
+			"description" : "An American lager brewed and dry hopped with Lemon Drop hops. This lager presents a slight lemony taste with a floral hoppy finish.",
+			"abv" : "5.3",
+			"ibu" : "18",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+				"8oz" : "$4.00",
+				"16oz" : "$6.25",
+				"20oz" : "$6.75"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
