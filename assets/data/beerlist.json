@@ -335,17 +335,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Stoneleigh IPA",
-			"style" : "American IPA",
-			"description" : "This IPA brings forth nice juicy tasting notes of citrus, grapefruit and hints of stonefruit accompanied by a nice caramel malty backbone. The name is taken from Stoneleigh Mansion in Stanleytown. The Estate is on the National Historic Registry and was built in 1929 as a home for former Virginia Governor Thomas B. Stanley.",
-			"abv" : "6.8",
-			"ibu" : "70",
+			"name" : "Crazy Alice",
+			"style" : "Applewood Smoked Stout",
+			"description" : "This stout boasts bold flavors of dark chocolate, rum cake, and tobacco with a slightly smoky, smooth finish. The name comes from an old children's from former residents of the Scuffle Hill Estate, now known as The Parish House. A Herelene Hairston used to tell the children that if they didn't nap, Crazy Alice would come and put them in a sack! This apparently got the children to nap out of fear of her! We also hear that this brew pairs perfectly with a Crazy Alice Cigar by Drew Estate!",
+			"abv" : "6.5",
+			"ibu" : "50",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
