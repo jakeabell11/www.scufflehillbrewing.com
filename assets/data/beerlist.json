@@ -106,7 +106,7 @@
 		{
 			"name" : "Rotor Wash",
 			"style" : "Citra Session IPA",
-			"description" : "A nice, refreshing Citra Session IPA boasting flavors of citrus and orange with a dry grapefruit finish! This is your summer time IPA. It's perfect for taking tubing or kayaking! Rotor Wash is the downward airflow created by a Helicopter's rotor blades as they generate lift.",
+			"description" : "A nice refreshing Citra Session IPA boasting flavors of citrus and orange with a dry grapefruit finish! This is your summer time IPA. It's perfect for taking tubing or kayaking! Rotor Wash is the downward airflow created by a Helicopter's rotor blades as they generate lift.",
 			"abv" : "5.0",
 			"ibu" : "42",
 			"picture" : "",
@@ -142,7 +142,7 @@
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
