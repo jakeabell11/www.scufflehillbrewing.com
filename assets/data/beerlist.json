@@ -438,16 +438,15 @@
 		{
 			"name" : "Killen's DIPA",
 			"style" : "Double IPA",
-			"description" : "This is a homebrewer spotlight showcasing local homebrewer, Braydon Killen’s, Double IPA recipe. This DIPA brings an assertive grapefruit zest bitterness supported by the malty caramel backbone, and finishes with a floral & earthy hop note, accompanied by a grapefruit, citrus, and pine aroma! ",
+			"description" : "This is a homebrewer spotlight showcasing local homebrewer Braydon Killen’s Double IPA recipe. This DIPA brings an assertive grapefruit zest bitterness supported by a malty caramel backbone and finishes with a floral, earthy hop note.",
 			"abv" : "8",
 			"ibu" : "96",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.25",
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+				"8oz" : "$5.00",
+				"16oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
