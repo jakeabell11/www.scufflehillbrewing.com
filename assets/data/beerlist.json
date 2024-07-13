@@ -479,11 +479,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Tangerine Wheat",
+			"name" : "Tea Totaled - Peach",
 			"style" : "American Pale Wheat W/ Tangerine",
-			"description" : "A Pale American Wheat made with Mandarina Bavaria hops, Tangerine Puree, and German Wheat Ale Yeast. It's effervescent, with tangerine upfront with a crisp, slightly bitter hop bite that resembles citrus peel!",
+			"description" : "Our first hard tea made with juicy yellow peach puree and organic orange pekoe black tea. It has a sweet juicy peach flavor upfront followed by a bold earthy bitterness from what you'd expect fronm black tea.",
 			"abv" : "5.0",
-			"ibu" : "25",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.25",
@@ -519,7 +519,7 @@
 				"16oz" : "$6.25",
 				"20oz" : "$6.75"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
