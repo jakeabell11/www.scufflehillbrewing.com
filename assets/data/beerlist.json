@@ -480,7 +480,7 @@
 		},
 		{
 			"name" : "Tea Totaled - Peach",
-			"style" : "American Pale Wheat W/ Tangerine",
+			"style" : "Hard Peach Tea",
 			"description" : "Our first hard tea made with juicy yellow peach puree and organic orange pekoe black tea. It has a sweet juicy peach flavor upfront followed by a bold earthy bitterness from what you'd expect fronm black tea.",
 			"abv" : "5.0",
 			"ibu" : "",
@@ -489,7 +489,7 @@
 				"8oz" : "$4.25",
 				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
