@@ -190,11 +190,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Lemon Drop Lager",
-			"style" : "Hoppy American Lager",
-			"description" : "An American lager brewed and dry hopped with Lemon Drop hops. This lager presents a slight lemony taste with a floral hoppy finish.",
-			"abv" : "5.3",
-			"ibu" : "18",
+			"name" : "Fort Trial",
+			"style" : "American Pilsner",
+			"description" : "An American Pilsner made with historic 6 row pale ale malt and sterling hops! It's clean and crisp with tasting notes of biscuit, corn grits, Pilsen yeast, pine, and an herbal finish.",
+			"abv" : "5.0",
+			"ibu" : "40",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
