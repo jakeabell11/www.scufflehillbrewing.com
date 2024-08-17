@@ -89,18 +89,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "A Lighter Shade of Pale",
-			"style" : "Hazy Pale Ale",
-			"description" : "A single hopped Hazy Pale Ale, made with Austrailian Vic Secret hops and a specialized Belgian yeast strain. It has a sweet taste with hints of mango, citrus, and pineapple accompanied by a slightly dank, piney, hoppy bitterness.",
-			"abv" : "5",
-			"ibu" : "56",
+			"name" : "Sunny with a Chance of Watermelon",
+			"style" : "Watermelon Tart Ale",
+			"description" : "A sweet and tart watermelon ale made with tons of watermelon puree.",
+			"abv" : "4.7",
+			"ibu" : "8",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"8oz" : "$4.25",
+				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
