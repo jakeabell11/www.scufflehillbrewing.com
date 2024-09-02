@@ -131,17 +131,17 @@
 			"comingSoon" : "no"
 		},
                 {
-			"name" : "Scuffling Up Hops W/ Idaho Gem & Idaho 7",
+			"name" : "Scuffling Up Hops W/ BRU-1, Citra, & El Dorado",
 			"style" : "New England IPA",
-			"description" : "This variant of our New England IPA series features Idaho Gem and Idaho 7 hops! This combination of hops brings tasting notes of berry and tropical fruits with a herbal hop bite!",
-			"abv" : "6.8",
-			"ibu" : "35",
+			"description" : "This variant of our New England IPA series features BRU-1, Citra, and El Dorado hops! This combination of hops brings tasting notes of orange juice and pinapple with a danky herbal finish!",
+			"abv" : "6.7",
+			"ibu" : "40",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
                 {
