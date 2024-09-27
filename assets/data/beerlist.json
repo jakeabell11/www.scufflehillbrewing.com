@@ -259,7 +259,7 @@
 				"8oz" : "$4.25",
 				"16oz" : "$6.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -277,8 +277,8 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Sweet Lou",
-			"style" : "Belgian Witbier",
+			"name" : "Oktoberfest",
+			"style" : "Marzen",
 			"description" : "Our take on a traditional German Oktoberfest. Made with all german malts and hops boasting tasting notes resembling sourdough bread, caramel, and some light fruity esters.",
 			"abv" : "6.0",
 			"ibu" : "20",
