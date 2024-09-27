@@ -279,16 +279,16 @@
 		{
 			"name" : "Sweet Lou",
 			"style" : "Belgian Witbier",
-			"description" : "A tradional Belgian Witbier made with coriander and bitter orange peel. It brings tasting notes of sweet malty wheat, coriander, citrus zest, and orange peel. It pairs great with a slice of orange! Name after Sweet Lou Whitaker, who graduated from Martinsville High, who later went on to play baseball for the Detriot Tigers. He was considered for the MLB Hall of Fame and his jersey No. 1 was retired by the Tigers in 2022.",
-			"abv" : "5.2",
-			"ibu" : "18",
+			"description" : "Our take on a traditional German Oktoberfest. Made with all german malts and hops boasting tasting notes resembling sourdough bread, caramel, and some light fruity esters.",
+			"abv" : "6.0",
+			"ibu" : "20",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
 				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"16oz" : "$6.25",
+				"20oz" : "$6.75"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -481,8 +481,8 @@
 			"name" : "Field-Ale",
 			"style" : "Cherry Dry-Hopped Saison",
 			"description" : "A Belgian Saison named after the local community of Fieldale! Bringing traditional flavors of banana and clove accompanied by the black and tart cherry additions. The dry hop of Idaho Gem and experimental hop HBC 630 accentuate those flavors more by providing more hoppy cherry flavors.",
-			"abv" : "5.0",
-			"ibu" : "",
+			"abv" : "6.3",
+			"ibu" : "24",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.50",
