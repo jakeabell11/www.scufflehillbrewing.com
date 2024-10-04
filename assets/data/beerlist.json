@@ -537,17 +537,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Trainwreck Tripel Threat W/ Orange Blossom",
-			"style" : "Belgian Tripel",
-			"description" : "A Belgian Tripel bringing nice belgiany banana flavors with a hint of clove. Additions of Orange Blossom Puree were added during fermentation to give it nice aromatic citrus notes with a smooth floral finish!",
-			"abv" : "9.5",
-			"ibu" : "23",
+			"name" : "Near War's End",
+			"style" : "Doppelbock",
+			"description" : "Our take on a traditional German Doppelbock. Rich, creamy, sweet and malty with tasting notes of toast, dark chocolate, caramelized brown sugar, and dark fruits like raisin and fig!",
+			"abv" : "8.0",
+			"ibu" : "16",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$5.00",
 				"16oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		}
 	]
