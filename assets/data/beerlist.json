@@ -141,7 +141,7 @@
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
                 {
@@ -263,9 +263,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Mango Lemonade Seltzer",
+			"name" : "Fruit Punch Seltzer",
 			"style" : "Seltzer Water",
-			"description" : "Crisp, bubbly and refreshing hard seltzer water made with Mangoes and Lemons! Made to resemble one of your favorite summer beverages with a little twist!",
+			"description" : "Crisp, bubbly and refreshing hard seltzer water made with Orange, Peach, Passionfruit, and Strawberry! Made to resemble your favorite fruit punch beverages!",
 			"abv" : "4.1",
 			"ibu" : "",
 			"picture" : "",
