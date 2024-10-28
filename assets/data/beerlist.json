@@ -141,7 +141,7 @@
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
                 {
@@ -185,7 +185,7 @@
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -547,7 +547,7 @@
 				"8oz" : "$5.00",
 				"16oz" : "$7.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		}
 	]
