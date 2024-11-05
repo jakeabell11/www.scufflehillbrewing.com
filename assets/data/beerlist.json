@@ -288,7 +288,7 @@
 				"16oz" : "$6.25",
 				"20oz" : "$6.75"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -363,16 +363,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Rocko's Peanut Butter Cookie Dough",
-			"style" : "Imperial Peanut Butter Cookie Dough Porter",
-			"description" : "A full bodied, syrupy Imperial Porter made with Peanut Butter & Cookie Dough! The flavors meld perfectly together to bring tasting notes of peanut butter cookies with a nice chocolaty finish! Made for our friend PJ with Rocko's Cigars because he loves peanut butter beers and was wanting a beer to pair well with cigars!",
+			"name" : "Graceland Special",
+			"style" : "Imperial Peanut Butter Banana Stout",
+			"description" : "A full bodied, syrupy Imperial Stout bringing forth a robust roastiness accompanied by a smooth banana and peanut butter sweetness!",
 			"abv" : "1o",
-			"ibu" : "28",
+			"ibu" : "50",
 			"picture" : "",
 			"tap_room":{
-				"10oz" : "$7.00"
+				"10oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
