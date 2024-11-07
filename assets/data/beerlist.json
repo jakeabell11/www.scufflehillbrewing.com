@@ -89,11 +89,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Sunny with a Chance of Watermelon",
-			"style" : "Watermelon Tart Ale",
-			"description" : "A sweet and tart watermelon ale made with tons of watermelon puree.",
-			"abv" : "4.7",
-			"ibu" : "8",
+			"name" : "Apple Ginger Light Lager",
+			"style" : "Fruited Light Lager",
+			"description" : "A light lager with made with apples and ginger. It's a nice fall time twist on a lager and its sweetness will remind you of a shandy!",
+			"abv" : "4.5",
+			"ibu" : "13",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.25",
