@@ -234,18 +234,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Brown's Log Cabin",
-			"style" : "English Brown Ale",
-			"description" : "A nice light bodied, easy drinking brown ale bringing tasting notes chocolate, caramel, dark fruity esters reminiscent of raisins, and a slight earthy hop bite! Named after the Brown's Log Cabin Tobacco Henry County was famous for.",
-			"abv" : "5.5",
-			"ibu" : "25",
+			"name" : "Midway",
+			"style" : "Munich Dunkel",
+			"description" : "A German Brown Lager with tasting notes of toast, chocolate, nuts, caramel and toffee. Before being known as the Town of Collinsville, the area was once called “Midway” because it was said to be midway between Bassett and Martinsville.",
+			"abv" : "5.0",
+			"ibu" : "24",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
 				"16oz" : "$6.25",
 				"20oz" : "$6.75"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
