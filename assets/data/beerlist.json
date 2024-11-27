@@ -103,17 +103,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Rotor Wash",
-			"style" : "Citra Session IPA",
-			"description" : "A nice refreshing Citra Session IPA boasting flavors of citrus and orange with a dry grapefruit finish! This is your summer time IPA. It's perfect for taking tubing or kayaking! Rotor Wash is the downward airflow created by a Helicopter's rotor blades as they generate lift.",
-			"abv" : "5.0",
-			"ibu" : "42",
+			"name" : "The In Between",
+			"style" : "Scotch Ale / Wee Heavy",
+			"description" : "A Scottish style of beer also known as a Wee Heavy providing rich, malty tasting notes of caramel, toffee, and molasses. It was brewed in collaboration with our friends at Living Proof Beer Co. in Rocky Mount, Va. The name is derived from Scottish History. The Scottish had several defended walls like Hadrian's Wall and Antonine Wall that marked the border in between Scotland and England. Our in between, as breweries, are the customers located between both our breweries.",
+			"abv" : "7.0",
+			"ibu" : "16",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
                 {
@@ -431,7 +431,7 @@
 				"16oz" : "$6.25",
 				"20oz" : "$6.75"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
