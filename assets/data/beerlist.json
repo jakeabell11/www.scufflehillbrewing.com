@@ -131,11 +131,11 @@
 			"comingSoon" : "no"
 		},
                 {
-			"name" : "Scuffling Up Hops W/ BRU-1, Citra, & El Dorado",
-			"style" : "New England IPA",
-			"description" : "This variant of our New England IPA series features BRU-1, Citra, and El Dorado hops! This combination of hops brings tasting notes of orange juice and pinapple with a danky herbal finish!",
-			"abv" : "6.7",
-			"ibu" : "40",
+			"name" : "Stoneman's Raid",
+			"style" : "Brown IPA",
+			"description" : "This Brown IPA is reminiscent of a West Coast style IPA with plenty of the pine, resinous bitterness with a slight citrus undertone. The malt body finishes dry with hints of caramel, chocolate, and toffee reminiscent of a Brown Ale! On March 24, 1865, Union Gen. George Stoneman led 6,000 cavalrymen from Tennessee into southwestern Virginia and western North Carolina to disrupt the Confederate supply line by destroying sections of the Virginia and Tennessee Railroad, the North Carolina Railroad, and the Piedmont Railroad. One of the last engagements of the Civil War in Virginia occurred here on April 8, 1865, as Union Col. William J. Palmer’s brigade of Gen. George Stoneman’s command swept through Henry County.",
+			"abv" : "6.2",
+			"ibu" : "69",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.50",
