@@ -307,16 +307,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "0 Dark 30",
-			"style" : "Imperial Chocolate Stout",
-			"description" : "Dark as the night when you wake up to PT at “0 Dark 30”, this imperial chocolate stout just tastes like smooth, dark chocolatey goodness. It’s full of body and was brewed with cocoa cereal, cocao nibs, and cocao powder.",
-			"abv" : "12",
-			"ibu" : "75",
+			"name" : "Trainwreck Tripel Threat",
+			"style" : "Belgian Tripel",
+			"description" : "A Belgian Tripel with a moderate bouquet of spiciness, fruity esters, and low hop aromas. The tasting notes are sweet banana upfront balanced with a soft clove finish. Other notes are orange and pear. The alcohol is well integrated and perceived as a warm sensation.",
+			"abv" : "9.5",
+			"ibu" : "23",
 			"picture" : "",
 			"tap_room":{
-				"10oz" : "$7.50"
+				"13oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
