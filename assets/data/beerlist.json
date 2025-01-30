@@ -103,11 +103,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "The In Between",
-			"style" : "Scotch Ale / Wee Heavy",
-			"description" : "A Scottish style of beer also known as a Wee Heavy providing rich, malty tasting notes of caramel, toffee, and molasses. It was brewed in collaboration with our friends at Living Proof Beer Co. in Rocky Mount, Va. The name is derived from Scottish History. The Scottish had several defended walls like Hadrian's Wall and Antonine Wall that marked the border in between Scotland and England. Our in between, as breweries, are the customers located between both our breweries.",
-			"abv" : "7.0",
-			"ibu" : "16",
+			"name" : "Motueka Smash",
+			"style" : "Smash IPA",
+			"description" : "A Single Malt and Single Hop IPA featuring Crisp Chevallier Heritage Malt and New Zealand Motueka Hops. This IPA boasts flavors and aromas of lemon, lime, tropical fruit, and orange marmalade.",
+			"abv" : "6.8",
+			"ibu" : "51",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.50",
