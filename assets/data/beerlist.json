@@ -245,7 +245,7 @@
 				"16oz" : "$6.25",
 				"20oz" : "$6.75"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -449,17 +449,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Waller's Ford",
-			"style" : "Weizenbock",
-			"description" : "Our Collaboration brew with our friends at Little Brother Brewing! A stronger, dark amber german wheat that presents tasting notes of banana bread with a slight hint of clove. Named after the home Major George Waller built in 1760. At the beginning of the Revolutionary War, the property was used as a muster field and drill ground. A shed room was added to store ammunition to be used in protecting the county against any british making a crossing at this point on the Smith River. The home was situated on a hill in the now present day town of Fieldale.",
-			"abv" : "6.7",
-			"ibu" : "11",
+			"name" : "Butter Pecan Brown",
+			"style" : "English Brown Ale",
+			"description" : "An English Brown Ale made with buttered pecans. It brings tasting notes chocolate, caramel, dark fruit esters resemblimg raisin, pecan nuttiness, and finishes with a slight earthy hop bite.",
+			"abv" : "5.6",
+			"ibu" : "25",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+				"8oz" : "$4.25",
+				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
