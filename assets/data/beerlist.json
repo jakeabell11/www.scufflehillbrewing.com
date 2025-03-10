@@ -359,16 +359,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Graceland Special",
-			"style" : "Imperial Peanut Butter Banana Stout",
-			"description" : "A full bodied, syrupy Imperial Stout bringing forth a robust roastiness accompanied by a smooth banana and peanut butter sweetness!",
-			"abv" : "10",
-			"ibu" : "50",
+			"name" : "Farmhouse Cider",
+			"style" : "Imperial Dry Hard Cider",
+			"description" : "Made with a Blend of Apples from South Cider (A Cidery coming soon to MHC). These Apples include Ruby Red Crab, Ashmeads Kernel, Harrison, Winesap, and  Limbertwig!  This Cider presents farmhouse notes from the Saison yeast used in it plus finishes nice, tart, dry, and clean!",
+			"abv" : "7.5",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"10oz" : "$7.50"
+				"13oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "Yes",
 			"comingSoon" : "no"
 		},
 		{
