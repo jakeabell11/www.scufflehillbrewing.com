@@ -117,18 +117,18 @@
 			"comingSoon" : "no"
 		},
                 {
-			"name" : "Fall Beer Sucks",
-			"style" : "American IPA",
-			"description" : "Dry hopped w/ Ahtanum, Amarillo, Mosaic, and East Kent Goldings! Brewed for the people that are already tired of pumpkin beers, this IPA is 6.8% and 70 IBUs with a malty caramel backbone accompanied by tasting notes of citrus, orange peel, grapefruit, and floral hoppiness!",
-			"abv" : "6.8",
-			"ibu" : "70",
+			"name" : "Type I",
+			"style" : "Coffee Porter",
+			"description" : "A nice full-bodied porter with tasting notes of roasty black coffee containing hints of chocolate. This porter features a medium roast of coffee from our friends at The Ground Floor in Uptown Martinsville.",
+			"abv" : "6.5",
+			"ibu" : "35",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
 			"available" : "no",
-			"comingSoon" : "no"
+			"comingSoon" : "yes"
 		},
                 {
 			"name" : "The Flame of Salvation",
