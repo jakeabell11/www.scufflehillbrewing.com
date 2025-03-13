@@ -473,17 +473,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Field-Ale",
-			"style" : "Cherry Dry-Hopped Saison",
-			"description" : "A Belgian Saison named after the local community of Fieldale! Bringing traditional flavors of banana and clove accompanied by the black and tart cherry additions. The dry hop of Idaho Gem and experimental hop HBC 630 accentuate those flavors more by providing more hoppy cherry flavors.",
-			"abv" : "6.3",
-			"ibu" : "24",
+			"name" : "Scuffling Up Apples Sweet",
+			"style" : "Sweet Hard Cider",
+			"description" : "Made with a Blend of Apples from South Cider (A Cidery coming soon to MHC). These Apples include Ruby Red Crab, Ashmeads Kernel, Harrison, Winesap, and  Limbertwig! This cider presents tasting notes resembling apple pie and applesauce!",
+			"abv" : "7.0",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+				"13oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
