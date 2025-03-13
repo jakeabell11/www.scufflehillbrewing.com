@@ -288,18 +288,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "1.75, My GF's Untapped Rating",
-			"style" : "Blood Orange IPA",
-			"description" : "Our owner Jake's girlfriend Allyson thinks all IPAs smell and taste like grapefruit, subsequently she rates them all 1.75 on Untapped, which is a poor rating on the beer rating app. So we made a Blood Orange IPA brewed with fresh Blood Orange, with the use of Falconer's Flight and Amarillo hops! This IPA boasts flavors and aromas of juicy Blood Orange, Grapefruit, and Grapefruit Peel, which makes the name quite fitting!",
-			"abv" : "6.8",
-			"ibu" : "60",
+			"name" : "Orchard Drive",
+			"style" : "Hard Cider",
+			"description" : "Our Flagship cider made with a blend of Pacific Northwest Apples. Crisp and refreshing, it highlights both the tartness and the sweetness of the apples.",
+			"abv" : "4.2",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
