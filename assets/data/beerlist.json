@@ -16,11 +16,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Colonel Rucker",
-			"style" : "Czech Pilsner",
-			"description" : "Clean, crisp with a nice biscuity malt backbone supported by a nice herbal hop bite from 100% Czech Saaz Hops! Named Colonel Pannill Rucker who is credited with starting to rebuild the Parish House after a fire destroyed it in 1917.",
-			"abv" : "5.3",
-			"ibu" : "35",
+			"name" : "Est. 1777",
+			"style" : "Czech Dark Lager",
+			"description" : "This dark lager has tasting notes of dark fruits resembling raisins or dates with hints of chocolate and a roasty finish. 1777 is the year the County of Henry was established.",
+			"abv" : "5.0",
+			"ibu" : "24",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
