@@ -474,12 +474,12 @@
 		{
 			"name" : "Scuffling Up Apples Sweet",
 			"style" : "Sweet Hard Cider",
-			"description" : "Made with a Blend of Apples from South Cider (A Cidery coming soon to MHC). These Apples include Ruby Red Crab, Ashmeads Kernel, Harrison, Winesap, and  Limbertwig! This cider presents tasting notes resembling apple pie and applesauce!",
+			"description" : "This semi sweet ruby red wine presents succulent flavors of fresh ripe black cherries balanced by a subtle touch of tannins. ALLERGY WARNING contains chitosan derived from crustacean shells.",
 			"abv" : "7.0",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"13oz" : "$7.50"
+				"8oz" : "$7.50"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
