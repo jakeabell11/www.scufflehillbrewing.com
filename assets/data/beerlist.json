@@ -302,16 +302,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Trainwreck Tripel Threat",
-			"style" : "Belgian Tripel",
-			"description" : "A Belgian Tripel with a moderate bouquet of spiciness, fruity esters, and low hop aromas. The tasting notes are sweet banana upfront balanced with a soft clove finish. Other notes are orange and pear. The alcohol is well integrated and perceived as a warm sensation.",
-			"abv" : "9.5",
-			"ibu" : "23",
+			"name" : "Orange Blossom Mead",
+			"style" : "Traditional Mead",
+			"description" : "A mead made from Orange Blossom honey that has tasting notes of sweet honey and citrus upfront with floral undertones and a warming complex alcohol in the finish!",
+			"abv" : "13",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"13oz" : "$7.50"
+				"6oz" : "$8.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
