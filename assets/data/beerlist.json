@@ -171,9 +171,9 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Painkiller Slushie Seltzer",
+			"name" : "Strawberry Daiquiri Slushie Seltzer",
 			"style" : "Hard Seltzer Slushie",
-			"description" : "The perfect drink for warm weather! This slushie boasts all the traditional flavors of the rum based cocktail including pineapple, coconut, mango, and citrus fruits.",
+			"description" : "The perfect drink for warm weather! This is made to resemble a Strawberry Daiquiri Cocktail with Strawberry and Rum flavoring in it",
 			"abv" : "7.0",
 			"ibu" : "",
 			"picture" : "",
@@ -181,7 +181,7 @@
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
