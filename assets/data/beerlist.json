@@ -443,11 +443,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Butter Pecan Brown",
-			"style" : "English Brown Ale",
-			"description" : "An English Brown Ale made with buttered pecans. It brings tasting notes of chocolate, caramel, dark fruit esters resembling raisin, pecan nuttiness, and finishes with a slight earthy hop bite.",
-			"abv" : "5.6",
-			"ibu" : "25",
+			"name" : "Mustangs Mango Wheat",
+			"style" : "Fruited Wheat Ale",
+			"description" : "A Wheat Ale made with Mango Puree. Named in honor of our local baseball team the Martinsville Mustangs! It provides tasting notes of sweet mango with hints of banana provided from the fruity esters from the yeast.",
+			"abv" : "4.7",
+			"ibu" : "13",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.25",
