@@ -147,15 +147,15 @@
                 {
 			"name" : "Bee City",
 			"style" : "Session Mead",
-			"description" : "It has tasting notes of sweet honey and floral undertones with an apple cider like finish! Named for Ridgeway becoming a Bee City USA Affiliate.",
+			"description" : "Our flagship sparkling session mead made with WG Bee Farm's wildflower honey! It provides delicate tasting notes of sweet honey and floral undertones with an apple cider like finish! Name is in honor of both The City of Martinsville and The Town of Ridgeway being Bee City USA Affiliates.",
 			"abv" : "7.5",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
 				"13oz" : "$7.50"
 			},
-			"available" : "no",
-			"comingSoon" : "yes"
+			"available" : "yes",
+			"comingSoon" : "no"
 		},
                 {
 			"name" : "Wolf of the Woods",
