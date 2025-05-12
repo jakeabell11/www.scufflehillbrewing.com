@@ -311,7 +311,7 @@
 			"tap_room":{
 				"6oz" : "$8.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -439,7 +439,7 @@
 			"tap_room":{
 				"13oz" : "$7.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
