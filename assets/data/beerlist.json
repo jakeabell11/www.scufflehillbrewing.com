@@ -16,11 +16,11 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Est. 1777",
-			"style" : "Czech Dark Lager",
-			"description" : "This dark lager has tasting notes of dark fruits resembling raisins or dates with hints of chocolate and a roasty finish. 1777 is the year the County of Henry was established.",
-			"abv" : "5.0",
-			"ibu" : "24",
+			"name" : "Ol' Rusty",
+			"style" : "American Amber Ale",
+			"description" : "A classic American Amber Ale boasting sweet caramel, fruity esters resembling dark fruits, and finishing with a slight earthy bitterness! Named after  George Hairston Jr.  who was given the nickname Ol’ Rusty for starting a small furnace and foundry called Union Iron Works Company! They refined the iron from the fairystone iron mines so it could be made into products to be sold.",
+			"abv" : "5.6",
+			"ibu" : "27",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
