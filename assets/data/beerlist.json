@@ -302,16 +302,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Orange Blossom Mead",
+			"name" : "Manuka Mead",
 			"style" : "Traditional Mead",
-			"description" : "A mead made from Orange Blossom honey that has tasting notes of sweet honey and citrus upfront with floral undertones and a warming complex alcohol in the finish!",
+			"description" : "Our Traditional Mead made from New Zealand Manuka Honey providing delicate tasting notes of caramelized honey and vanilla with hints of tropical fruit, citrus, floral and slightly woody undertones.",
 			"abv" : "13",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
 				"6oz" : "$8.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
