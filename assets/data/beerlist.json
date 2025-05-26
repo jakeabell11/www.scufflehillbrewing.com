@@ -167,7 +167,7 @@
 			"tap_room":{
 				"13oz" : "$7.50"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
@@ -185,18 +185,18 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Manakin Town",
-			"style" : "French Pilsner",
-			"description" : "A traditional French Pilsner made with French hops Aramis and Barbe Rouge. Bringing forth tasting notes of citrus, grapefruit, bread, with herbal and floral undertones! It finishes clean and crisp just like you'd want for a Pilsner! French Huguenots, or Protestants, fled religious persecution in France and emigrated to America through England. One settlement was Manakin Town, established in 1700 on the James River near Richmond.",
-			"abv" : "4.6",
-			"ibu" : "26",
+			"name" : "Kin Town",
+			"style" : "Japanese Rice Lager",
+			"description" : "A Japanese Rice Lager that boasts hints of sweet rice upfront but finishes crisp, clean, and dry with herbal, floral, and lemony undertones! All the Marines stationed on Camp Hansen know that Kin Town is the place to get drinks! A Japanese Town on Okinawa full of bars conveniently located right outside a Marine Corps Base!",
+			"abv" : "4.3",
+			"ibu" : "24",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
 				"16oz" : "$6.25",
 				"20oz" : "$6.75"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
