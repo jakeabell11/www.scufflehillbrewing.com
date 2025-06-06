@@ -89,17 +89,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Apple Ginger Light Lager",
-			"style" : "Fruited Light Lager",
-			"description" : "A light lager made with apples and ginger. It's a nice fall time twist on a lager and its sweetness will remind you of a shandy!",
-			"abv" : "4.5",
-			"ibu" : "13",
+			"name" : "Maple Mead",
+			"style" : "Semi-Sweet Acerglyn Mead",
+			"description" : "A Semi - Sweet Acerglyn Mead made from a blend of Tupelo Honey, Manuka Honey, Wildflower Honey, and Maple Syrup. It has delicate buttery, caramelized honey, maple, and oak tasting notes.",
+			"abv" : "12",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+				"6oz" : "$8.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
