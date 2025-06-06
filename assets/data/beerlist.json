@@ -92,7 +92,7 @@
 			"name" : "Maple Mead",
 			"style" : "Semi-Sweet Acerglyn Mead",
 			"description" : "A Semi - Sweet Acerglyn Mead made from a blend of Tupelo Honey, Manuka Honey, Wildflower Honey, and Maple Syrup. It has delicate buttery, caramelized honey, maple, and oak tasting notes.",
-			"abv" : "12",
+			"abv" : "12.0",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
@@ -157,16 +157,16 @@
 			"comingSoon" : "no"
 		},
                 {
-			"name" : "Wolf of the Woods",
-			"style" : "Double West Coast IPA",
-			"description" : "A Double West Coast IPA made for those that love a bitter IPA. This IPA starts off with tasting notes of citrus and stone fruit followed by a strong resinous, piney finish with a hint of grapefruit peel. The strong caramel maltiness helps balance the bitterness of this IPA. The Latin phrase for Wolf of the Woods is Humulus Lupulus, which is also the Latin name for hops. We thought this to be a fitting name for an IPA with such high IBUs.",
-			"abv" : "9.0",
-			"ibu" : "100",
+			"name" : "Tupelo Mead",
+			"style" : "Semi-Sweet Mead",
+			"description" : "A Semi-Sweet Mead made with 100% Tupelo honey that has delicate buttery tasting notes with hints of citrus, floral, and rosewater undertones!",
+			"abv" : "12.0",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"13oz" : "$7.50"
+				"6oz" : "$8.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
