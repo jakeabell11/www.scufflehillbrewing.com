@@ -301,17 +301,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Manuka Mead",
-			"style" : "Traditional Mead",
-			"description" : "Our Traditional Mead made from New Zealand Manuka Honey providing delicate tasting notes of caramelized honey and vanilla with hints of tropical fruit, citrus, floral and slightly woody undertones.",
-			"abv" : "13",
+			"name" : "Strawberry Wine",
+			"style" : "Semi-Sweet Fruit Wine",
+			"description" : "This light refreshing wine offers the delightfully sweet aroma of fresh picked strawberries blended with a rich melange of honey, tropical fruit and floral flavors.",
+			"abv" : "7",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"6oz" : "$8.50"
+				"8oz" : "$7.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available" : "no",
+			"comingSoon" : "yes"
 		},
 		{
 			"name" : "Naked Gose",
