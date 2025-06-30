@@ -471,14 +471,14 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Black Cherry Wine",
-			"style" : "Semi Sweet Fruit Wine",
-			"description" : "This semi sweet ruby red wine presents succulent flavors of fresh ripe black cherries balanced by a subtle touch of tannins. ALLERGY WARNING contains chitosan derived from crustacean shells.",
-			"abv" : "7.0",
+			"name" : "Hickey's Fort",
+			"style" : "Baltic Porter",
+			"description" : "This style of lagered porter presents rich, complex tasting notes of dark chocolate, coffee, and dark fruits like raisens or plums while finishing with a clean lager character. Hickey's Fort, also known as Hickey's Ordinary, was one of the last stops for immimgrants traveling The Great Wagon Road. It was situated along the Smith River and provided a place for camping and to restock on supplies. It was also used as a defensive fort against Indian attacks during the French and Indian War.",
+			"abv" : "8.0",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$7.50"
+				"13oz" : "$7.50"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
