@@ -429,16 +429,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Scuffling Up Apples",
-			"style" : "Imperial Dry Hard Cider",
-			"description" : "Made with a Blend of Apples from South Cider (A Cidery coming soon to MHC). These Apples include Ruby Red Crab, Ashmeads Kernel, Harrison, Winesap, and  Limbertwig! This Cider presents champagne like aromas and flavors and tasting notes almost remind you of a mimosa!",
-			"abv" : "7.6",
+			"name" : "Orange Blossom Mead",
+			"style" : "Traditional Mead",
+			"description" : "A mead made from Orange Blossom honey that has tasting notes of sweet honey and citrus upfront with floral undertones and a warming complex alcohol in the finish!",
+			"abv" : "13.0",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"13oz" : "$7.50"
+				"6oz" : "$8.00"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
