@@ -531,16 +531,16 @@
 		{
 			"name" : "Near War's End",
 			"style" : "Doppelbock",
-			"description" : "Our take on a traditional German Doppelbock. Rich, creamy, sweet and malty with tasting notes of toast, dark chocolate, caramelized brown sugar, and dark fruits like raisin and fig!",
-			"abv" : "8.0",
-			"ibu" : "16",
+			"description" : "This version of our rotating NEIPA series features HBC 630, HBC 1019, and Krush Hops! This blend provides tasting notes of tangerine, pineapple, tropical fruits, and finishes with a slight earthy bitterness!",
+			"abv" : "7.0",
+			"ibu" : "40",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$5.00",
-				"16oz" : "$7.50"
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
 			"available" : "no",
-			"comingSoon" : "no"
+			"comingSoon" : "yes"
 		}
 	]
 }
