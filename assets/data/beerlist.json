@@ -199,18 +199,16 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Country Inn",
-			"style" : "English Dark Mild",
-			"description" : "Named after the old “Country Inn” motel in Oak Level, this beer provides tasting notes of sweet chocolate, caramel, and dark fruit flavors.",
-			"abv" : "4.5",
-			"ibu" : "28",
+			"name" : "Strawberry Rhubarb Vanilla Mead",
+			"style" : "Dessert Melomel Mead",
+			"description" : "A Sweet Mead that has delicate tasting notes of sweet honey, strawberry, rhubarb, and vanilla!",
+			"abv" : "13.3",
+			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"6oz" : "$8.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
