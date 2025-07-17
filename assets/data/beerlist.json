@@ -355,14 +355,15 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Farmhouse Cider",
-			"style" : "Imperial Dry Hard Cider",
-			"description" : "Made with a Blend of Apples from South Cider (A Cidery coming soon to MHC). These Apples include Ruby Red Crab, Ashmeads Kernel, Harrison, Winesap, and  Limbertwig!  This Cider presents farmhouse notes from the Saison yeast used in it plus finishes nice, tart, dry, and clean!",
-			"abv" : "7.5",
+			"name" : "Pearadise",
+			"style" : "Pear Hard Cider",
+			"description" : "Made from Pears, this Pear Cider is sweet and fruity upront but finishes tart, clean, crisp, and dry.",
+			"abv" : "4.3",
 			"ibu" : "",
 			"picture" : "",
 			"tap_room":{
-				"13oz" : "$7.50"
+				"8oz" : "$4.50",
+				"16oz" : "$7.00"
 			},
 			"available" : "yes",
 			"comingSoon" : "no"
