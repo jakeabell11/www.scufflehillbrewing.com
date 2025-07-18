@@ -1,18 +1,18 @@
 {
 	"beer": [
 		{
-			"name" : "Big Tony's",
-			"style" : "Italian Pilsner",
-			"description" : "A crisp, clean Pilsner with a floral, herbal hop bite supported by a biscuity backbone. We wanted to make a good beer to pair with pizza, because who doesn't love pizza and beer?! This pilsner is named after Tony Palumbo, owner of Papa's Pizzeria! ",
-			"abv" : "5.5",
-			"ibu" : "31",
+			"name" : "Fort Mayo",
+			"style" : "Belgian Pilsner",
+			"description" : "This Pilsner presents a nice sweet biscuity malt flavor upfront with some lemony tasting notes. The hop profile provides a nice peppery, herbal bitterness while finishing clean, crisp, and dry. Fort Mayo was constructed along the Smith River to protect against Indian Raids during the French and Indian War. George Washington stayed at least one night in the Fort in 1756. The exact location for Fort Mayo is not known with certainty.",
+			"abv" : "4.8",
+			"ibu" : "35",
 			"picture" : "",
 			"tap_room":{
 				"8oz" : "$4.00",
-				"16oz" : "$6.00",
-				"20oz" : "$6.50"
+				"16oz" : "$6.25",
+				"20oz" : "$6.75"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -252,7 +252,7 @@
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
