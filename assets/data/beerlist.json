@@ -116,17 +116,17 @@
 			"comingSoon" : "no"
 		},
                 {
-			"name" : "Type I",
-			"style" : "Coffee Porter",
-			"description" : "A nice full-bodied porter with tasting notes of roasty black coffee containing hints of chocolate. This porter features a medium roast of coffee from our friends at The Ground Floor in Uptown Martinsville.",
-			"abv" : "6.5",
-			"ibu" : "35",
+			"name" : "The Fellowship of the Mil",
+			"style" : "Strawberry Rhubarb Hefeweizen",
+			"description" : "This version of our Prost Hefeweizen features additions of sweet strawberry and tart rhubarb puree while still maintaining those traditional banana and clove esters found in Hefeweizens. Prost being our Dungeon Master Remy's favorite brew, we decided to give it a little twist and name it after what his group of adventurers called themselves in his first Dungeons, Dragons, and Drafts campaign for us!",
+			"abv" : "4.7",
+			"ibu" : "11",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+				"8oz" : "$4.25",
+				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
                 {
@@ -380,7 +380,7 @@
 				"16oz" : "$6.25",
 				"20oz" : "$6.75"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		},
 		{
