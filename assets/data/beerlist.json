@@ -130,17 +130,17 @@
 			"comingSoon" : "no"
 		},
                 {
-			"name" : "Fly Line",
-			"style" : "Cold IPA",
-			"description" : "It's about time to cast those Fly Lines into the Smith River! That said, we thought you needed a crushable ipa. This IPA was lagered with NOVA Lager yeast and brewed with chinook, centennial, citra, and el dorado hops to bring you tasting notes of citrus and citrus peel upfront followed by a clean, crisp piney finish!.",
-			"abv" : "5.8",
-			"ibu" : "61",
+			"name" : "Pear Ginger Grisette",
+			"style" : "Belgian Grisette",
+			"description" : "A Belgian Grisette featuring pear and ginger additions! This farmhouse style features sweet pear and ginger upfront followed by light peppery Belgian esters. This is a nice, light refreshing brew.",
+			"abv" : "4.2",
+			"ibu" : "25",
 			"picture" : "", 
 			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+				"8oz" : "$4.25",
+				"16oz" : "$6.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
                 {
