@@ -398,19 +398,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Uluru Aussie Amber",
-			"style" : "Amber Ale",
-			"description" : "An experimental Amber Ale made with all Australian Hops (Galaxy and Vic Secret). It brings forward tasting notes and aromas of pineapple, stone fruit, and tropical fruits while finishing up with a toasty, caramel backbone. The name is derived from the infamous Uluru Red Rock in Australia.",
-			"abv" : "5.6",
-			"ibu" : "32",
+			"name" : "Three Sheets to the Wind",
+			"style" : "Pina Colada Belgian Tripel",
+			"description" : "We took our Trainwreck Tripel Threat base - a Belgian Tripel with a moderate bouquet of spice, fruity esters, and a touch of hop aroma - and gave it a tropical twist. This brew layers in pineapple, coconut, and banana to bring out a smooth pina colada vibe, while still holding on to those classic Tripel notes of sweet banana upfront and a soft clove finish. Subtle hints of orange and pear shine through, and it's rounded with a slight floral hop bitterness for balance. The alcohol remains well integrated, leaving a gentle warm sensation.",
+			"abv" : "9.5",
+			"ibu" : "23",
 			"picture" : "",
 			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+				"13oz" : "$8.00"
 			},
 			"available" : "no",
-			"comingSoon" : "no"
+			"comingSoon" : "yes"
 		},
 		{
 			"name" : "PT Schwartz",
