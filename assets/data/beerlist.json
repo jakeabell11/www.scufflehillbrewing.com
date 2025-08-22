@@ -439,17 +439,17 @@
 			"comingSoon" : "no"
 		},
 		{
-			"name" : "Mustangs Mango Wheat",
-			"style" : "Fruited Wheat Ale",
-			"description" : "A Wheat Ale made with Mango Puree. Named in honor of our local baseball team the Martinsville Mustangs! It provides tasting notes of sweet mango with hints of banana provided from the fruity esters from the yeast.",
-			"abv" : "4.7",
-			"ibu" : "13",
+			"name" : "Anniversary IPA",
+			"style" : "Birthday Cake Milkshake IPA",
+			"description" : "Brewed to celebrate our 4-year anniversary coming up, this one-of-a-kind IPA is loaded with flavor and festivity! We started with  birthday cake, added Madagascar vanilla beans, creamy lactose, and layered in hop additions of Galaxy, Mosaic, and Citra during the boil, whirlpool, and dry hop. The result? A brew that bursts with a sweet birthday cake aroma, followed by rich cake and vanilla notes. The hops shine through with hints of tropical fruit, stone fruit, citrus, and a touch of dankness, perfectly complementing the sweet and creamy base.",
+			"abv" : "7.0",
+			"ibu" : "33",
 			"picture" : "",
 			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+				"8oz" : "$5.00",
+				"16oz" : "$7.50"
 			},
-			"available" : "no",
+			"available" : "yes",
 			"comingSoon" : "no"
 		},
 		{
@@ -536,7 +536,7 @@
 				"8oz" : "$4.50",
 				"16oz" : "$7.00"
 			},
-			"available" : "yes",
+			"available" : "no",
 			"comingSoon" : "no"
 		}
 	]
