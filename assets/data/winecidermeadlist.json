@@ -191,15 +191,15 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Raspberry Chocolate Mead",
-			"style": "Sweet Pyment Mead",
+			"name": "Pink Moscato",
+			"style": "Sweet Wine",
 			"producer": "",
-			"description": "A Sweet Pyment Mead that has delicate tasting notes of sweet honey, raspberries, and chocolate!",
-			"abv": "13.5",
+			"description": "A sweet wine with flavors of  fresh  berries, such as strawberry, raspberry, and cherry with hints of pomegranate or melon.",
+			"abv": "11.0",
 			"picture": "",
 			"tap_room": {
-				"6oz": "$8.50",
-				"Bottle": "$32.00"
+				"6oz": "$8.00",
+				"Bottle": "$20.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
