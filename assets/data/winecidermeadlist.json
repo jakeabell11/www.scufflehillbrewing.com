@@ -140,15 +140,15 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Pearadise",
-			"style": "Pear Hard Cider",
+			"name": "Maple Wine",
+			"style": "Sweet Maple Wine",
 			"producer": "",
-			"description": "Made from Pears, this Pear Cider is sweet and fruity upfront but finishes tart, clean, crisp, and dry.",
-			"abv": "4.3",
+			"description": "A Sweet Maple Wine that has delicate tasting notes of maple, oak, and slightly floral and woody undertones! Made from 100% Grade B Maple Syrup!",
+			"abv": "11.7",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"6oz": "$8.00",
+				"Bottle": "$30.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
