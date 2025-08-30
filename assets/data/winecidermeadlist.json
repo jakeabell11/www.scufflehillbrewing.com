@@ -175,15 +175,15 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Wildflower Mead",
-			"style": "Sweet Traditional Mead",
+			"name": "Raspberry Chocolate Mead",
+			"style": "Sweet Pyment Mead",
 			"producer": "",
-			"description": "A Sweet Mead that has delicate tasting notes of sweet honey with hints of citrus, sweet fruits, and slightly floral and honeysuckle undertones. Made from 100% wildflower honey from WG Bee Farm.",
-			"abv": "13.7",
+			"description": "A Sweet Pyment Mead that has delicate tasting notes of sweet honey, raspberries, and chocolate!",
+			"abv": "13.5",
 			"picture": "",
 			"tap_room": {
-				"6oz": "$8.00",
-				"Bottle": "$30.00"
+				"6oz": "$8.50",
+				"Bottle": "$32.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
