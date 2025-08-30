@@ -173,6 +173,22 @@
 			"comingSoon": "no",
 			"house" : "yes",
 			"guest" : "no"
+		},
+		{
+			"name": "Wildflower Mead",
+			"style": "Sweet Traditional Mead",
+			"producer": "",
+			"description": "A Sweet Mead that has delicate tasting notes of sweet honey with hints of citrus, sweet fruits, and slightly floral and honeysuckle undertones. Made from 100% wildflower honey from WG Bee Farm.",
+			"abv": "13.7",
+			"picture": "",
+			"tap_room": {
+				"6oz": "$8.00",
+				"Bottle": "$30.00"
+			},
+			"available": "yes",
+			"comingSoon": "no",
+			"house" : "yes",
+			"guest" : "no"
 		}
 	]
 }
