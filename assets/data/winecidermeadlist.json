@@ -2,7 +2,7 @@
 	"winecidermead": [
 		{
 			"name": "Strawberry Wine",
-			"style": "Semi-Sweet Fruit Wine",
+			"style": "Sweet Fruit Wine",
 			"producer": "",
 			"description": "This light refreshing wine offers the delightfully sweet aroma of fresh picked strawberries blended with a rich melange of honey, tropical fruit and floral flavors.",
 			"abv": "7",
@@ -64,7 +64,7 @@
 		},
 		{
 			"name": "Tupelo Mead",
-			"style": "Semi-Sweet Mead",
+			"style": "Semi-Sweet Traditional Mead",
 			"producer": "",
 			"description": "A Semi-Sweet Mead made with 100% Tupelo honey that has delicate buttery tasting notes with hints of citrus, floral, and rosewater undertones!",
 			"abv": "12.0",
@@ -96,7 +96,7 @@
 		},
 		{
 			"name": "Orange Blossom Mead",
-			"style": "Traditional Mead",
+			"style": "Semi-Sweet Traditional Mead",
 			"producer": "",
 			"description": "A mead made from Orange Blossom honey that has tasting notes of sweet honey and citrus upfront with floral undertones and a warming complex alcohol in the finish!",
 			"abv": "13.0",
