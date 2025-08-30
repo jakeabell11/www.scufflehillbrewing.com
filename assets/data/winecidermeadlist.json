@@ -159,11 +159,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Maple Wine",
-			"style": "Sweet Maple Wine",
+			"name": "Wildflower Mead",
+			"style": "Sweet Traditional Mead",
 			"producer": "",
-			"description": "A Sweet Maple Wine that has delicate tasting notes of maple, oak, and slightly floral and woody undertones! Made from 100% Grade B Maple Syrup!",
-			"abv": "11.7",
+			"description": "A Sweet Mead that has delicate tasting notes of sweet honey with hints of citrus, sweet fruits, and slightly floral and honeysuckle undertones. Made from 100% wildflower honey from WG Bee Farm.",
+			"abv": "13.7",
 			"picture": "",
 			"tap_room": {
 				"6oz": "$8.00",
