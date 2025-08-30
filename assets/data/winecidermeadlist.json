@@ -229,7 +229,7 @@
 			"abv": "12.9",
 			"picture": "",
 			"tap_room": {
-				"6oz": "$7.50"
+				"6oz": "$8.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
@@ -237,14 +237,14 @@
 			"guest" : "yes"
 		},
 		{
-			"name": "2024 Old Virginia Red",
-			"style": "Red Blend",
-			"producer": "Hamlet Vinyards",
-			"description": "Old Virginia Red continues to be a crowd pleaser - smooth, light and great with food. The 2024 vintage features 100% Chambourcin.",
-			"abv": "12.9",
+			"name": "Dreamboat",
+			"style": "Merlot",
+			"producer": "Fables & Feathers Winery",
+			"description": "This semi-sweet Merlot is perfect for porch sippin' on a hot day!",
+			"abv": "12.0",
 			"picture": "",
 			"tap_room": {
-				"6oz": "$7.50"
+				"6oz": "$8.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
