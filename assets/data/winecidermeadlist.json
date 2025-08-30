@@ -205,6 +205,21 @@
 			"comingSoon": "no",
 			"house" : "yes",
 			"guest" : "no"
+		},
+		{
+			"name": "Cardinal Rosé",
+			"style": "Rosé",
+			"producer": "Hamlet Vinyards",
+			"description": "Light, fruity blush‑colored rosé with strawberry notes—ideal for warm‑weather sipping.",
+			"abv": "12.5",
+			"picture": "",
+			"tap_room": {
+				"6oz": "$7.50"
+			},
+			"available": "yes",
+			"comingSoon": "no",
+			"house" : "no",
+			"guest" : "yes"
 		}
 	]
 }
