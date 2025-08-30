@@ -189,6 +189,22 @@
 			"comingSoon": "no",
 			"house" : "yes",
 			"guest" : "no"
+		},
+		{
+			"name": "Raspberry Chocolate Mead",
+			"style": "Sweet Pyment Mead",
+			"producer": "",
+			"description": "A Sweet Pyment Mead that has delicate tasting notes of sweet honey, raspberries, and chocolate!",
+			"abv": "13.5",
+			"picture": "",
+			"tap_room": {
+				"6oz": "$8.50",
+				"Bottle": "$32.00"
+			},
+			"available": "yes",
+			"comingSoon": "no",
+			"house" : "yes",
+			"guest" : "no"
 		}
 	]
 }
