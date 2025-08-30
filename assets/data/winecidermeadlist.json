@@ -70,7 +70,8 @@
 			"abv": "12.0",
 			"picture": "",
 			"tap_room": {
-				"6oz": "$8.00"
+				"6oz": "$8.00",
+				"Bottle": "$30.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
