@@ -220,6 +220,21 @@
 			"comingSoon": "no",
 			"house" : "no",
 			"guest" : "yes"
+		},
+		{
+			"name": "2024 Viognier",
+			"style": "Viognier",
+			"producer": "Hamlet Vinyards",
+			"description": "Named Virginia's official state grape in 2011, Viognier is a white wine grape made famous in the Rhone Valley of France. The floral aromas and lush character suggest some sweetness but the wine is finished dry. You may notice some peach or golden pear on the nose. It is a perfect pairing for spicy or salty foods - perhaps Thai or curry. Silver Medal Winner at the Virginia Governor's Cup.",
+			"abv": "12.5",
+			"picture": "",
+			"tap_room": {
+				"6oz": "$7.50"
+			},
+			"available": "yes",
+			"comingSoon": "no",
+			"house" : "no",
+			"guest" : "yes"
 		}
 	]
 }
