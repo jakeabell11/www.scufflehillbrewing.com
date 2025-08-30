@@ -252,14 +252,14 @@
 			"guest" : "yes"
 		},
 		{
-			"name": "Dreamboat",
-			"style": "Merlot",
+			"name": "2024 Alice's White",
+			"style": "Sweet White Wine",
 			"producer": "Fables & Feathers Winery",
-			"description": "This semi-sweet Merlot is perfect for porch sippin' on a hot day!",
+			"description": " Like Moscato but better, this new vintage is just as delicious as the last!",
 			"abv": "12.0",
 			"picture": "",
 			"tap_room": {
-				"6oz": "$8.00"
+				"6oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no",
