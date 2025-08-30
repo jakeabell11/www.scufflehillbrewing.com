@@ -1,543 +1,437 @@
 {
 	"beer": [
 		{
-			"name" : "Fort Mayo",
-			"style" : "Belgian Pilsner",
-			"description" : "This Pilsner presents a nice sweet biscuity malt flavor upfront with some lemony tasting notes. The hop profile provides a nice peppery, herbal bitterness while finishing clean, crisp, and dry. Fort Mayo was constructed along the Smith River to protect against Indian Raids during the French and Indian War. George Washington stayed at least one night in the Fort in 1756. The exact location for Fort Mayo is not known with certainty.",
-			"abv" : "4.8",
-			"ibu" : "35",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
+			"name": "Fort Mayo",
+			"style": "Belgian Pilsner",
+			"description": "This Pilsner presents a nice sweet biscuity malt flavor upfront with some lemony tasting notes. The hop profile provides a nice peppery, herbal bitterness while finishing clean, crisp, and dry. Fort Mayo was constructed along the Smith River to protect against Indian Raids during the French and Indian War. George Washington stayed at least one night in the Fort in 1756. The exact location for Fort Mayo is not known with certainty.",
+			"abv": "4.8",
+			"ibu": "35",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Ol' Rusty",
-			"style" : "American Amber Ale",
-			"description" : "A classic American Amber Ale boasting sweet caramel, fruity esters resembling dark fruits, and finishing with a slight earthy bitterness! Named after  George Hairston Jr.  who was given the nickname Ol’ Rusty for starting a small furnace and foundry called Union Iron Works Company! They refined the iron from the Fairystone iron mines so it could be made into products to be sold.",
-			"abv" : "5.6",
-			"ibu" : "27",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
+			"name": "Ol' Rusty",
+			"style": "American Amber Ale",
+			"description": "A classic American Amber Ale boasting sweet caramel, fruity esters resembling dark fruits, and finishing with a slight earthy bitterness! Named after  George Hairston Jr.  who was given the nickname Ol’ Rusty for starting a small furnace and foundry called Union Iron Works Company! They refined the iron from the Fairystone iron mines so it could be made into products to be sold.",
+			"abv": "5.6",
+			"ibu": "27",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Dick & Willie",
-			"style" : "Oatmeal Stout",
-			"description" : "Named after the famous Railroad that ran through Henry County now turned into the famous walking trail. Tasting notes of dark chocolate, coffee, oatmeal, and a hint of maple syrup. This is an easy drinking dark beer.",
-			"abv" : "6.7",
-			"ibu" : "19",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+			"name": "Dick & Willie",
+			"style": "Oatmeal Stout",
+			"description": "Named after the famous Railroad that ran through Henry County now turned into the famous walking trail. Tasting notes of dark chocolate, coffee, oatmeal, and a hint of maple syrup. This is an easy drinking dark beer.",
+			"abv": "6.7",
+			"ibu": "19",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.50",
+				"16oz": "$7.00"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Tricorn",
-			"style" : "American IPA",
-			"description" : "Named after the hat worn by revolutionary war soldiers and officers, this IPA has a blend of three hops: Galaxy, Amarillo, and Citra. This was made for our hop heads! Tasting notes should include passionfruit, grapefruit, lime, and clean citrus brought on from this blend of hops. Hints of caramel and malt may be tasted. General Joseph Martin possibly could have been wearing this hat when he claimed “Scuffle Hill” as his land.",
-			"abv" : "6.7",
-			"ibu" : "61",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+			"name": "Tricorn",
+			"style": "American IPA",
+			"description": "Named after the hat worn by revolutionary war soldiers and officers, this IPA has a blend of three hops: Galaxy, Amarillo, and Citra. This was made for our hop heads! Tasting notes should include passionfruit, grapefruit, lime, and clean citrus brought on from this blend of hops. Hints of caramel and malt may be tasted. General Joseph Martin possibly could have been wearing this hat when he claimed “Scuffle Hill” as his land.",
+			"abv": "6.7",
+			"ibu": "61",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.50",
+				"16oz": "$7.00"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "The Big Chair",
-			"style" : "Blonde Ale",
-			"description" : "This is our flagship Blonde Ale, hopped with El Dorado and Huell melon giving it a sweet taste with hints of melon. The name “Big Chair” comes from the worlds largest chair that was manufactured by Bassett Furniture and used to be displayed in Uptown Martinsville.",
-			"abv" : "5",
-			"ibu" : "25",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.00",
-				"20oz" : "$6.50"
+			"name": "The Big Chair",
+			"style": "Blonde Ale",
+			"description": "This is our flagship Blonde Ale, hopped with El Dorado and Huell melon giving it a sweet taste with hints of melon. The name “Big Chair” comes from the worlds largest chair that was manufactured by Bassett Furniture and used to be displayed in Uptown Martinsville.",
+			"abv": "5",
+			"ibu": "25",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Da 'Rona",
-			"style" : "Mexican Cerveza",
-			"description" : "Our Mexican Cerveza is light hopped, clean and refreshing with a slight aroma of lime peel. It’s served best with a fresh slice of lime while you sit outside and enjoy some fresh air during this quarantine.",
-			"abv" : "5.0",
-			"ibu" : "21",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.00",
-				"20oz" : "$6.50"
+			"name": "Da 'Rona",
+			"style": "Mexican Cerveza",
+			"description": "Our Mexican Cerveza is light hopped, clean and refreshing with a slight aroma of lime peel. It’s served best with a fresh slice of lime while you sit outside and enjoy some fresh air during this quarantine.",
+			"abv": "5.0",
+			"ibu": "21",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Maple Mead",
-			"style" : "Semi-Sweet Acerglyn Mead",
-			"description" : "A Semi - Sweet Acerglyn Mead made from a blend of Tupelo Honey, Manuka Honey, Wildflower Honey, and Maple Syrup. It has delicate buttery, caramelized honey, maple, and oak tasting notes.",
-			"abv" : "12.0",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"6oz" : "$8.50"
+			"name": "Amarillo Smash",
+			"style": "Smash Pale Ale",
+			"description": "A crisp, golden single-malt, single-hop pale ale brewed to showcase Amarillo hops and Crisp Chevallier Malt. Bursting with notes of orange, grapefruit, floral citrus, and a touch of tropical fruit, with a smooth malt backbone and a clean, refreshing finish.",
+			"abv": "5.5",
+			"ibu": "60",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.50",
+				"16oz": "$7.00"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Amarillo Smash",
-			"style" : "Smash Pale Ale",
-			"description" : "A crisp, golden single-malt, single-hop pale ale brewed to showcase Amarillo hops and Crisp Chevallier Malt. Bursting with notes of orange, grapefruit, floral citrus, and a touch of tropical fruit, with a smooth malt backbone and a clean, refreshing finish.",
-			"abv" : "5.5",
-			"ibu" : "60",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+			"name": "The Fellowship of the Mil",
+			"style": "Strawberry Rhubarb Hefeweizen",
+			"description": "This version of our Prost Hefeweizen features additions of sweet strawberry and tart rhubarb puree while still maintaining those traditional banana and clove esters found in Hefeweizens. Prost being our Dungeon Master Remy's favorite brew, we decided to give it a little twist and name it after what his group of adventurers called themselves in his first Dungeons, Dragons, and Drafts campaign for us!",
+			"abv": "4.7",
+			"ibu": "11",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
-		},
-                {
-			"name" : "The Fellowship of the Mil",
-			"style" : "Strawberry Rhubarb Hefeweizen",
-			"description" : "This version of our Prost Hefeweizen features additions of sweet strawberry and tart rhubarb puree while still maintaining those traditional banana and clove esters found in Hefeweizens. Prost being our Dungeon Master Remy's favorite brew, we decided to give it a little twist and name it after what his group of adventurers called themselves in his first Dungeons, Dragons, and Drafts campaign for us!",
-			"abv" : "4.7",
-			"ibu" : "11",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
-			},
-			"available" : "yes",
-			"comingSoon" : "no"
-		},
-                {
-			"name" : "Pear Ginger Grisette",
-			"style" : "Belgian Grisette",
-			"description" : "A Belgian Grisette featuring pear and ginger additions! This farmhouse style features sweet pear and ginger upfront followed by light peppery Belgian esters. This is a nice, light refreshing brew.",
-			"abv" : "4.2",
-			"ibu" : "25",
-			"picture" : "", 
-			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
-			},
-			"available" : "yes",
-			"comingSoon" : "no"
-		},
-                {
-			"name" : "Bee City",
-			"style" : "Session Mead",
-			"description" : "Our flagship sparkling session mead made with WG Bee Farm's wildflower honey! It provides delicate tasting notes of sweet honey and floral undertones with an apple cider like finish! Name is in honor of both The City of Martinsville and The Town of Ridgeway being Bee City USA Affiliates.",
-			"abv" : "7.5",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"13oz" : "$7.50"
-			},
-			"available" : "yes",
-			"comingSoon" : "no"
-		},
-                {
-			"name" : "Tupelo Mead",
-			"style" : "Semi-Sweet Mead",
-			"description" : "A Semi-Sweet Mead made with 100% Tupelo honey that has delicate buttery tasting notes with hints of citrus, floral, and rosewater undertones!",
-			"abv" : "12.0",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"6oz" : "$8.00"
-			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Painkiller Slushie Seltzer",
-			"style" : "Hard Seltzer Slushie",
-			"description" : "The perfect drink for warm weather! This slushie boasts all the traditional flavors of the rum based cocktail including pineapple, coconut, mango, and citrus fruits.",
-			"abv" : "7.0",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+			"name": "Pear Ginger Grisette",
+			"style": "Belgian Grisette",
+			"description": "A Belgian Grisette featuring pear and ginger additions! This farmhouse style features sweet pear and ginger upfront followed by light peppery Belgian esters. This is a nice, light refreshing brew.",
+			"abv": "4.2",
+			"ibu": "25",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Kin Town",
-			"style" : "Japanese Rice Lager",
-			"description" : "A Japanese Rice Lager that boasts hints of sweet rice upfront but finishes crisp, clean, and dry with herbal, floral, and lemony undertones! All the Marines stationed on Camp Hansen know that Kin Town is the place to get drinks! A Japanese Town on Okinawa full of bars conveniently located right outside a Marine Corps Base!",
-			"abv" : "4.3",
-			"ibu" : "24",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
+			"name": "Painkiller Slushie Seltzer",
+			"style": "Hard Seltzer Slushie",
+			"description": "The perfect drink for warm weather! This slushie boasts all the traditional flavors of the rum based cocktail including pineapple, coconut, mango, and citrus fruits.",
+			"abv": "7.0",
+			"ibu": "",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.50",
+				"16oz": "$7.00"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Strawberry Rhubarb Vanilla Mead",
-			"style" : "Dessert Melomel Mead",
-			"description" : "A Sweet Mead that has delicate tasting notes of sweet honey, strawberry, rhubarb, and vanilla!",
-			"abv" : "13.3",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"6oz" : "$8.50"
+			"name": "Kin Town",
+			"style": "Japanese Rice Lager",
+			"description": "A Japanese Rice Lager that boasts hints of sweet rice upfront but finishes crisp, clean, and dry with herbal, floral, and lemony undertones! All the Marines stationed on Camp Hansen know that Kin Town is the place to get drinks! A Japanese Town on Okinawa full of bars conveniently located right outside a Marine Corps Base!",
+			"abv": "4.3",
+			"ibu": "24",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "General Joe's",
-			"style" : "American Light Lager",
-			"description" : "A crisp, resfreshing light lager with light bready, apple, and herbal undertones! Named after General Joesph Martin, the revolutionary war general credited as the founder of Martinsville!",
-			"abv" : "4.5",
-			"ibu" : "13",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.00",
-				"20oz" : "$6.50"
+			"name": "General Joe's",
+			"style": "American Light Lager",
+			"description": "A crisp, resfreshing light lager with light bready, apple, and herbal undertones! Named after General Joesph Martin, the revolutionary war general credited as the founder of Martinsville!",
+			"abv": "4.5",
+			"ibu": "13",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Midway",
-			"style" : "Munich Dunkel",
-			"description" : "A German Brown Lager with tasting notes of toast, chocolate, nuts, caramel and toffee. Before being known as the Town of Collinsville, the area was once called “Midway” because it was said to be midway between Bassett and Martinsville.",
-			"abv" : "5.0",
-			"ibu" : "24",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
+			"name": "Midway",
+			"style": "Munich Dunkel",
+			"description": "A German Brown Lager with tasting notes of toast, chocolate, nuts, caramel and toffee. Before being known as the Town of Collinsville, the area was once called “Midway” because it was said to be midway between Bassett and Martinsville.",
+			"abv": "5.0",
+			"ibu": "24",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "A Lighter Shade of Pale",
-			"style" : "Hazy Pale Ale",
-			"description" : "A single hopped Hazy Pale Ale made with Vic Secret hops. It has a sweet taste with hints of mango, citrus and pineapple accompanied by a slight hoppy bitterness.",
-			"abv" : "5.0",
-			"ibu" : "54",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+			"name": "A Lighter Shade of Pale",
+			"style": "Hazy Pale Ale",
+			"description": "A single hopped Hazy Pale Ale made with Vic Secret hops. It has a sweet taste with hints of mango, citrus and pineapple accompanied by a slight hoppy bitterness.",
+			"abv": "5.0",
+			"ibu": "54",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.50",
+				"16oz": "$7.00"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Fruit Punch Seltzer",
-			"style" : "Seltzer Water",
-			"description" : "Crisp, bubbly and refreshing hard seltzer water made with Orange, Peach, Passionfruit, and Strawberry! Made to resemble your favorite fruit punch beverages!",
-			"abv" : "4.1",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+			"name": "Fruit Punch Seltzer",
+			"style": "Seltzer Water",
+			"description": "Crisp, bubbly and refreshing hard seltzer water made with Orange, Peach, Passionfruit, and Strawberry! Made to resemble your favorite fruit punch beverages!",
+			"abv": "4.1",
+			"ibu": "",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Oktoberfest",
-			"style" : "Marzen",
-			"description" : "Our take on a traditional German Oktoberfest. Made with all german malts and hops boasting tasting notes resembling sourdough bread, caramel, and some light fruity esters.",
-			"abv" : "6.0",
-			"ibu" : "20",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
+			"name": "Oktoberfest",
+			"style": "Marzen",
+			"description": "Our take on a traditional German Oktoberfest. Made with all german malts and hops boasting tasting notes resembling sourdough bread, caramel, and some light fruity esters.",
+			"abv": "6.0",
+			"ibu": "20",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Orchard Drive",
-			"style" : "Hard Cider",
-			"description" : "Our Flagship cider made with a blend of Macintosh and Granny Smith Apples. Crisp and refreshing, it highlights both the tartness and the sweetness of the apples.",
-			"abv" : "4.2",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+			"name": "Naked Gose",
+			"style": "Gose",
+			"description": "A tart German sour ale made with sea salt and coriander! This is the traditional way a Gose would be made in Germany with no fruit additions. The additions of coriander and sea salt combine to give it a nice lemony sour. This is made for people who love a sour beer!",
+			"abv": "4.7",
+			"ibu": "8",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Strawberry Wine",
-			"style" : "Semi-Sweet Fruit Wine",
-			"description" : "This light refreshing wine offers the delightfully sweet aroma of fresh picked strawberries blended with a rich melange of honey, tropical fruit and floral flavors.",
-			"abv" : "7",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$7.50"
+			"name": "Summer Song",
+			"style": "Hard Lemonade",
+			"description": "A tart, crisp, bubbly hard lemonade! Perfect thirst quencher for those hot summer days!",
+			"abv": "4.3",
+			"ibu": "",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Naked Gose",
-			"style" : "Gose",
-			"description" : "A tart German sour ale made with sea salt and coriander! This is the traditional way a Gose would be made in Germany with no fruit additions. The additions of coriander and sea salt combine to give it a nice lemony sour. This is made for people who love a sour beer!",
-			"abv" : "4.7",
-			"ibu" : "8",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+			"name": "Pröst",
+			"style": "Hefeweizen",
+			"description": "Meaning Cheers in German, Pröst is our German Hefeweizen with an American twist! Bringing mellow flavors of banana and clove traditional to a Hefeweizen, with a slight citrusy orange flavor coming from the small dry hop of Cascade and Amarillo we added!",
+			"abv": "4.5",
+			"ibu": "11",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Summer Song",
-			"style" : "Hard Lemonade",
-			"description" : "A tart, crisp, bubbly hard lemonade! Perfect thirst quencher for those hot summer days!",
-			"abv" : "4.3",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.25",
-				"16oz" : "$6.50"
+			"name": "Sweet Lou",
+			"style": "Belgian Witbier",
+			"description": "A tradional Belgian Witbier made with coriander and sweet orange peel. It brings tasting notes of sweet malty wheat, coriander, citrus zest, and orange peel. It pairs great with a slice of orange! Name after Sweet Lou Whitaker, who graduated from Martinsville High, who later went on to play baseball for the Detriot Tigers. He was considered for the MLB Hall of Fame and his jersey No. 1 was retired by the Tigers in 2022.",
+			"abv": "5.2",
+			"ibu": "18",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Pröst",
-			"style" : "Hefeweizen",
-			"description" : "Meaning Cheers in German, Pröst is our German Hefeweizen with an American twist! Bringing mellow flavors of banana and clove traditional to a Hefeweizen, with a slight citrusy orange flavor coming from the small dry hop of Cascade and Amarillo we added!",
-			"abv" : "4.5",
-			"ibu" : "11",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.00",
-				"20oz" : "$6.50"
+			"name": "Major Redd",
+			"style": "Imperial Red IPA",
+			"description": "Boasting malty and fruity flavors upfront, finishing with a nice grapefruit and resinous bite! The Columbus, Chinook, Galaxy, and Mosaic hops work in tandem with the malts to bring a unique flavor to this brew! Named after Major John Redd, one of the first settlers to come to Henry County, served as a Major in the American Continental Forces during the revolution, and later went on to serve as High Sheriff, as well as a member on the County Court for 40 years! He also built his Belleview Estate listed on the National Register of Historic Places!",
+			"abv": "8.0",
+			"ibu": "81",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$5.00",
+				"16oz": "$7.50"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Pearadise",
-			"style" : "Pear Hard Cider",
-			"description" : "Made from Pears, this Pear Cider is sweet and fruity upfront but finishes tart, clean, crisp, and dry.",
-			"abv" : "4.3",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
+			"name": "Three Sheets to the Wind",
+			"style": "Pina Colada Belgian Tripel",
+			"description": "We took our Trainwreck Tripel Threat base - a Belgian Tripel with a moderate bouquet of spice, fruity esters, and a touch of hop aroma - and gave it a tropical twist. This brew layers in pineapple, coconut, and banana to bring out a smooth pina colada vibe, while still holding on to those classic Tripel notes of sweet banana upfront and a soft clove finish. Subtle hints of orange and pear shine through, and it's rounded with a slight floral hop bitterness for balance. The alcohol remains well integrated, leaving a gentle warm sensation.",
+			"abv": "9.5",
+			"ibu": "23",
+			"picture": "",
+			"tap_room": {
+				"13oz": "$8.00"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Sweet Lou",
-			"style" : "Belgian Witbier",
-			"description" : "A tradional Belgian Witbier made with coriander and sweet orange peel. It brings tasting notes of sweet malty wheat, coriander, citrus zest, and orange peel. It pairs great with a slice of orange! Name after Sweet Lou Whitaker, who graduated from Martinsville High, who later went on to play baseball for the Detriot Tigers. He was considered for the MLB Hall of Fame and his jersey No. 1 was retired by the Tigers in 2022.",
-			"abv" : "5.2",
-			"ibu" : "18",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
+			"name": "PT Schwartz",
+			"style": "Schwarzbier",
+			"description": "A German Black Lager that's clean, light and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee! You need to put on your PT Shorts we mean...Schwartz before PT at 0 Dark 30!",
+			"abv": "5.0",
+			"ibu": "25",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Major Redd",
-			"style" : "Imperial Red IPA",
-			"description" : "Boasting malty and fruity flavors upfront, finishing with a nice grapefruit and resinous bite! The Columbus, Chinook, Galaxy, and Mosaic hops work in tandem with the malts to bring a unique flavor to this brew! Named after Major John Redd, one of the first settlers to come to Henry County, served as a Major in the American Continental Forces during the revolution, and later went on to serve as High Sheriff, as well as a member on the County Court for 40 years! He also built his Belleview Estate listed on the National Register of Historic Places!",
-			"abv" : "8.0",
-			"ibu" : "81",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$5.00",
-				"16oz" : "$7.50"
+			"name": "Anniversary IPA",
+			"style": "Birthday Cake Milkshake IPA",
+			"description": "Brewed to celebrate our 4-year anniversary coming up, this one-of-a-kind IPA is loaded with flavor and festivity! We started with  birthday cake, added Madagascar vanilla beans, creamy lactose, and layered in hop additions of Galaxy, Mosaic, and Citra during the boil, whirlpool, and dry hop. The result? A brew that bursts with a sweet birthday cake aroma, followed by rich cake and vanilla notes. The hops shine through with hints of tropical fruit, stone fruit, citrus, and a touch of dankness, perfectly complementing the sweet and creamy base.",
+			"abv": "7.0",
+			"ibu": "33",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$5.00",
+				"16oz": "$7.50"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Three Sheets to the Wind",
-			"style" : "Pina Colada Belgian Tripel",
-			"description" : "We took our Trainwreck Tripel Threat base - a Belgian Tripel with a moderate bouquet of spice, fruity esters, and a touch of hop aroma - and gave it a tropical twist. This brew layers in pineapple, coconut, and banana to bring out a smooth pina colada vibe, while still holding on to those classic Tripel notes of sweet banana upfront and a soft clove finish. Subtle hints of orange and pear shine through, and it's rounded with a slight floral hop bitterness for balance. The alcohol remains well integrated, leaving a gentle warm sensation.",
-			"abv" : "9.5",
-			"ibu" : "23",
-			"picture" : "",
-			"tap_room":{
-				"13oz" : "$8.00"
+			"name": "McNally's Porter",
+			"style": "Robust Porter",
+			"description": "A medium bodied Robust Porter with tasting notes of creamy chocolate, caramel, and a hint of roastiness! We named this Porter after our friend Sean McNally because on every visit to the brewery he always said we needed a basic Porter with NO ADJUNCTS! This one's for you Sean, Cheers!",
+			"abv": "6.5",
+			"ibu": "28",
+			"picture": "",
+			"tap_room": {
+				"4oz": "$2.00",
+				"8oz": "$4.00",
+				"16oz": "$6.00"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "PT Schwartz",
-			"style" : "Schwarzbier",
-			"description" : "A German Black Lager that's clean, light and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee! You need to put on your PT Shorts we mean...Schwartz before PT at 0 Dark 30!",
-			"abv" : "5.0",
-			"ibu" : "25",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
+			"name": "Hickey's Fort",
+			"style": "Baltic Porter",
+			"description": "This style of lagered porter presents rich, complex tasting notes of dark chocolate, coffee, and dark fruits like raisins or plums while finishing with a clean lager character. Hickey's Fort, also known as Hickey's Ordinary, was one of the last stops for immigrants traveling The Great Wagon Road. It was situated along the Smith River and provided a place for camping and to restock on supplies. It was also used as a defensive fort against Indian attacks during the French and Indian War.",
+			"abv": "8.0",
+			"ibu": "21",
+			"picture": "",
+			"tap_room": {
+				"13oz": "$7.50"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Orange Blossom Mead",
-			"style" : "Traditional Mead",
-			"description" : "A mead made from Orange Blossom honey that has tasting notes of sweet honey and citrus upfront with floral undertones and a warming complex alcohol in the finish!",
-			"abv" : "13.0",
-			"ibu" : "",
-			"picture" : "",
-			"tap_room":{
-				"6oz" : "$8.00"
+			"name": "Stubbie",
+			"style": "New Zealand Pilsner",
+			"description": "Hey, pass me a Stubbie! This is what you may hear kiwis call a beer in New Zealand! This Pilsner was brewed and dry hopped with all New Zealand hops. It’s clean, crisp and refreshing! The flavors of Motueka, Pacific Jade, and Nelson Sauvin bring tasting notes of lemon, lime, and citrus.",
+			"abv": "4.6",
+			"ibu": "26",
+			"picture": "",
+			"tap_room": {
+				"4oz": "$2.00",
+				"8oz": "$4.00",
+				"16oz": "$6.00"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Anniversary IPA",
-			"style" : "Birthday Cake Milkshake IPA",
-			"description" : "Brewed to celebrate our 4-year anniversary coming up, this one-of-a-kind IPA is loaded with flavor and festivity! We started with  birthday cake, added Madagascar vanilla beans, creamy lactose, and layered in hop additions of Galaxy, Mosaic, and Citra during the boil, whirlpool, and dry hop. The result? A brew that bursts with a sweet birthday cake aroma, followed by rich cake and vanilla notes. The hops shine through with hints of tropical fruit, stone fruit, citrus, and a touch of dankness, perfectly complementing the sweet and creamy base.",
-			"abv" : "7.0",
-			"ibu" : "33",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$5.00",
-				"16oz" : "$7.50"
+			"name": "Omicron",
+			"style": "Dark Mexican Cerveza",
+			"description": "Our Dark Mexican Cerveza boasting flavors and aromas of toasted bread, caramel, with a slightly floral bitterness! The taste is just as infectious as the name, pairs great with a lime!",
+			"abv": "5.3",
+			"ibu": "20",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "McNally's Porter",
-			"style" : "Robust Porter",
-			"description" : "A medium bodied Robust Porter with tasting notes of creamy chocolate, caramel, and a hint of roastiness! We named this Porter after our friend Sean McNally because on every visit to the brewery he always said we needed a basic Porter with NO ADJUNCTS! This one's for you Sean, Cheers!",
-			"abv" : "6.5",
-			"ibu" : "28",
-			"picture" : "",
-			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
+			"name": "The Great Wagon Road",
+			"style": "German Pilsner",
+			"description": "A crisp, dry biscuity and bready German Pilsner with an earthy bitter bite! Named after the old immigration route taken by German settlers when they came to America! A leg of this route once ran through what is now Martinsville city!",
+			"abv": "5.1",
+			"ibu": "36",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		},
 		{
-			"name" : "Hickey's Fort",
-			"style" : "Baltic Porter",
-			"description" : "This style of lagered porter presents rich, complex tasting notes of dark chocolate, coffee, and dark fruits like raisins or plums while finishing with a clean lager character. Hickey's Fort, also known as Hickey's Ordinary, was one of the last stops for immigrants traveling The Great Wagon Road. It was situated along the Smith River and provided a place for camping and to restock on supplies. It was also used as a defensive fort against Indian attacks during the French and Indian War.",
-			"abv" : "8.0",
-			"ibu" : "21",
-			"picture" : "",
-			"tap_room":{
-				"13oz" : "$7.50"
+			"name": "Scuffling Up Hops W/ HBC 630, HBC 1019, & Krush",
+			"style": "New England IPA",
+			"description": "This version of our rotating NEIPA series features HBC 630, HBC 1019, and Krush Hops! This blend provides tasting notes of tangerine, pineapple, tropical fruits, and finishes with a slight earthy bitterness!",
+			"abv": "7.0",
+			"ibu": "40",
+			"picture": "",
+			"tap_room": {
+				"8oz": "$4.50",
+				"16oz": "$7.00"
 			},
-			"available" : "yes",
-			"comingSoon" : "no"
-		},
-		{
-			"name" : "Stubbie",
-			"style" : "New Zealand Pilsner",
-			"description" : "Hey, pass me a Stubbie! This is what you may hear kiwis call a beer in New Zealand! This Pilsner was brewed and dry hopped with all New Zealand hops. It’s clean, crisp and refreshing! The flavors of Motueka, Pacific Jade, and Nelson Sauvin bring tasting notes of lemon, lime, and citrus.",
-			"abv" : "4.6",
-			"ibu" : "26",
-			"picture" : "",
-			"tap_room":{
-				"4oz" : "$2.00",
-				"8oz" : "$4.00",
-				"16oz" : "$6.00"
-			},
-			"available" : "no",
-			"comingSoon" : "no"
-		},
-		{
-			"name" : "Omicron",
-			"style" : "Dark Mexican Cerveza",
-			"description" : "Our Dark Mexican Cerveza boasting flavors and aromas of toasted bread, caramel, with a slightly floral bitterness! The taste is just as infectious as the name, pairs great with a lime!",
-			"abv" : "5.3", 
-			"ibu" : "20",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
-			},
-			"available" : "no",
-			"comingSoon" : "no"
-		},
-		{
-			"name" : "The Great Wagon Road",
-			"style" : "German Pilsner",
-			"description" : "A crisp, dry biscuity and bready German Pilsner with an earthy bitter bite! Named after the old immigration route taken by German settlers when they came to America! A leg of this route once ran through what is now Martinsville city!",
-			"abv" : "5.1",
-			"ibu" : "36",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.00",
-				"16oz" : "$6.25",
-				"20oz" : "$6.75"
-			},
-			"available" : "no",
-			"comingSoon" : "no"
-		},
-		{
-			"name" : "Scuffling Up Hops W/ HBC 630, HBC 1019, & Krush",
-			"style" : "New England IPA",
-			"description" : "This version of our rotating NEIPA series features HBC 630, HBC 1019, and Krush Hops! This blend provides tasting notes of tangerine, pineapple, tropical fruits, and finishes with a slight earthy bitterness!",
-			"abv" : "7.0",
-			"ibu" : "40",
-			"picture" : "",
-			"tap_room":{
-				"8oz" : "$4.50",
-				"16oz" : "$7.00"
-			},
-			"available" : "no",
-			"comingSoon" : "no"
+			"available": "no",
+			"comingSoon": "no"
 		}
 	]
 }

@@ -1,47 +1,51 @@
-$( document ).ready(function() {
+$(document).ready(function () {
     makeAllPageInfo();
     makeBrewList();
+    makeWineCiderMeadList();
 });
 
-function makeBrew(jsonObject)
-{
+/*
+ * makeBrew() - Parses JSON and returns HTML for a single beer description
+*/
+function makeBrew(jsonObject) {
     var html = "";
 
     html += "<h2>" + jsonObject.name + "</h2>";
-    if(jsonObject.style != "");
-       html += "<h3>" + jsonObject.style + "</h3>";
+    if (jsonObject.style != "");
+    html += "<h3>" + jsonObject.style + "</h3>";
 
     html += "<p>";
 
-    if(jsonObject.abv != "")
-       html += "<b>ABV " + jsonObject.abv + "%</b>";
+    if (jsonObject.abv != "")
+        html += "<b>ABV " + jsonObject.abv + "%</b>";
 
-    if(jsonObject.abv != "" && jsonObject.ibu != "")
-        html += "<b> - </b>"; 
+    if (jsonObject.abv != "" && jsonObject.ibu != "")
+        html += "<b> - </b>";
 
-    if(jsonObject.ibu != "")
+    if (jsonObject.ibu != "")
         html += "<b>IBU " + jsonObject.ibu + "</b>";
 
     html += "<br />"
-    html += jsonObject.description 
+    html += jsonObject.description
 
-    if(jsonObject.available == "yes" && Object.keys(jsonObject.tap_room).length > 0)
-    {
+    if (jsonObject.available == "yes" && Object.keys(jsonObject.tap_room).length > 0) {
         html += "<br />"
         html += "<b>"
-        for(var i = 0; i < Object.keys(jsonObject.tap_room).length; i++){
+        for (var i = 0; i < Object.keys(jsonObject.tap_room).length; i++) {
             html += Object.keys(jsonObject.tap_room)[i] + " - " + Object.values(jsonObject.tap_room)[i] + "<br />";
         }
         html += "</b>";
     }
-    
+
     html += "</p>";
 
     return html;
 }
 
-function makeBrewList()
-{
+/*
+ * makeBrewList() - Uses the makeBrew() helper function to create an entire list of beer in the "beers" section of the site
+*/
+function makeBrewList() {
     $.ajax({
         url: 'assets/data/beerlist.json?' + Math.random(),
         dataType: 'json',
@@ -50,30 +54,26 @@ function makeBrewList()
             var availableNowHTML = "";
             var comingSoonHTML = ""
 
-            for(var i = 0; i < data.beer.length; i++)
-            {
-                if(data.beer[i].available == "yes")
-                {
-                  availableNowHTML += makeBrew(data.beer[i]);
-                  availableNowHTML += "<hr></hr>";
+            for (var i = 0; i < data.beer.length; i++) {
+                if (data.beer[i].available == "yes") {
+                    availableNowHTML += makeBrew(data.beer[i]);
+                    availableNowHTML += "<hr></hr>";
                 }
-                else if(data.beer[i].comingSoon == "yes")
-                {
+                else if (data.beer[i].comingSoon == "yes") {
                     comingSoonHTML += makeBrew(data.beer[i]);
                     comingSoonHTML += "<hr></hr>";
                 }
             }
 
             var html = "";
-            if(availableNowHTML != "")
-            { 
+            if (availableNowHTML != "") {
                 html += "<h1>Available Now</h1>";
                 html += "<hr></hr>";
                 html += availableNowHTML;
                 html += "<br /><br /><br />";
             }
 
-            if(comingSoonHTML != ""){
+            if (comingSoonHTML != "") {
                 html += "<h1>Coming Soon</h1>";
                 html += "<hr></hr>";
                 html += comingSoonHTML;
@@ -84,8 +84,99 @@ function makeBrewList()
     });
 }
 
-function makeAllPageInfo()
-{
+/*
+ * makeWineCiderMead() - Parses JSON and returns HTML for a single wine, cider, or mead description
+*/
+function makeWineCiderMead(jsonObject) {
+    var html = "";
+
+    html += "<h2>" + jsonObject.name + "</h2>";
+
+    if (jsonObject.style != "")
+        html += "<h3>" + jsonObject.style + "</h3>";
+
+    if (jsonObject.producer != "")
+        html += "<h3> Produced by: " + jsonObject.producer + "</h3>";
+
+    html += "<p>";
+
+    if (jsonObject.abv != "")
+        html += "<b>ABV " + jsonObject.abv + "%</b>";
+
+    html += "<br />"
+    html += jsonObject.description
+
+    if (jsonObject.available == "yes" && Object.keys(jsonObject.tap_room).length > 0) {
+        html += "<br />"
+        html += "<b>"
+        for (var i = 0; i < Object.keys(jsonObject.tap_room).length; i++) {
+            html += Object.keys(jsonObject.tap_room)[i] + " - " + Object.values(jsonObject.tap_room)[i] + "<br />";
+        }
+        html += "</b>";
+    }
+
+    html += "</p>";
+
+    return html;
+}
+
+/*
+ * makeWineCiderMeadList() - Uses the makeWineCiderMead() helper function to create an entire list of wines, ciders, and meads in the "wine, cider, and mead" section of the site
+*/
+function makeWineCiderMeadList() {
+    $.ajax({
+        url: 'assets/data/winecidermeadlist.json?' + Math.random(),
+        dataType: 'json',
+        type: 'get',
+        success: function (data) {
+            var houseHTML = "";
+            var guestHTML = "";
+            var comingSoonHTML = "";
+
+            for (var i = 0; i < data.winecidermead.length; i++) {
+                if (data.winecidermead[i].available == "yes") {
+                    if (data.winecidermead[i].house == "yes") {
+                        houseHTML += makeWineCiderMead(data.winecidermead[i]);
+                        houseHTML += "<hr></hr>";
+                    }
+                    else if (data.winecidermead[i].guest == "yes") {
+                        guestHTML += makeWineCiderMead(data.winecidermead[i]);
+                        guestHTML += "<hr></hr>";
+                    }
+                }
+                else if (data.winecidermead[i].comingSoon == "yes") {
+                    comingSoonHTML += makeWineCiderMead(data.winecidermead[i]);
+                    comingSoonHTML += "<hr></hr>";
+                }
+            }
+
+            var html = "";
+            if (houseHTML != "") {
+                html += "<h1>House Offerings</h1>";
+                html += "<hr></hr>";
+                html += houseHTML;
+                html += "<br /><br /><br />";
+            }
+
+            if (guestHTML != "") {
+                html += "<h1>Guest Offerings</h1>";
+                html += "<hr></hr>";
+                html += guestHTML;
+                html += "<br /><br /><br />";
+            }
+
+            if (comingSoonHTML != "") {
+                html += "<h1>Coming Soon</h1>";
+                html += "<hr></hr>";
+                html += comingSoonHTML;
+            }
+
+            $("#winecidermead").append("<br />" + html);
+        }
+    });
+}
+
+function makeAllPageInfo() {
     makeHomeTitle();
     makeHomeSubTitle();
     makeCopyright();
@@ -95,8 +186,7 @@ function makeAllPageInfo()
     makeContactDescription();
 }
 
-function makeHomeTitle()
-{
+function makeHomeTitle() {
     $.ajax({
         url: 'assets/data/home_title.txt?' + Math.random(),
         dataType: 'text',
@@ -107,8 +197,7 @@ function makeHomeTitle()
     });
 }
 
-function makeHomeSubTitle()
-{
+function makeHomeSubTitle() {
     $.ajax({
         url: 'assets/data/home_subtitle.txt?' + Math.random(),
         dataType: 'text',
@@ -119,8 +208,7 @@ function makeHomeSubTitle()
     });
 }
 
-function makeCopyright()
-{
+function makeCopyright() {
     $.ajax({
         url: 'assets/data/copyright.txt?' + Math.random(),
         dataType: 'text',
@@ -131,8 +219,7 @@ function makeCopyright()
     });
 }
 
-function makeBrewsDescription()
-{
+function makeBrewsDescription() {
     $.ajax({
         url: 'assets/data/brews_description.txt?' + Math.random(),
         dataType: 'text',
@@ -143,8 +230,7 @@ function makeBrewsDescription()
     });
 }
 
-function makeSupportDescription()
-{
+function makeSupportDescription() {
     $.ajax({
         url: 'assets/data/support_description.txt?' + Math.random(),
         dataType: 'text',
@@ -155,8 +241,7 @@ function makeSupportDescription()
     });
 }
 
-function makeAboutDescription()
-{
+function makeAboutDescription() {
     $.ajax({
         url: 'assets/data/about_description.txt?' + Math.random(),
         dataType: 'text',
@@ -167,8 +252,7 @@ function makeAboutDescription()
     });
 }
 
-function makeContactDescription()
-{
+function makeContactDescription() {
     $.ajax({
         url: 'assets/data/contact_description.txt?' + Math.random(),
         dataType: 'text',
