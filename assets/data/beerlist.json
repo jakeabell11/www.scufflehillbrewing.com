@@ -124,15 +124,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Pear Ginger Grisette",
-			"style": "Belgian Grisette",
-			"description": "A Belgian Grisette featuring pear and ginger additions! This farmhouse style features sweet pear and ginger upfront followed by light peppery Belgian esters. This is a nice, light refreshing brew.",
-			"abv": "4.2",
-			"ibu": "25",
+			"name": "Hickey's Fort",
+			"style": "Baltic Porter",
+			"description": "This style of lagered porter presents rich, complex tasting notes of dark chocolate, coffee, and dark fruits like raisins or plums while finishing with a clean lager character. Hickey's Fort, also known as Hickey's Ordinary, was one of the last stops for immigrants traveling The Great Wagon Road. It was situated along the Smith River and provided a place for camping and to restock on supplies. It was also used as a defensive fort against Indian attacks during the French and Indian War.",
+			"abv": "8.0",
+			"ibu": "21",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"5oz": "$3.25",
+				"13oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
@@ -221,7 +221,7 @@
 				"8oz": "$4.25",
 				"16oz": "$6.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
@@ -250,7 +250,7 @@
 				"8oz": "$4.25",
 				"16oz": "$6.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
@@ -378,7 +378,7 @@
 			"tap_room": {
 				"13oz": "$7.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
