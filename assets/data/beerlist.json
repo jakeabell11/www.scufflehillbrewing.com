@@ -183,18 +183,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Midway",
-			"style": "Munich Dunkel",
-			"description": "A German Brown Lager with tasting notes of toast, chocolate, nuts, caramel and toffee. Before being known as the Town of Collinsville, the area was once called “Midway” because it was said to be midway between Bassett and Martinsville.",
-			"abv": "5.0",
-			"ibu": "24",
+			"name": "Three Sheets to the Wind",
+			"style": "Pina Colada Belgian Tripel",
+			"description": "We took our Trainwreck Tripel Threat base - a Belgian Tripel with a moderate bouquet of spice, fruity esters, and a touch of hop aroma - and gave it a tropical twist. This brew layers in pineapple, coconut, and banana to bring out a smooth pina colada vibe, while still holding on to those classic Tripel notes of sweet banana upfront and a soft clove finish. Subtle hints of orange and pear shine through, and it's rounded with a slight floral hop bitterness for balance. The alcohol remains well integrated, leaving a gentle warm sensation.",
+			"abv": "9.5",
+			"ibu": "23",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
+				"5oz": "$3.75",
+				"13oz": "$8.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
