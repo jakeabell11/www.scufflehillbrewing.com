@@ -153,18 +153,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Kin Town",
-			"style": "Japanese Rice Lager",
-			"description": "A Japanese Rice Lager that boasts hints of sweet rice upfront but finishes crisp, clean, and dry with herbal, floral, and lemony undertones! All the Marines stationed on Camp Hansen know that Kin Town is the place to get drinks! A Japanese Town on Okinawa full of bars conveniently located right outside a Marine Corps Base!",
-			"abv": "4.3",
-			"ibu": "24",
+			"name": "The Fellowship of the Mil",
+			"style": "Strawberry Rhubarb Hefeweizen",
+			"description": "This version of our Prost Hefeweizen features additions of sweet strawberry and tart rhubarb puree while still maintaining those traditional banana and clove esters found in Hefeweizens. Prost being our Dungeon Master Remy's favorite brew, we decided to give it a little twist and name it after what his group of adventurers called themselves in his first Dungeons, Dragons, and Drafts campaign for us!",
+			"abv": "4.7",
+			"ibu": "11",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
+				"5oz": "$2.75",
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
