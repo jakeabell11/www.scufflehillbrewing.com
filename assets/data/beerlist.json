@@ -138,15 +138,16 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Frose Slushie Seltzer",
-			"style": "Hard Seltzer Slushie",
-			"description": "This icy treat blends crisp, bubbly seltzer with juicy rosé-inspired flavors of ripe strawberry, tart raspberry, and a bright splash of lemon, perfectly balanced for a light and fruity finish.",
-			"abv": "7.0",
+			"name": "Summer Song",
+			"style": "Hard Lemonade",
+			"description": "A tart, crisp, bubbly hard lemonade! Perfect thirst quencher for those hot summer days!",
+			"abv": "4.3",
 			"ibu": "",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"5oz": "$2.75",
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
@@ -264,7 +265,7 @@
 				"8oz": "$4.25",
 				"16oz": "$6.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
