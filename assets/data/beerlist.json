@@ -94,13 +94,14 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Amarillo Smash",
-			"style": "Smash Pale Ale",
-			"description": "A crisp, golden single-malt, single-hop pale ale brewed to showcase Amarillo hops and Crisp Chevallier Malt. Bursting with notes of orange, grapefruit, floral citrus, and a touch of tropical fruit, with a smooth malt backbone and a clean, refreshing finish.",
-			"abv": "5.5",
-			"ibu": "60",
+			"name": "Dick & Willie",
+			"style": "Maple Oatmeal Stout",
+			"description": "Named after the famous Railroad that ran through Henry County now turned into the famous walking trail. Tasting notes of dark chocolate, coffee, oatmeal, and a hint of maple syrup. This is an easy drinking dark beer.",
+			"abv": "6.7",
+			"ibu": "18",
 			"picture": "",
 			"tap_room": {
+				"5oz": "$3.00",
 				"8oz": "$4.50",
 				"16oz": "$7.00"
 			},
