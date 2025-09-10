@@ -17,18 +17,19 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Ol' Rusty",
-			"style": "American Amber Ale",
-			"description": "A classic American Amber Ale boasting sweet caramel, fruity esters resembling dark fruits, and finishing with a slight earthy bitterness! Named after  George Hairston Jr.  who was given the nickname Ol’ Rusty for starting a small furnace and foundry called Union Iron Works Company! They refined the iron from the Fairystone iron mines so it could be made into products to be sold.",
-			"abv": "5.6",
-			"ibu": "27",
+			"name": "The Big Chair",
+			"style": "Blonde Ale",
+			"description": "This is our flagship Blonde Ale, hopped with El Dorado and Huell melon giving it a sweet taste with hints of melon. The name “Big Chair” comes from the worlds largest chair that was manufactured by Bassett Furniture and used to be displayed in Uptown Martinsville.",
+			"abv": "5.0",
+			"ibu": "25",
 			"picture": "",
 			"tap_room": {
+				"5oz": "$2.50",
 				"8oz": "$4.00",
 				"16oz": "$6.25",
 				"20oz": "$6.75"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
@@ -71,7 +72,7 @@
 				"16oz": "$6.00",
 				"20oz": "$6.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
