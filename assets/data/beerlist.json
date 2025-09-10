@@ -109,13 +109,14 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "The Fellowship of the Mil",
-			"style": "Strawberry Rhubarb Hefeweizen",
-			"description": "This version of our Prost Hefeweizen features additions of sweet strawberry and tart rhubarb puree while still maintaining those traditional banana and clove esters found in Hefeweizens. Prost being our Dungeon Master Remy's favorite brew, we decided to give it a little twist and name it after what his group of adventurers called themselves in his first Dungeons, Dragons, and Drafts campaign for us!",
-			"abv": "4.7",
-			"ibu": "11",
+			"name": "Fruit Punch Seltzer",
+			"style": "Hard Seltzer Water",
+			"description": "Crisp, bubbly and refreshing hard seltzer water made with Orange, Peach, Passionfruit, and Strawberry! Made to resemble your favorite fruit punch beverages!",
+			"abv": "4.4",
+			"ibu": "",
 			"picture": "",
 			"tap_room": {
+				"5oz": "$2.75",
 				"8oz": "$4.25",
 				"16oz": "$6.50"
 			},
