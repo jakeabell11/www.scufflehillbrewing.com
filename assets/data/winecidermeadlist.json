@@ -59,6 +59,7 @@
 			"abv": "7.5",
 			"picture": "",
 			"tap_room": {
+				"5oz": "$3.25",
 				"13oz": "$7.50"
 			},
 			"available": "yes",
