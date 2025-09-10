@@ -33,15 +33,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Dick & Willie",
-			"style": "Oatmeal Stout",
-			"description": "Named after the famous Railroad that ran through Henry County now turned into the famous walking trail. Tasting notes of dark chocolate, coffee, oatmeal, and a hint of maple syrup. This is an easy drinking dark beer.",
-			"abv": "6.7",
-			"ibu": "19",
+			"name": "Da'Rona",
+			"style": "Mexican Cerveza",
+			"description": "Our Mexican Cerveza is light hopped, clean and refreshing with a slight aroma of lime peel. It’s served best with a fresh slice of lime while you sit outside and enjoy some fresh air during this quarantine.",
+			"abv": "5.0",
+			"ibu": "21",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"4oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
@@ -87,7 +89,7 @@
 				"16oz": "$6.00",
 				"20oz": "$6.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
