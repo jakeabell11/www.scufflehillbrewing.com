@@ -1,18 +1,19 @@
 {
 	"beer": [
 		{
-			"name": "Fort Mayo",
-			"style": "Belgian Pilsner",
-			"description": "This Pilsner presents a nice sweet biscuity malt flavor upfront with some lemony tasting notes. The hop profile provides a nice peppery, herbal bitterness while finishing clean, crisp, and dry. Fort Mayo was constructed along the Smith River to protect against Indian Raids during the French and Indian War. George Washington stayed at least one night in the Fort in 1756. The exact location for Fort Mayo is not known with certainty.",
-			"abv": "4.8",
-			"ibu": "35",
+			"name": "General Joe's",
+			"style": "American Light Lager",
+			"description": "A crisp, resfreshing light lager with light bready, apple, and herbal undertones! Named after General Joesph Martin, the revolutionary war general credited as the founder of Martinsville!",
+			"abv": "4.5",
+			"ibu": "13",
 			"picture": "",
 			"tap_room": {
+				"5oz": "$2.50",
 				"8oz": "$4.00",
 				"16oz": "$6.25",
 				"20oz": "$6.75"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
