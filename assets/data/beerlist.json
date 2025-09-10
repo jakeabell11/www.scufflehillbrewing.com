@@ -79,18 +79,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Da 'Rona",
-			"style": "Mexican Cerveza",
-			"description": "Our Mexican Cerveza is light hopped, clean and refreshing with a slight aroma of lime peel. It’s served best with a fresh slice of lime while you sit outside and enjoy some fresh air during this quarantine.",
-			"abv": "5.0",
-			"ibu": "21",
+			"name": "Amarillo Smash",
+			"style": "Smash Pale Ale",
+			"description": "A crisp, golden single-malt, single-hop pale ale brewed to showcase Amarillo hops and Crisp Chevallier Malt. Bursting with notes of orange, grapefruit, floral citrus, and a touch of tropical fruit, with a smooth malt backbone and a clean, refreshing finish.",
+			"abv": "5.5",
+			"ibu": "60",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.00",
-				"16oz": "$6.00",
-				"20oz": "$6.50"
+				"5oz": "$3.00",
+				"8oz": "$4.50",
+				"16oz": "$7.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
