@@ -197,17 +197,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "A Lighter Shade of Pale",
-			"style": "Hazy Pale Ale",
-			"description": "A single hopped Hazy Pale Ale made with Vic Secret hops. It has a sweet taste with hints of mango, citrus and pineapple accompanied by a slight hoppy bitterness.",
-			"abv": "5.0",
-			"ibu": "54",
+			"name": "Pear Ginger Grisette",
+			"style": "Belgian Grisette",
+			"description": "A Belgian Grisette featuring pear and ginger puree! This farmhouse style features sweet pear and ginger upfront followed by light peppery Belgian esters. This is a nice, light refreshing brew.",
+			"abv": "4.2",
+			"ibu": "25",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"5oz": "$2.75",
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
