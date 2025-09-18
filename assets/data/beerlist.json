@@ -124,15 +124,16 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Hickey's Fort",
-			"style": "Baltic Porter",
-			"description": "This style of lagered porter presents rich, complex tasting notes of dark chocolate, coffee, and dark fruits like raisins or plums while finishing with a clean lager character. Hickey's Fort, also known as Hickey's Ordinary, was one of the last stops for immigrants traveling The Great Wagon Road. It was situated along the Smith River and provided a place for camping and to restock on supplies. It was also used as a defensive fort against Indian attacks during the French and Indian War.",
-			"abv": "8.0",
-			"ibu": "21",
+			"name": "French Toast Brown Ale",
+			"style": "English Brown Ale",
+			"description": "A rich, malty English Brown Ale with a decadent twist. This brew pours deep amber-brown with a smooth, toasty backbone of caramel and nutty malt character. Layers of cinnamon, vanilla, and a touch of maple syrup bring warm French toast vibes, while the subtle sweetness is balanced by a gentle roasted finish. Medium-bodied with a silky mouthfeel, it’s like breakfast in a glass – comforting, flavorful, and perfectly sippable for any time of day.",
+			"abv": "5.3",
+			"ibu": "25",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.25",
-				"13oz": "$7.50"
+				"5oz": "$2.75",
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
