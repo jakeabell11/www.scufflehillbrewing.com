@@ -154,16 +154,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "The Fellowship of the Mil",
-			"style": "Strawberry Rhubarb Hefeweizen",
-			"description": "This version of our Prost Hefeweizen features additions of sweet strawberry and tart rhubarb puree while still maintaining those traditional banana and clove esters found in Hefeweizens. Prost being our Dungeon Master Remy's favorite brew, we decided to give it a little twist and name it after what his group of adventurers called themselves in his first Dungeons, Dragons, and Drafts campaign for us!",
-			"abv": "4.7",
-			"ibu": "11",
+			"name": "Trick or Tripel",
+			"style": "Pumpkin Spice Belgian Tripel",
+			"description": "We took our Trainwreck Tripel Threat base - a Belgian Tripel with a moderate bouquet of spice, fruity esters, and a touch of hop aroma - and gave it a seasonal twist. This brew layers in pumpkin, cinnamon, nutmeg, clove and madagascar vanilla bean to capture the cozy flavors of autumn, while still holding on to those classic Tripel notes of sweet banana upfront and a soft clove finish. Subtle hints of orange and pear shine through, and it's rounded with a slight floral hop bitterness for balance. The alcohol remains well integrated, leaving a gentle warm sensation.",
+			"abv": "9.5",
+			"ibu": "23",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.75",
-				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"5oz": "$3.75",
+				"13oz": "$8.00"
 			},
 			"available": "yes",
 			"comingSoon": "no"
