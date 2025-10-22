@@ -259,17 +259,19 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Summer Song",
-			"style": "Hard Lemonade",
-			"description": "A tart, crisp, bubbly hard lemonade! Perfect thirst quencher for those hot summer days!",
-			"abv": "4.3",
-			"ibu": "",
+			"name": "PT Schwartz",
+			"style": "Schwarzbier",
+			"description": "A German Black Lager, that's clean, light, and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee!",
+			"abv": "5.0",
+			"ibu": "25",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
