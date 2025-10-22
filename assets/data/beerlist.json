@@ -289,18 +289,19 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Sweet Lou",
-			"style": "Belgian Witbier",
-			"description": "A tradional Belgian Witbier made with coriander and sweet orange peel. It brings tasting notes of sweet malty wheat, coriander, citrus zest, and orange peel. It pairs great with a slice of orange! Name after Sweet Lou Whitaker, who graduated from Martinsville High, who later went on to play baseball for the Detriot Tigers. He was considered for the MLB Hall of Fame and his jersey No. 1 was retired by the Tigers in 2022.",
-			"abv": "5.2",
-			"ibu": "18",
+			"name": "Campfires & Canteens",
+			"style": "Rauchbier",
+			"description": "A German Rauchbier with a malty, toasty richness with a smoky taste that almost resembles flavors of bacon.",
+			"abv": "6.3",
+			"ibu": "25",
 			"picture": "",
 			"tap_room": {
+				"5oz": "$2.50",
 				"8oz": "$4.00",
 				"16oz": "$6.25",
 				"20oz": "$6.75"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
