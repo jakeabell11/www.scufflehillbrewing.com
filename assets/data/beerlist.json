@@ -275,18 +275,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Pröst",
-			"style": "Hefeweizen",
-			"description": "Meaning Cheers in German, Pröst is our German Hefeweizen with an American twist! Bringing mellow flavors of banana and clove traditional to a Hefeweizen, with a slight citrusy orange flavor coming from the small dry hop of Cascade and Amarillo we added!",
-			"abv": "4.5",
-			"ibu": "11",
+			"name": "Near War's End",
+			"style": "Doppelbock",
+			"description": "Our take on a traditional German Doppelbock. Rich, creamy, sweet & malty with tasting notes of toast, dark chocolate, caramelized brown sugar, and dark fruits like raisin and fig!",
+			"abv": "8.0",
+			"ibu": "16",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.00",
-				"16oz": "$6.00",
-				"20oz": "$6.50"
+				"5oz": "$3.25",
+				"13oz": "$7.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
