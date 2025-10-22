@@ -243,17 +243,19 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Naked Gose",
-			"style": "Gose",
-			"description": "A tart German sour ale made with sea salt and coriander! This is the traditional way a Gose would be made in Germany with no fruit additions. The additions of coriander and sea salt combine to give it a nice lemony sour. This is made for people who love a sour beer!",
-			"abv": "4.7",
-			"ibu": "8",
+			"name": "Festbier",
+			"style": "German Lager",
+			"description": "A golden malt forward lager with notes of fresh bread, light honey, and toasted grain. Smooth, crisp, and balanced with a touch of Noble hop bitterness for an easy clean finish.",
+			"abv": "5.8",
+			"ibu": "23",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
