@@ -79,11 +79,11 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Amarillo Smash",
-			"style": "Smash Pale Ale",
-			"description": "A crisp, golden single-malt, single-hop pale ale brewed to showcase Amarillo hops and Crisp Chevallier Malt. Bursting with notes of orange, grapefruit, floral citrus, and a touch of tropical fruit, with a smooth malt backbone and a clean, refreshing finish.",
-			"abv": "5.5",
-			"ibu": "60",
+			"name": "Fall Beer Sucks",
+			"style": "American IPA",
+			"description": "Dry hopped with Ahtanum, Amarillo, Mosaic, and East Kent Goldings, this beauty was brewed for everyone who’s already over pumpkin season. A rich malty caramel backbone sets the stage for bright citrus, orange peel, and grapefruit notes, rounded out with a smooth floral hoppiness.",
+			"abv": "7.4",
+			"ibu": "70",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$3.00",
