@@ -255,11 +255,11 @@
 			"guest" : "yes"
 		},
 		{
-			"name": "Dreamboat",
+			"name": "2022 Merlot",
 			"style": "Merlot",
 			"producer": "Fables & Feathers Winery",
-			"description": "This semi-sweet Merlot is perfect for porch sippin' on a hot day!",
-			"abv": "12.0",
+			"description": "Estate Merlot, blackberry notes, aged in oak for a smooth toffee finish",
+			"abv": "12.5",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
@@ -272,21 +272,21 @@
 			"guest" : "yes"
 		},
 		{
-			"name": "2024 Alice's White",
-			"style": "Sweet White Wine",
+			"name": "2024 Traminette",
+			"style": "Semi Sweet Traminette",
 			"producer": "Fables & Feathers Winery",
-			"description": " Like Moscato but better, this new vintage is just as delicious as the last!",
-			"abv": "12.0",
+			"description": "Estate grown, new vintage released September 2025, semi-sweet, floral nose with notes of apricot",
+			"abv": "12.5",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.50",
 				"6oz": "$7.50",
-				"Bottle": "$25.00"
+				"Bottle": "$20.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
 			"house" : "no",
-			"guest" : "no"
+			"guest" : "yes"
 		}
 	]
 }
