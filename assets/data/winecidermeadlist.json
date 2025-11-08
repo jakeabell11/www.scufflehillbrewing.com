@@ -1,20 +1,20 @@
 {
 	"winecidermead": [
 		{
-			"name": "Strawberry Wine",
-			"style": "Sweet Fruit Wine",
+			"name": "Blackberry Wine",
+			"style": "Semi Sweet Fruit Wine",
 			"producer": "",
-			"description": "This light refreshing wine offers the delightfully sweet aroma of fresh picked strawberries blended with a rich melange of honey, tropical fruit and floral flavors.",
-			"abv": "7",
+			"description": "Sweet, tart, and irresistibly smooth — this blackberry wine is bursting with ripe berry flavor from start to finish. Each sip hits with a juicy pop of blackberry sweetness balanced by just the right touch of tangy tartness. Perfect for cozy fall evenings, dessert pairings, or anyone who loves a little fruit-forward flair in their glass.",
+			"abv": "8",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.00",
 				"8oz": "$7.50",
 				"Bottle": "$20.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
