@@ -124,10 +124,10 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "French Toast Brown Ale",
-			"style": "English Brown Ale",
-			"description": "A rich, malty English Brown Ale with a decadent twist. This brew pours deep amber-brown with a smooth, toasty backbone of caramel and nutty malt character. Layers of cinnamon, vanilla, and a touch of maple syrup bring warm French toast vibes, while the subtle sweetness is balanced by a gentle roasted finish. Medium-bodied with a silky mouthfeel, it’s like breakfast in a glass – comforting, flavorful, and perfectly sippable for any time of day.",
-			"abv": "5.3",
+			"name": "PT Schwartz",
+			"style": "Schwarzbier",
+			"description": "A German Black Lager, that's clean, light, and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee!",
+			"abv": "5.0",
 			"ibu": "25",
 			"picture": "",
 			"tap_room": {
@@ -239,7 +239,7 @@
 				"16oz": "$6.25",
 				"20oz": "$6.75"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
@@ -271,7 +271,7 @@
 				"16oz": "$6.25",
 				"20oz": "$6.75"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
