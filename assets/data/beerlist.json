@@ -184,15 +184,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Three Sheets to the Wind",
-			"style": "Pina Colada Belgian Tripel",
-			"description": "We took our Trainwreck Tripel Threat base - a Belgian Tripel with a moderate bouquet of spice, fruity esters, and a touch of hop aroma - and gave it a tropical twist. This brew layers in pineapple, coconut, and banana to bring out a smooth pina colada vibe, while still holding on to those classic Tripel notes of sweet banana upfront and a soft clove finish. Subtle hints of orange and pear shine through, and it's rounded with a slight floral hop bitterness for balance. The alcohol remains well integrated, leaving a gentle warm sensation.",
-			"abv": "9.5",
-			"ibu": "23",
+			"name": "Near War's End",
+			"style": "Doppelbock",
+			"description": "Our take on a traditional German Doppelbock. Rich, creamy, sweet & malty with tasting notes of toast, dark chocolate, caramelized brown sugar, and dark fruits like raisin and fig!",
+			"abv": "8.0",
+			"ibu": "16",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.75",
-				"13oz": "$8.00"
+				"5oz": "$3.25",
+				"13oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
