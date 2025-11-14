@@ -204,20 +204,20 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Pink Moscato",
-			"style": "Sweet Wine",
+			"name": "Liebfraumilch",
+			"style": "German White Wine",
 			"producer": "",
-			"description": "A sweet wine with flavors of  fresh  berries, such as strawberry, raspberry, and cherry with hints of pomegranate or melon.",
-			"abv": "11.0",
+			"description": "Liebfraumilch is a semi sweet German White Wine, known for being light to medium bodied with fruity flavors like peach, pear, and apple, and a hint of honeysuckle!",
+			"abv": "11.2",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
 				"6oz": "$8.00",
 				"Bottle": "$20.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
