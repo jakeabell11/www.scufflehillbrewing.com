@@ -140,16 +140,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Summer Song",
-			"style": "Hard Lemonade",
-			"description": "A tart, crisp, bubbly hard lemonade! Perfect thirst quencher for those hot summer days!",
-			"abv": "4.3",
-			"ibu": "",
+			"name": "Campfires & Canteens",
+			"style": "Rauchbier",
+			"description": "A German Rauchbier with a malty, toasty richness with a smoky taste that almost resembles flavors of bacon.",
+			"abv": "6.3",
+			"ibu": "25",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.75",
-				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
 			"available": "yes",
 			"comingSoon": "no"
