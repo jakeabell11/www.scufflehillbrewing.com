@@ -93,7 +93,7 @@
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
-				"6oz": "$8.00",
+				"6oz": "$7.50",
 				"Bottle": "$20.00"
 			},
 			"available": "yes",
@@ -212,7 +212,24 @@
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
-				"6oz": "$8.00",
+				"6oz": "$7.50",
+				"Bottle": "$20.00"
+			},
+			"available": "yes",
+			"comingSoon": "no",
+			"house" : "yes",
+			"guest" : "no"
+		},
+		{
+			"name": "White Cranberry",
+			"style": "Pinot Gris",
+			"producer": "",
+			"description": "A unique blend of white cranberry and Pinot Gris that’s crisp, slightly tart, and fruit forward. This wine is smooth, light-bodied with a subtly sweet finish and a clean succulent taste.",
+			"abv": "9.5",
+			"picture": "",
+			"tap_room": {
+				"2oz": "$2.70",
+				"6oz": "$7.50",
 				"Bottle": "$20.00"
 			},
 			"available": "yes",
