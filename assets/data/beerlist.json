@@ -213,6 +213,20 @@
 			"comingSoon": "no"
 		},
 		{
+			"name": "Hansel & Gretel's Downfall",
+			"style": "Imperial Gingerbread Porter",
+			"description": "Our 10% holiday stout returns with rich, gingerbread-porter vibes—made with ginger, nutmeg, cinnamon, allspice & clove. Smooth, festive, and dangerously sippable. Taproom only release!",
+			"abv": "10.0",
+			"ibu": "20",
+			"picture": "",
+			"tap_room": {
+				"5oz": "$4.00",
+				"10oz": "$7.50"
+			},
+			"available": "yes",
+			"comingSoon": "no"
+		},
+		{
 			"name": "Frosé",
 			"style": "Hard Slushie Seltzer",
 			"description": "This icy treat blends crisp, bubbly seltzer with juicy rosé-inspired flavors of ripe strawberry, tart raspberry, and a bright splash of lemon, perfectly balanced for a light and fruity finish.",
@@ -225,22 +239,6 @@
 				"16oz": "$7.00"
 			},
 			"available": "yes",
-			"comingSoon": "no"
-		},
-		{
-			"name": "Oktoberfest",
-			"style": "Marzen",
-			"description": "Our take on a traditional German Oktoberfest. Made with all german malts and hops boasting tasting notes resembling sourdough bread, caramel, and some light fruity esters.",
-			"abv": "6.0",
-			"ibu": "20",
-			"picture": "",
-			"tap_room": {
-				"5oz": "$2.50",
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
-			},
-			"available": "no",
 			"comingSoon": "no"
 		},
 		{
