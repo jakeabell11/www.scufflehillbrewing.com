@@ -124,17 +124,16 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "PT Schwartz",
-			"style": "Schwarzbier",
-			"description": "A German Black Lager, that's clean, light, and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee!",
-			"abv": "5.0",
-			"ibu": "25",
+			"name": "Third Shift",
+			"style": "Blonde Stout",
+			"description": "A golden, creamy stout made with Thirdshift Roasters Sidekick coffee and cocao nibs. Smooth, rounded coffee character leads the sip, supported by soft cocoa depth and light biscuity malt sweetness. Silky and medium bodied, with a coffee finish that lingers without bitterness.",
+			"abv": "6.0",
+			"ibu": "15",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.50",
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
+				"5oz": "$2.75",
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
