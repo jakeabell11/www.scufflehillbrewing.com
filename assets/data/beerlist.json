@@ -169,16 +169,16 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Anniversary IPA",
-			"style": "Birthday Cake Milkshake IPA",
-			"description": "Brewed to celebrate our 4-year anniversary coming up, this one-of-a-kind IPA is loaded with flavor and festivity! We started with birthday cake, added Madagascar vanilla beans, creamy lactose, and layered in hop additions of Galaxy, Mosaic, and Citra during the boil, whirlpool, and dry hop. The result? A brew that bursts with a sweet birthday cake aroma, followed by rich cake and vanilla notes. The hops shine through with hints of tropical fruit, stone fruit, citrus, and a touch of dankness, perfectly complementing the sweet and creamy base.",
-			"abv": "7.0",
-			"ibu": "33",
+			"name": "Henry's Noir",
+			"style": "Dark Saison",
+			"description": "A rustic farmhouse ale with a deep chestnut hue, offering notes of toasted bread, dark fruit, and subtle caramel. Gentle banana esters from the Belgian yeast mingle with peppery spice, hints of cocoa, and earthy hops, finishing dry, effervescent, and pleasantly complex.",
+			"abv": "6.0",
+			"ibu": "29",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.50",
-				"8oz": "$5.00",
-				"16oz": "$7.50"
+				"5oz": "$2.75",
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
