@@ -79,16 +79,16 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Fall Beer Sucks",
-			"style": "American IPA",
-			"description": "Dry hopped with Ahtanum, Amarillo, Mosaic, and East Kent Goldings, this beauty was brewed for everyone who’s already over pumpkin season. A rich malty caramel backbone sets the stage for bright citrus, orange peel, and grapefruit notes, rounded out with a smooth floral hoppiness.",
-			"abv": "7.4",
-			"ibu": "70",
+			"name": "Scuffling Up Hops",
+			"style": "New England IPA W/ Erebus Hops",
+			"description": "This is the next addition to our Scuffling Up Hops series. This hazy New England IPA showcases Erebus hops in their purest form. Bursting with notes of  blueberry, citrus, and tropical fruit, it’s layered with a delicate floral rose / herbal aroma and bitterness that lifts the whole sip.",
+			"abv": "6.7",
+			"ibu": "40",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.00",
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"5oz": "$3.25",
+				"8oz": "$5.00",
+				"16oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
