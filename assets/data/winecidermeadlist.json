@@ -46,9 +46,9 @@
 				"6oz": "$8.50",
 				"Bottle": "$32.00"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no",
-			"house": "yes",
+			"house": "no",
 			"guest": "no"
 		},
 		{
