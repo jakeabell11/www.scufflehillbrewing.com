@@ -136,20 +136,20 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Pearadise",
-			"style": "Pear Hard Cider",
+			"name": "Plum Cider",
+			"style": "Hard Cider W/ Plum",
 			"producer": "",
-			"description": "Made from Pears, this Pear Cider is sweet and fruity upfront but finishes tart, clean, crisp, and dry.",
-			"abv": "4.3",
+			"description": "A cider made with a blend of Macintosh and Granny Smith Apples. Crisp and refreshing, it highlights both the tartness and the sweetness of the apples plus the additions of plum puree give it a sweet and tart candy like taste!",
+			"abv": "4.2",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$3.00",
 				"8oz": "$4.50",
 				"16oz": "$7.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
