@@ -35,20 +35,20 @@
 			"guest" : "yes"
 		},
 		{
-			"name": "Maple Mead",
-			"style": "Semi-Sweet Acerglyn Mead",
+			"name": "Red Sangria",
+			"style": "Red Sangria",
 			"producer": "",
-			"description": "A Semi - Sweet Acerglyn Mead made from a blend of Tupelo Honey, Manuka Honey, Wildflower Honey, and Maple Syrup. It has delicate buttery, caramelized honey, maple, and oak tasting notes.",
-			"abv": "12.0",
+			"description": "Our Red Sangria is tart, sweet, and bursting with bright fruit flavor, perfectly balanced for easy sipping.",
+			"abv": "10.0",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.85",
-				"6oz": "$8.50",
-				"Bottle": "$32.00"
+				"2oz": "$2.70",
+				"6oz": "$7.50",
+				"Bottle": "$20.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house": "no",
+			"house": "yes",
 			"guest": "no"
 		},
 		{
@@ -68,20 +68,20 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Tupelo Mead",
-			"style": "Semi-Sweet Traditional Mead",
+			"name": "White Zinfandel",
+			"style": "White Zinfandel",
 			"producer": "",
-			"description": "A Semi-Sweet Mead made with 100% Tupelo honey that has delicate buttery tasting notes with hints of citrus, floral, and rosewater undertones!",
-			"abv": "12.0",
+			"description": "Light and refreshing with notes of strawberry, watermelon, and a hint of citrus, finishing crisp and smooth.",
+			"abv": "10.4",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
-				"6oz": "$8.00",
-				"Bottle": "$30.00"
+				"6oz": "$7.50",
+				"Bottle": "$20.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
