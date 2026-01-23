@@ -79,9 +79,9 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Scuffling Up Hops",
-			"style": "New England IPA W/ Erebus Hops",
-			"description": "This is the next addition to our Scuffling Up Hops series. This hazy New England IPA showcases Erebus hops in their purest form. Bursting with notes of  blueberry, citrus, and tropical fruit, it’s layered with a delicate floral rose / herbal aroma and bitterness that lifts the whole sip.",
+			"name": "Half Mile Haze",
+			"style": "New England IPA",
+			"description": "Our flagship NEIPA using BRU-1, Citra, & El Dorado Hops! Boasting tasting notes of pineapple juice and citrus with a danky herbal finish! Named after the Martinsville Speedway being a Half Mile Track!",
 			"abv": "6.7",
 			"ibu": "40",
 			"picture": "",
@@ -135,7 +135,7 @@
 				"8oz": "$4.25",
 				"16oz": "$6.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
@@ -213,17 +213,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Hansel & Gretel's Downfall",
-			"style": "Imperial Gingerbread Porter",
-			"description": "Our 10% holiday stout returns with rich, gingerbread-porter vibes—made with ginger, nutmeg, cinnamon, allspice & clove. Smooth, festive, and dangerously sippable. Taproom only release!",
-			"abv": "10.0",
-			"ibu": "20",
+			"name": "Apple Pie Porter",
+			"style": "Imperial Porter",
+			"description": "This smooth, full-bodied porter layers notes of baked apple, apple pie spices, brown sugar, and flaky pie crust over a base of chocolatey malt and light roast! Perfect for slow sips on a chilly night!
 			"picture": "",
 			"tap_room": {
 				"5oz": "$4.00",
-				"10oz": "$7.50"
+				"13oz": "$7.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
@@ -238,7 +236,7 @@
 				"8oz": "$4.50",
 				"16oz": "$7.00"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
