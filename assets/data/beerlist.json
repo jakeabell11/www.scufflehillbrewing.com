@@ -124,18 +124,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Third Shift",
-			"style": "Blonde Stout",
-			"description": "A golden, creamy stout made with Thirdshift Roasters Sidekick coffee and cocao nibs. Smooth, rounded coffee character leads the sip, supported by soft cocoa depth and light biscuity malt sweetness. Silky and medium bodied, with a coffee finish that lingers without bitterness.",
-			"abv": "6.0",
-			"ibu": "15",
+			"name": "Ridge Runner",
+			"style": "Malt Liquor",
+			"description": "Medium-bodied, crisp, and smooth! Soft notes of honeyed corn, sweet grain, and fresh bread keep this brew easy-drinking and refreshing, while higher ABV gives it a little extra kick without the bite. The name pays homage to the moonshine heritage of Franklin and Henry counties!",
+			"abv": "7.0",
+			"ibu": "19",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.75",
 				"8oz": "$4.25",
 				"16oz": "$6.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
