@@ -227,9 +227,9 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Frosé",
+			"name": "Dreamsicle",
 			"style": "Hard Seltzer",
-			"description": "This treat blends crisp, bubbly seltzer with juicy rosé-inspired flavors of ripe strawberry, tart raspberry, and a bright splash of lemon, perfectly balanced for a light and fruity finish.",
+			"description": "Bursting with juicy orange and smooth vanilla cream, it tastes just like a classic orange creamsicle melted into a glass.",
 			"abv": "7.0",
 			"ibu": "",
 			"picture": "",
@@ -239,7 +239,7 @@
 				"16oz": "$7.00"
 			},
 			"available": "no",
-			"comingSoon": "no"
+			"comingSoon": "yes"
 		},
 		{
 			"name": "Festbier",
