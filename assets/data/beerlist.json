@@ -184,15 +184,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Near War's End",
-			"style": "Doppelbock",
-			"description": "Our take on a traditional German Doppelbock. Rich, creamy, sweet & malty with tasting notes of toast, dark chocolate, caramelized brown sugar, and dark fruits like raisin and fig!",
-			"abv": "8.0",
-			"ibu": "16",
+			"name": "0 Dark 30",
+			"style": "Imperial Chocolate Stout W/ Vanilla & Lactose",
+			"description": "Rich, dark, and dessert-level decadent. Cocoa cereal and real chocolate bring nostalgic chocolate milk vibes, vanilla smooths it out, and lactose adds a creamy full body to this stout.",
+			"abv": "10.0",
+			"ibu": "40",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.25",
-				"13oz": "$7.50"
+				"5oz": "$4.25",
+				"10oz": "$8.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
