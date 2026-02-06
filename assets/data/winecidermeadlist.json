@@ -187,11 +187,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Raspberry Chocolate Mead",
-			"style": "Sweet Pyment Mead",
+			"name": "Elderberry Mead",
+			"style": "Sweet Melomel Mead W/ Elderberry, Tea, & Lemongrass",
 			"producer": "",
-			"description": "A Sweet Pyment Mead that has delicate tasting notes of sweet honey, raspberries, and chocolate!",
-			"abv": "13.5",
+			"description": "Made with a rich base of buckwheat and wildflower honey, this mead layers deep berry jam, caramel, and slight earthy notes with smooth black tea tannins and a citrusy lift from the leomgrass. Bold yet refreshing, with a pleasantly sweet finish!",
+			"abv": "13.0",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.85",
