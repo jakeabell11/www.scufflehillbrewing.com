@@ -234,12 +234,11 @@
 			"ibu": "",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.00",
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"5oz": "$3.50",
+				"16oz": "$7.50"
 			},
-			"available": "no",
-			"comingSoon": "yes"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
 			"name": "Festbier",
