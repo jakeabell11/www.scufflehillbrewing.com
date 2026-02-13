@@ -35,15 +35,15 @@
 			"guest" : "yes"
 		},
 		{
-			"name": "Red Sangria",
-			"style": "Red Sangria",
+			"name": "Black Cherry",
+			"style": "Sweet Fruit Wine",
 			"producer": "",
-			"description": "Our Red Sangria is tart, sweet, and bursting with bright fruit flavor, perfectly balanced for easy sipping.",
-			"abv": "10.0",
+			"description": "This sweet ruby red wine presents succlulent flavors of fresh ripe black cherries balanaced by a subtle touch of tannins!",
+			"abv": "8.0",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.70",
-				"6oz": "$7.50",
+				"2oz": "$2.00",
+				"8oz": "$7.50",
 				"Bottle": "$20.00"
 			},
 			"available": "yes",
