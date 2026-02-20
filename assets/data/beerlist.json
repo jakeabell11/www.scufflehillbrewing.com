@@ -133,23 +133,21 @@
 			"tap_room": {
 				"5oz": "$2.75",
 				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"16oz": "$6.50""
 			},
 			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
-			"name": "Campfires & Canteens",
-			"style": "Rauchbier",
-			"description": "A German Rauchbier with a malty, toasty richness with a smoky taste that almost resembles flavors of bacon.",
-			"abv": "6.3",
-			"ibu": "25",
+			"name": "Major Redd",
+			"style": "Imperial Redd IPA",
+			"description": "Boasting malty and fruity flavors upfront, finishing with a nice grapefruit and resinous bite! The Columbus, Chinook, Galaxy, and Mosaic hops work in tandem with the malts to bring a unique flavor to this brew! Named after Major John Redd, one of the first settlers to come to Henry County, served as a Major in the American Continental Forces during the revolution, and later went on to serve as High Sheriff, as well as a member on the County Court for 40 years! He also built his Belleview Estate listed on the National Register of Historic Places! 2024 Virginia Craft Brewers Cup Bronze Medal Winner for Specialty IPA Category!",
+			"abv": "8.0",
+			"ibu": "81",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.50",
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
+				"5oz": "$3.50",
+				"13oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
