@@ -211,15 +211,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Apple Pie Porter",
+			"name": "Hazelnut Praline Porter",
 			"style": "Imperial Porter",
-			"description": "This smooth, full-bodied porter layers notes of baked apple, apple pie spices, brown sugar, and flaky pie crust over a base of chocolatey malt and light roast! Perfect for slow sips on a chilly night!",
-			"abv": "8.5",
+			"description": "A rich, full-bodied imperial porter layered with notes of roasted chocolate malts, hazelnut, and sweet praline. Smooth, nutty, and dessert-like with a warm, lingering finish.",
+			"abv": "10.0",
 			"ibu": "20",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.50",
-				"13oz": "$7.50"
+				"5oz": "$4.25",
+				"13oz": "$8.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
