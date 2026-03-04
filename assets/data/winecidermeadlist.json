@@ -85,15 +85,15 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Gewürztraminer",
-			"style": "German White Wine",
+			"name": "Valzoza",
+			"style": "Valpolicella Style Italian Red Wine",
 			"producer": "",
-			"description": "Gewürztraminer is a highly aromatic German white wine known for its distinctive flavors of lychee, rose and tropical fruit, often with a hint of spice.",
-			"abv": "11.2",
+			"description": "A smooth, medium-bodied red with rich notes of dark cherry, plum, and blackberry layered with subtle hints of cocoa and warm spice. Soft tannins and a balanced finish make it an easy-drinking red perfect for relaxing with friends or pairing with hearty foods.",
+			"abv": "12.7",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
-				"6oz": "$7.50",
+				"6oz": "$8.00",
 				"Bottle": "$20.00"
 			},
 			"available": "no",
