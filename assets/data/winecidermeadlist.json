@@ -170,20 +170,20 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Wildflower Mead",
-			"style": "Sweet Traditional Mead",
+			"name": "Brochet Mead",
+			"style": "Dessert Mead",
 			"producer": "",
-			"description": "A Sweet Mead that has delicate tasting notes of sweet honey with hints of citrus, sweet fruits, and slightly floral and honeysuckle undertones. Made from 100% wildflower honey from WG Bee Farm.",
-			"abv": "13.7",
+			"description": "Made using caramelized honey, this brochet mead has rich notes of chocolate, toasted marshmallow, and warm beeswax, with a smooth, roasted honey finish.",
+			"abv": "13.0",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
 				"6oz": "$8.00",
 				"Bottle": "$30.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
