@@ -196,11 +196,11 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Pear Ginger Grisette",
-			"style": "Belgian Grisette",
-			"description": "A Belgian Grisette featuring pear and ginger puree! This farmhouse style features sweet pear and ginger upfront followed by light peppery Belgian esters. This is a nice, light refreshing brew.",
-			"abv": "4.2",
-			"ibu": "25",
+			"name": "Old Iron",
+			"style": "Dry Irish Stout",
+			"description": "The name gives a nod to the early iron industry in and around the local area. This stout is smooth and sessionable with classic roasted character. Notes of roasted barley, dark chocolate, and fresh coffee lead the way, balanced by a touch of toasted bread and subtle earthy bitterness. The finish is dry, crisp, and clean, inviting another sip.",
+			"abv": "4.3",
+			"ibu": "30",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.75",
