@@ -167,16 +167,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Henry's Noir",
-			"style": "Dark Saison",
-			"description": "A rustic farmhouse ale with a deep chestnut hue, offering notes of toasted bread, dark fruit, and subtle caramel. Gentle banana esters from the Belgian yeast mingle with peppery spice, hints of cocoa, and earthy hops, finishing dry, effervescent, and pleasantly complex.",
-			"abv": "6.0",
-			"ibu": "29",
+			"name": "Neely's Red",
+			"style": "Irish Red Ale",
+			"description": "Our take on a traditional Irish Red Ale, featuring malty backbone with notes of caramel and toasted bread, balanced by a slight earthy bitterness. It pours a beautiful amber-red hue and finishes smooth and easy-drinking.",
+			"abv": "4.7",
+			"ibu": "19",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.75",
-				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
 			"available": "yes",
 			"comingSoon": "no"
@@ -211,15 +212,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Hazelnut Praline Porter",
-			"style": "Imperial Porter",
-			"description": "A rich, full-bodied imperial porter layered with notes of roasted chocolate malts, hazelnut, and sweet praline. Smooth, nutty, and dessert-like with a warm, lingering finish.",
-			"abv": "10.0",
-			"ibu": "20",
+			"name": "Pistachio Butter Cream Ale",
+			"style": "Cream Ale",
+			"description": "A smooth cream ale infused with pistachio and sweet buttercream notes, creating a light, nutty sweetness balanced by a crisp, refreshing finish. It also has a nice light green color!",
+			"abv": "5.0",
+			"ibu": "16",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$4.25",
-				"13oz": "$8.50"
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
