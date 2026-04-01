@@ -257,11 +257,11 @@
 			"comingSoon": "yes"
 		},
 		{
-			"name": "PT Schwartz",
-			"style": "Schwarzbier",
-			"description": "A German Black Lager, that's clean, light, and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee!",
-			"abv": "5.0",
-			"ibu": "25",
+			"name": "Hazelnut Praline",
+			"style": "Imperial Porter",
+			"description": "A rich, full-bodied imperial porter layered with notes of roasted chocolate malts, hazelnut, and sweet praline. Smooth, nutty, and dessert-like with a warm, lingering finish.",
+			"abv": "10.0",
+			"ibu": "20",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.50",
@@ -270,7 +270,7 @@
 				"20oz": "$6.75"
 			},
 			"available": "no",
-			"comingSoon": "no"
+			"comingSoon": "yes"
 		},
 		{
 			"name": "Near War's End",
