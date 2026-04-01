@@ -187,20 +187,20 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Elderberry Mead",
-			"style": "Sweet Melomel Mead W/ Elderberry, Tea, & Lemongrass",
+			"name": "Grapefruit Mead",
+			"style": "Semi Sweet Melomel Mead",
 			"producer": "",
-			"description": "Made with a rich base of buckwheat and wildflower honey, this mead layers deep berry jam, caramel, and slight earthy notes with smooth black tea tannins and a citrusy lift from the lemongrass. Bold yet refreshing, with a pleasantly sweet finish!",
-			"abv": "13.0",
+			"description": "A semi-sweet Melomel mead with bright grapefruit citrus, balanced honey sweetness, and a light oak finish. Crisp, slightly tart, and refreshing.",
+			"abv": "13.4",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.85",
 				"6oz": "$8.50",
 				"Bottle": "$32.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
