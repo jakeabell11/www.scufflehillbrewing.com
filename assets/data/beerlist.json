@@ -241,11 +241,11 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Festbier",
-			"style": "German Lager",
-			"description": "A golden malt forward lager with notes of fresh bread, light honey, and toasted grain. Smooth, crisp, and balanced with a touch of Noble hop bitterness for an easy clean finish.",
-			"abv": "5.8",
-			"ibu": "23",
+			"name": "Henry's Noir",
+			"style": "Dark Saison",
+			"description": "A rustic farmhouse ale with a deep chestnut hue, offering notes of toasted bread, dark fruit, and subtle caramel. Gentle banana esters from the Belgian yeast mingle with peppery spice, hints of cocoa, and earthy hops, finishing dry, effervescent, and pleasantly complex.",
+			"abv": "6.0",
+			"ibu": "29",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.50",
@@ -254,7 +254,7 @@
 				"20oz": "$6.75"
 			},
 			"available": "no",
-			"comingSoon": "no"
+			"comingSoon": "yes"
 		},
 		{
 			"name": "PT Schwartz",
