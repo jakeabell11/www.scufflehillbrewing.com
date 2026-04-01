@@ -289,21 +289,21 @@
 			"guest" : "no"
 		},
 		{
-			"name": "2024 Traminette",
-			"style": "Semi Sweet Traminette",
-			"producer": "Fables & Feathers Winery",
-			"description": "Estate grown, new vintage released September 2025, semi-sweet, floral nose with notes of apricot",
-			"abv": "12.5",
+			"name": "Mango Dragon Fruit Lemonade",
+			"style": "Semi Sweet Fruit Wine",
+			"producer": "",
+			"description": "Features delicious flavors of mango, dragon fruit, coconut, and lemonade! Refreshing and bright, the essential spring and summer sipper!",
+			"abv": "7.0",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.50",
-				"6oz": "$7.50",
+				"2oz": "$2.00",
+				"8oz": "$7.50",
 				"Bottle": "$20.00"
 			},
-			"available": "yes",
-			"comingSoon": "no",
-			"house" : "no",
-			"guest" : "yes"
+			"available": "no",
+			"comingSoon": "yes",
+			"house" : "yes",
+			"guest" : "no"
 		}
 	]
 }
