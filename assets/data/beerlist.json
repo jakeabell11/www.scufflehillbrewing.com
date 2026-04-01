@@ -212,16 +212,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Pistachio Butter Cream Ale",
-			"style": "Cream Ale",
-			"description": "A smooth cream ale infused with pistachio and sweet buttercream notes, creating a light, nutty sweetness balanced by a crisp, refreshing finish. It also has a nice light green color!",
-			"abv": "5.0",
-			"ibu": "16",
+			"name": "A Day Late",
+			"style": "Triple New England IPA",
+			"description": "This Triple New England IPA boasts powerful flavors and aromas of sweet tropical fruits, pineapple, and hints of stone fruit! The name comes from the Henry County Militia being a day late to the Battle of Guildford Courthouse during the Revolutionary War. By the time they arrived, the battle was already over. Much like the militia, if you drink too many of these, you may just be a day late to work the next day.",
+			"abv": "10.0",
+			"ibu": "35",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.75",
-				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"5oz": "$3.50",
+				"13oz": "$8.00"
 			},
 			"available": "yes",
 			"comingSoon": "no"
