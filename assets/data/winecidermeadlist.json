@@ -136,20 +136,20 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Plum Cider",
-			"style": "Hard Cider W/ Plum",
+			"name": "Strawberry Wine",
+			"style": "Semi Sweet Fruit Wine",
 			"producer": "",
-			"description": "A cider made with a blend of Macintosh and Granny Smith Apples. Crisp and refreshing, it highlights both the tartness and the sweetness of the apples plus the additions of plum puree give it a sweet and tart candy like taste!",
+			"description": "This wine is bursting with fresh, juicy berry flavor. Light, refreshing, and slightly tart with a smooth, sweet finish that keeps it easy to sip.",
 			"abv": "4.2",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.00",
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"2oz": "$2.00",
+				"8oz": "$7.50",
+				"Bottle": "$20.00"
 			},
 			"available": "no",
-			"comingSoon": "no",
-			"house" : "no",
+			"comingSoon": "yes",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
