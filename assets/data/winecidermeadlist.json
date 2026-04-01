@@ -272,21 +272,21 @@
 			"guest" : "yes"
 		},
 		{
-			"name": "2022 Merlot",
-			"style": "Merlot",
-			"producer": "Fables & Feathers Winery",
-			"description": "Estate Merlot, blackberry notes, aged in oak for a smooth toffee finish",
-			"abv": "12.5",
+			"name": "Passion Fruit Tea Mead",
+			"style": "Sweet Melomel Mead",
+			"producer": "",
+			"description": "A Sweet Melomel Mead bursting with tropical flavor and smooth tea character. Bright, juicy passion fruit up front with a mellow, slightly tannic finish that keeps it balanced and easy to drink.",
+			"abv": "13.5",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.70",
-				"6oz": "$8.00",
-				"Bottle": "$25.00"
+				"2oz": "$2.85",
+				"6oz": "$8.50",
+				"Bottle": "$32.00"
 			},
-			"available": "yes",
-			"comingSoon": "no",
-			"house" : "no",
-			"guest" : "yes"
+			"available": "no",
+			"comingSoon": "yes",
+			"house" : "yes",
+			"guest" : "no"
 		},
 		{
 			"name": "2024 Traminette",
