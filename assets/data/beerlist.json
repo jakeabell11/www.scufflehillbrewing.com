@@ -273,18 +273,18 @@
 			"comingSoon": "yes"
 		},
 		{
-			"name": "Near War's End",
-			"style": "Doppelbock",
-			"description": "Our take on a traditional German Doppelbock. Rich, creamy, sweet & malty with tasting notes of toast, dark chocolate, caramelized brown sugar, and dark fruits like raisin and fig!",
-			"abv": "8.0",
-			"ibu": "16",
+			"name": "Coconut Ube",
+			"style": "Cream Ale",
+			"description": "A smooth cream ale with sweet coconut and ube. Pouring a purplish hue, it is light and easy drinking!",
+			"abv": "5.0",
+			"ibu": "15",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$3.25",
 				"13oz": "$7.50"
 			},
 			"available": "no",
-			"comingSoon": "no"
+			"comingSoon": "yes"
 		},
 		{
 			"name": "Campfires & Canteens",
