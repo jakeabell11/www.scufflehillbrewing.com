@@ -167,17 +167,16 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Neely's Red",
-			"style": "Irish Red Ale",
-			"description": "Our take on a traditional Irish Red Ale, featuring malty backbone with notes of caramel and toasted bread, balanced by a slight earthy bitterness. It pours a beautiful amber-red hue and finishes smooth and easy-drinking.",
-			"abv": "4.7",
+			"name": "Coconut Ube",
+			"style": "Cream Ale",
+			"description": "A smooth cream ale with sweet coconut and ube. Pouring a purplish hue, it is light and easy drinking!",
+			"abv": "5.0",
 			"ibu": "19",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.75",
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
+				"8oz": "$4.25",
+				"16oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
@@ -283,7 +282,7 @@
 				"13oz": "$7.50"
 			},
 			"available": "no",
-			"comingSoon": "yes"
+			"comingSoon": "no"
 		},
 		{
 			"name": "Campfires & Canteens",
