@@ -212,15 +212,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "A Day Late",
-			"style": "Triple New England IPA",
-			"description": "This Triple New England IPA boasts powerful flavors and aromas of sweet tropical fruits, pineapple, and hints of stone fruit! The name comes from the Henry County Militia being a day late to the Battle of Guildford Courthouse during the Revolutionary War. By the time they arrived, the battle was already over. Much like the militia, if you drink too many of these, you may just be a day late to work the next day.",
+			"name": "Hazelnut Praline",
+			"style": "Imperial Porter",
+			"description": "A rich, full-bodied imperial porter layered with notes of roasted chocolate malts, hazelnut, and sweet praline. Smooth, nutty, and dessert-like with a warm, lingering finish.",
 			"abv": "10.0",
-			"ibu": "35",
+			"ibu": "20",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.50",
-				"13oz": "$8.00"
+				"5oz": "$4.25",
+				"10oz": "$8.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
@@ -269,7 +269,7 @@
 				"20oz": "$6.75"
 			},
 			"available": "no",
-			"comingSoon": "yes"
+			"comingSoon": "no"
 		},
 		{
 			"name": "Coconut Ube",
