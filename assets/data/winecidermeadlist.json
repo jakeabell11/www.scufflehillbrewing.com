@@ -232,9 +232,9 @@
 				"8oz": "$7.50",
 				"Bottle": "$20.00"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no",
-			"house" : "yes",
+			"house" : "no",
 			"guest" : "no"
 		},
 		{
@@ -283,8 +283,8 @@
 				"6oz": "$8.50",
 				"Bottle": "$32.00"
 			},
-			"available": "no",
-			"comingSoon": "yes",
+			"available": "yes",
+			"comingSoon": "no",
 			"house" : "yes",
 			"guest" : "no"
 		},
@@ -300,8 +300,8 @@
 				"8oz": "$7.50",
 				"Bottle": "$20.00"
 			},
-			"available": "no",
-			"comingSoon": "yes",
+			"available": "yes",
+			"comingSoon": "no",
 			"house" : "yes",
 			"guest" : "no"
 		}
