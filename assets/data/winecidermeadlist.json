@@ -238,11 +238,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "2024 Viognier",
-			"style": "Viognier",
+			"name": "2024 Bottled Blonde",
+			"style": "Sweet White",
 			"producer": "Hamlet Vinyards",
-			"description": "Named Virginia's official state grape in 2011, Viognier is a white wine grape made famous in the Rhone Valley of France. The floral aromas and lush character suggest some sweetness but the wine is finished dry. You may notice some peach or golden pear on the nose. It is a perfect pairing for spicy or salty foods - perhaps Thai or curry. Silver Medal Winner at the Virginia Governor's Cup.",
-			"abv": "12.5",
+			"description": "A sweeter white wine made with 1000% Vidal. Soft but crisp. Also nice as a dessert wine.",
+			"abv": "12.7",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.50",
