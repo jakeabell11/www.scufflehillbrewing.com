@@ -255,19 +255,17 @@
 			"comingSoon": "yes"
 		},
 		{
-			"name": "Hazelnut Praline",
-			"style": "Imperial Porter",
-			"description": "A rich, full-bodied imperial porter layered with notes of roasted chocolate malts, hazelnut, and sweet praline. Smooth, nutty, and dessert-like with a warm, lingering finish.",
+			"name": "Cuba Libre",
+			"style": "Slushie Seltzer",
+			"description": "Smooth Cola sweetness and a hint of rum flavoring make this a delicious icy treat! Served with a fresh lime on the side so you can dial in that perfect citrus kick!",
 			"abv": "10.0",
-			"ibu": "20",
+			"ibu": "",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.50",
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
+				"5oz": "$3.50",
+				"13oz": "$7.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
