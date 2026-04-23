@@ -258,12 +258,12 @@
 			"name": "Cuba Libre",
 			"style": "Slushie Seltzer",
 			"description": "Smooth Cola sweetness and a hint of rum flavoring make this a delicious icy treat! Served with a fresh lime on the side so you can dial in that perfect citrus kick!",
-			"abv": "10.0",
+			"abv": "10.3",
 			"ibu": "",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$3.50",
-				"13oz": "$7.50"
+				"13oz": "$8.00"
 			},
 			"available": "yes",
 			"comingSoon": "no"
