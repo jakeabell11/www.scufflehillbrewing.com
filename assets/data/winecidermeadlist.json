@@ -147,8 +147,8 @@
 				"8oz": "$7.50",
 				"Bottle": "$20.00"
 			},
-			"available": "no",
-			"comingSoon": "yes",
+			"available": "yes",
+			"comingSoon": "no",
 			"house" : "yes",
 			"guest" : "no"
 		},
