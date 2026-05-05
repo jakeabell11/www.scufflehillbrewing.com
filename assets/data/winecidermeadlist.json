@@ -1,16 +1,16 @@
 {
 	"winecidermead": [
 		{
-			"name": "Blackberry Wine",
-			"style": "Semi Sweet Fruit Wine",
+			"name": "Bochet Reserve",
+			"style": "Semi Sweet Bochet Mead",
 			"producer": "",
-			"description": "Sweet, tart, and irresistibly smooth — this blackberry wine is bursting with ripe berry flavor from start to finish. Each sip hits with a juicy pop of blackberry sweetness balanced by just the right touch of tangy tartness. Perfect for cozy fall evenings, dessert pairings, or anyone who loves a little fruit-forward flair in their glass.",
-			"abv": "8.9",
+			"description": "A rich bochet mead crafted from caramelized honey, aged on whiskey chips and Madagascar vanilla bean. Tasting notes of whiskey, toasted marshmallow, chocolate, oak warmth, and faint vanilla sweetness!",
+			"abv": "13.4",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.00",
-				"8oz": "$7.50",
-				"Bottle": "$20.00"
+				"2oz": "$2.85",
+				"8oz": "$8.50",
+				"Bottle": "$32.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
