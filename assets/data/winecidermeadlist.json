@@ -204,11 +204,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Liebfraumilch",
-			"style": "German White Wine",
+			"name": "Peach Wine",
+			"style": "Semi Sweet Fruit Wine",
 			"producer": "",
-			"description": "Liebfraumilch is a semi sweet German White Wine, known for being light to medium bodied with fruity flavors like peach, pear, and apple, and a hint of honeysuckle!",
-			"abv": "11.2",
+			"description": "Fresh peach aroma leads the way in this semi-sweet wine, bursting with juicy stone fruit flavor and a smooth, refreshing finish. Light-bodied and easy drinking, it balances natural peach sweetness with just enough crispness to keep you coming back for another sip. Perfect for warm days on the deck or sharing with friends.",
+			"abv": "8.0",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
