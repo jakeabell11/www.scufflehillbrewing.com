@@ -137,7 +137,7 @@
 				"20oz": "$7.00"
 			},
 			"available": "no",
-			"comingSoon": "yes"
+			"comingSoon": "no"
 		},
 		{
 			"name": "Major Redd",
@@ -227,45 +227,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Dreamsicle",
-			"style": "Hard Seltzer",
-			"description": "Bursting with juicy orange and smooth vanilla cream, it tastes just like a classic orange creamsicle melted into a glass.",
-			"abv": "9.0",
-			"ibu": "",
-			"picture": "",
-			"tap_room": {
-				"5oz": "$3.50",
-				"16oz": "$7.50"
-			},
-			"available": "yes",
-			"comingSoon": "no"
-		},
-		{
-			"name": "Henry's Noir",
-			"style": "Dark Saison",
-			"description": "A rustic farmhouse ale with a deep chestnut hue, offering notes of toasted bread, dark fruit, and subtle caramel. Gentle banana esters from the Belgian yeast mingle with peppery spice, hints of cocoa, and earthy hops, finishing dry, effervescent, and pleasantly complex.",
-			"abv": "6.0",
-			"ibu": "29",
+			"name": "Lubelski",
+			"style": "Polish Pilsner",
+			"description": "A crisp, clean Polish style pilsner with a light malt backbone, herbal hop character with a hint of citrus, and a snappy, refreshing finish!",
+			"abv": "5.5",
+			"ibu": "35",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.75",
 				"8oz": "$4.25",
 				"16oz": "$6.50",
 				"20oz": "$7.00"
-			},
-			"available": "yes",
-			"comingSoon": "no"
-		},
-		{
-			"name": "Cuba Libre",
-			"style": "Slushie Seltzer",
-			"description": "Smooth Cola sweetness and a hint of rum flavoring make this a delicious icy treat! Served with a fresh lime on the side so you can dial in that perfect citrus kick!",
-			"abv": "10.3",
-			"ibu": "",
-			"picture": "",
-			"tap_room": {
-				"5oz": "$3.50",
-				"13oz": "$8.00"
 			},
 			"available": "yes",
 			"comingSoon": "no"
