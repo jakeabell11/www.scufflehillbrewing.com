@@ -136,7 +136,7 @@
 				"16oz": "$6.50",
 				"20oz": "$7.00"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
@@ -164,7 +164,7 @@
 				"5oz": "$4.25",
 				"10oz": "$8.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
@@ -257,19 +257,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Campfires & Canteens",
-			"style": "Rauchbier",
-			"description": "A German Rauchbier with a malty, toasty richness with a smoky taste that almost resembles flavors of bacon.",
-			"abv": "6.3",
-			"ibu": "25",
+			"name": "Blue Raspberry",
+			"style": "Hard Slushie Seltzer",
+			"description": "A refreshing hard seltzer bursting with sweet and tart blue raspberry flavor and icy slushie vibes.",
+			"abv": "6.7",
+			"ibu": "",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.50",
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
+				"5oz": "$3.00",
+				"8oz": "$5.00",
+				"16oz": "$7.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
