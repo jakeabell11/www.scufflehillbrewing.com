@@ -154,17 +154,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Leatherwood Reserve",
-			"style": "Belgian Quadrupel",
-			"description": "A Quadrupel (Quad) is a strong, dark Belgian-style ale, known for rich, malty, and fruity flavors (like dark fruit, caramel, plum) with spicy notes from Belgian yeast, balanced by moderate bitterness and high alcohol. Inspired by Trappist monks, it’s a full bodied, complex sipping beer, meant for savoring.",
-			"abv": "11.2",
-			"ibu": "21",
+			"name": "Tricorn HZ",
+			"style": "New England IPA",
+			"description": "We bring to you, a hazy twist on a familiar favorite. We took our flagship IPA, Tricorn, and gave it the NEIPA treatment with a heavy dose of Citra, Amarillo, and Galaxy hops. Bursting with juicy orange, grapefruit, and bright grapefruit peel character, this hazy IPA delivers a smooth citrus flavor with a soft mouthfeel and a dank hop finish!",
+			"abv": "6.8",
+			"ibu": "35",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$4.25",
-				"10oz": "$8.50"
+				"5oz": "$3.25",
+				"8oz": "$5.00",
+				"16oz": "$7.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
