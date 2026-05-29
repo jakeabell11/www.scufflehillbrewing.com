@@ -153,20 +153,20 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Maple Wine",
-			"style": "Sweet Maple Wine",
+			"name": "Lemon Lavender Mead",
+			"style": "Sweet Melomel Mead",
 			"producer": "",
-			"description": "A Sweet Maple Wine that has delicate tasting notes of maple, oak, and slightly floral and woody undertones! Made from 100% Grade B Maple Syrup!",
-			"abv": "11.7",
+			"description": "Crafted with lemons, lavender, lemon blossom honey, and wildflower honey, this sweet mead offers a bright lemony citrus character balanced by soft floral notes and lavender aromatics! ",
+			"abv": "11.5",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.70",
-				"6oz": "$8.00",
-				"Bottle": "$30.00"
+				"2oz": "$2.85",
+				"6oz": "$8.50",
+				"Bottle": "$32.00"
 			},
 			"available": "no",
-			"comingSoon": "no",
-			"house" : "no",
+			"comingSoon": "yes",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
