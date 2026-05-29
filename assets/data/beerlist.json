@@ -124,11 +124,11 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Henry's Noir",
-			"style": "Dark Saison",
-			"description": "A rustic farmhouse ale with a deep chestnut hue, offering notes of toasted bread, dark fruit, and subtle caramel. Gentle banana esters from the Belgian yeast mingle with peppery spice, hints of cocoa, and earthy hops, finishing dry, effervescent, and pleasantly complex.",
-			"abv": "6.0",
-			"ibu": "29",
+			"name": "Scuffle or Shuffle?",
+			"style": "Peach Hefeweizen",
+			"description": "A tongue-in-cheek nod to the time Star News accidentally called us Shuffle Hill Brewing, prompting us and the community to swiftly spell check them on their news post. This brew is refreshing with tasting notes of sweet, juicy peach complimented by classic hefeweizen notes of banana and clove with a soft wheat backbone.",
+			"abv": "4.7",
+			"ibu": "11",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.75",
@@ -137,7 +137,7 @@
 				"20oz": "$7.00"
 			},
 			"available": "no",
-			"comingSoon": "no"
+			"comingSoon": "yes"
 		},
 		{
 			"name": "Major Redd",
