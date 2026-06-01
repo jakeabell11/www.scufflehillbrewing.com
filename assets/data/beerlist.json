@@ -136,8 +136,8 @@
 				"16oz": "$6.50",
 				"20oz": "$7.00"
 			},
-			"available": "no",
-			"comingSoon": "yes"
+			"available": "yes",
+			"comingSoon": "no"
 		},
 		{
 			"name": "Major Redd",
