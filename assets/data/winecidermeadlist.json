@@ -221,20 +221,19 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Lambrusco",
-			"style": "Sweet Red Wine",
+			"name": "Huckleberry Cider",
+			"style": "Sweet Fruited Hard Cider",
 			"producer": "",
-			"description": "A Sweet Italian Red wine with tasting notes of juicy cherry, plum, and blackberry. Smooth, jammy, sweet and easy drinking!",
-			"abv": "8.7",
+			"description": "Our crisp apple cider blended with huckleberry puree. Has a sweet berry aroma, pours a purplish hue, and a perfect balance of tartness and natural sweetness.",
+			"abv": "5.7",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.70",
-				"8oz": "$7.50",
-				"Bottle": "$20.00"
+				"8oz": "$4.50",
+				"8oz": "$7.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
