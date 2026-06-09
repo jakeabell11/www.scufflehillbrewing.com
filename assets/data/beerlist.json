@@ -244,18 +244,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Coconut Ube",
-			"style": "Cream Ale",
-			"description": "A smooth cream ale with sweet coconut and ube. Pouring a purplish hue, it is light and easy drinking!",
-			"abv": "5.0",
-			"ibu": "15",
+			"name": "Country Inn",
+			"style": "English Dark Mild",
+			"description": "Our English Dark Mild, full of caramel and chocolate tasting notes with a hint of roastiness and slight dark fruit esters resembling plum or raisin. Named after the old Country Inn Motel that used to be in Oak Level.",
+			"abv": "4.8",
+			"ibu": "28",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$3.25",
 				"13oz": "$7.50"
 			},
 			"available": "no",
-			"comingSoon": "no"
+			"comingSoon": "yes"
 		},
 		{
 			"name": "Blue Raspberry",
@@ -273,18 +273,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Major Redd",
-			"style": "Imperial Red IPA",
-			"description": "Boasting malty and fruity flavors upfront, finishing with a nice grapefruit and resinous bite! The Columbus, Chinook, Galaxy, and Mosaic hops work in tandem with the malts to bring a unique flavor to this brew! Named after Major John Redd, one of the first settlers to come to Henry County, served as a Major in the American Continental Forces during the revolution, and later went on to serve as High Sheriff, as well as a member on the County Court for 40 years! He also built his Belleview Estate listed on the National Register of Historic Places!",
-			"abv": "8.0",
-			"ibu": "81",
+			"name": "Three Ridges",
+			"style": "Belgian Singel",
+			"description": "This Singel features flavors of fresh bread, pear, banana, clove and a subtle peppery spice while finishing crisp and dry. The town of Ridgeway gets its name from being at the junction of three ridges, to Eden, Madison, and Martinsville.",
+			"abv": "6.0",
+			"ibu": "32",
 			"picture": "",
 			"tap_room": {
 				"8oz": "$5.00",
 				"16oz": "$7.50"
 			},
 			"available": "no",
-			"comingSoon": "no"
+			"comingSoon": "yes"
 		},
 		{
 			"name": "Trick or Tripel",
