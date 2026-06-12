@@ -85,11 +85,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Valroza",
-			"style": "Valpolicella Style Italian Red Wine",
+			"name": "Pinot Noir",
+			"style": "Pinot Noir",
 			"producer": "",
-			"description": "A smooth, medium-bodied red with rich notes of dark cherry, plum, and blackberry layered with subtle hints of cocoa and warm spice. Soft tannins and a balanced finish make it an easy-drinking red perfect for relaxing with friends or pairing with hearty foods.",
-			"abv": "12.7",
+			"description": "Presents aromas of light grape accompanied by tasting notes of cherry and raspberry, possessing a medium-high acidity with low smooth tannins!",
+			"abv": "13.2",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
