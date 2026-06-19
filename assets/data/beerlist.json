@@ -185,15 +185,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "0 Dark 30",
-			"style": "Imperial Chocolate Stout W/ Vanilla & Lactose",
-			"description": "Rich, dark, and dessert-level decadent. Cocoa cereal and real chocolate bring nostalgic chocolate milk vibes, vanilla smooths it out, and lactose adds a creamy full body to this stout.",
-			"abv": "10.0",
-			"ibu": "40",
+			"name": "Three Ridges",
+			"style": "Belgian Singel",
+			"description": "This Singel features flavors of fresh bread, pear, banana, clove and a subtle peppery spice while finishing crisp and dry. The town of Ridgeway gets its name from being at the junction of three ridges, to Eden, Madison, and Martinsville.",
+			"abv": "6.0",
+			"ibu": "32",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$4.25",
-				"10oz": "$8.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
@@ -285,7 +287,7 @@
 				"16oz": "$7.50"
 			},
 			"available": "no",
-			"comingSoon": "yes"
+			"comingSoon": "no"
 		},
 		{
 			"name": "Trick or Tripel",
