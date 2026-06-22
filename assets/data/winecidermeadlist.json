@@ -52,11 +52,11 @@
 			"guest": "no"
 		},
 		{
-			"name": "Bee City",
+			"name": "Pineapple Vanilla",
 			"style": "Session Mead",
 			"producer": "",
-			"description": "Our flagship sparkling session mead made with WG Bee Farm's wildflower honey! It provides delicate tasting notes of sweet honey and floral undertones with an apple cider like finish! Name is in honor of both The City of Martinsville and The Town of Ridgeway being Bee City USA Affiliates.",
-			"abv": "7.5",
+			"description": "Our sparkling session mead made with WG Bee Farm's wildflower honey, pineapple puree, and madagascar vanilla bean! It provides tasting notes resembling a tart pineapple cider, with honey, floral, and vanilla undertones!",
+			"abv": "8.7",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$3.25",
