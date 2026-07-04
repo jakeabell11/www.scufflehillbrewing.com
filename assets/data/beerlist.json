@@ -218,17 +218,18 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Hazelnut Praline",
-			"style": "Imperial Porter",
-			"description": "A rich, full-bodied imperial porter layered with notes of roasted chocolate malts, hazelnut, and sweet praline. Smooth, nutty, and dessert-like with a warm, lingering finish.",
-			"abv": "10.0",
+			"name": "Plum Wheat",
+			"style": "American Pale Wheat W/ Plum",
+			"description": "A light bodied bready wheat with a subtle plum flavor, mild hop bite, and a clean, crisp finish.",
+			"abv": "4.8",
 			"ibu": "20",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$4.25",
-				"10oz": "$8.50"
+				"5oz": "$3.00",
+				"8oz": "$4.50",
+				"16oz": "$7.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
