@@ -218,11 +218,11 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Plum Wheat",
-			"style": "American Pale Wheat W/ Plum",
-			"description": "A light bodied bready wheat with a subtle plum flavor, mild hop bite, and a clean, crisp finish.",
+			"name": "Pickle Gose",
+			"style": "Fruited Gose",
+			"description": "A tart German sour ale made with sea salt, coriander, pickle, and pickle brine.",
 			"abv": "4.8",
-			"ibu": "20",
+			"ibu": "8",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$3.00",
