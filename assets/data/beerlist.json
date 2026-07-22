@@ -170,11 +170,11 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Country Inn",
-			"style": "English Dark Mild",
-			"description": "Our English Dark Mild, full of caramel and chocolate tasting notes with a hint of roastiness and slight dark fruit esters resembling plum or raisin. Named after the old Country Inn Motel that used to be in Oak Level.",
-			"abv": "4.8",
-			"ibu": "28",
+			"name": "The Brice",
+			"style": "Czech Amber Lager",
+			"description": "A smooth, malt-forward Czech Amber Lager with notes of toasted bread, light caramel, and a touch of biscuit. Balanced by earthy, spicy Czech hops and a crisp, clean finish, it’s flavorful and easy drinking.Named after the ship General Joesph Martin came to America on, Brice. He also named his son Brice, who was a Major in the revolutionary war.",
+			"abv": "6.4",
+			"ibu": "27",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.50",
