@@ -233,11 +233,11 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Lubelski",
-			"style": "Polish Pilsner",
-			"description": "A crisp, clean Polish style pilsner with a light malt backbone, herbal hop character with a hint of citrus, and a snappy, refreshing finish!",
-			"abv": "5.5",
-			"ibu": "35",
+			"name": "Schottland House",
+			"style": "West Coast Pilsner",
+			"description": "This isn’t your typical pilsner, it’s like a pilsner that had a baby with a West Coast IPA. Made with Citra, Mosaic, Nelson Sauvin, Cryo Mosaic, & Cryo Nelson Sauvin hops expect tasting notes of citrus, pineapple, white grape up front with classic herbaeous, grapefruit peel, and slightly piney finish. It’s also crisp, clean, and dry what you’d expect from a pilsner!The Schottland House is one of Martinsville’s most recognizable historic homes. Built around 1900 by Colonel C.B. Bryant, the residence was purchased by businessman Michael Big Mike Schottland around 1918, who transformed the home with its distinctive two-story Colonial Revival front porch and expanded wings. The Schottland family lived in the house for more than 60 years before donating the property to Piedmont Arts in 1981. Today, the Schottland House serves as the heart of Piedmont Arts, housing galleries, exhibits, and community arts programs.",
+			"abv": "5.0",
+			"ibu": "37",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.75",
