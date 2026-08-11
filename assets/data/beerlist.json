@@ -218,16 +218,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Pickle Gose",
-			"style": "Fruited Gose",
-			"description": "A tart German sour ale made with sea salt, coriander, pickle, and pickle brine.",
-			"abv": "4.8",
-			"ibu": "8",
+			"name": "Oatmeal Cookie",
+			"style": "Imperial Porter",
+			"description": "Rich and smooth with flavors of oatmeal cookies, brown sugar, chocolate, and a hint of raisin!",
+			"abv": "9.2",
+			"ibu": "20",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.00",
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"5oz": "$3.25",
+				"13oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
