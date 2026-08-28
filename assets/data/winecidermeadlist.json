@@ -221,19 +221,19 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Huckleberry Cider",
-			"style": "Sweet Fruited Hard Cider",
+			"name": "Blue Raspberry",
+			"style": "Sweet Fruit Wine",
 			"producer": "",
-			"description": "Our crisp apple cider blended with huckleberry puree. Has a sweet berry aroma, pours a purplish hue, and a perfect balance of tartness and natural sweetness.",
+			"description": "This Sweet Fruit Wine provides tasting notes reminiscent of your favorite blue raspberry candies!",
 			"abv": "5.7",
 			"picture": "",
 			"tap_room": {
-				"8oz": "$4.50",
-				"16oz": "$7.00"
+				"2oz": "$2.00",
+				"8oz": "$7.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
