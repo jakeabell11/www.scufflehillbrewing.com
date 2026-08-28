@@ -225,11 +225,11 @@
 			"style": "Sweet Fruit Wine",
 			"producer": "",
 			"description": "This Sweet Fruit Wine provides tasting notes reminiscent of your favorite blue raspberry candies!",
-			"abv": "5.7",
+			"abv": "10.0",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.00",
-				"8oz": "$7.50"
+				"2oz": "$2.50",
+				"6oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no",
