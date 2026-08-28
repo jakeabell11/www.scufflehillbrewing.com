@@ -170,11 +170,11 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "The Brice",
-			"style": "Czech Amber Lager",
-			"description": "A smooth, malt-forward Czech Amber Lager with notes of toasted bread, light caramel, and a touch of biscuit. Balanced by earthy, spicy Czech hops and a crisp, clean finish, it’s flavorful and easy drinking.Named after the ship General Joesph Martin came to America on, Brice. He also named his son Brice, who was a Major in the revolutionary war.",
-			"abv": "6.4",
-			"ibu": "27",
+			"name": "PT Schwartz",
+			"style": "Schwarzbier",
+			"description": "A German Black Lager, that's clean, light, and crisp even for its dark complexion. This lager boasts smooth tasting notes of caramel, chocolate, and lightly roasted coffee!",
+			"abv": "5.1",
+			"ibu": "25",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.50",
@@ -186,17 +186,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Three Ridges",
-			"style": "Belgian Singel",
-			"description": "This Singel features flavors of fresh bread, pear, banana, clove and a subtle peppery spice while finishing crisp and dry. The town of Ridgeway gets its name from being at the junction of three ridges, to Eden, Madison, and Martinsville.",
+			"name": "P.O.G. Trainwreck Tripel Threat",
+			"style": "Belgian Tripel W/ Passion Fruit, Orange, & Guava",
+			"description": "This brew uses our Trainwreck Tripel Threat base but is heavy on the orange and orange peel notes with hints of guava and passionfruit.",
 			"abv": "6.0",
-			"ibu": "32",
+			"ibu": "23",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.50",
-				"8oz": "$4.00",
-				"16oz": "$6.00",
-				"20oz": "$6.50"
+				"5oz": "$3.25",
+				"8oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
