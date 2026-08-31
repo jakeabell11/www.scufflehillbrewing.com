@@ -170,16 +170,16 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Brochet Mead",
-			"style": "Dessert Mead",
+			"name": "Green Tea Lemonade Mead",
+			"style": "Sweet Melomel Mead",
 			"producer": "",
-			"description": "Made using caramelized honey, this brochet mead has rich notes of chocolate, toasted marshmallow, and warm beeswax, with a smooth, roasted honey finish.",
+			"description": "A light and refreshing mead blending smooth green tea with bright, tart lemonade and honey sweetness.",
 			"abv": "13.0",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.70",
-				"6oz": "$8.00",
-				"Bottle": "$30.00"
+				"2oz": "$2.85",
+				"6oz": "$8.50",
+				"Bottle": "$32.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
