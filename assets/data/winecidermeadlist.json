@@ -79,9 +79,9 @@
 				"6oz": "$7.50",
 				"Bottle": "$20.00"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no",
-			"house" : "yes",
+			"house" : "no",
 			"guest" : "no"
 		},
 		{
@@ -211,8 +211,8 @@
 			"abv": "8.0",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.70",
-				"6oz": "$7.50",
+				"2oz": "$2.00",
+				"8oz": "$7.50",
 				"Bottle": "$20.00"
 			},
 			"available": "yes",
@@ -228,7 +228,7 @@
 			"abv": "10.0",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.50",
+				"2oz": "$2.70",
 				"6oz": "$7.50"
 			},
 			"available": "yes",
@@ -295,8 +295,8 @@
 			"abv": "10.6",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.00",
-				"8oz": "$7.50",
+				"2oz": "$2.70",
+				"6oz": "$7.50",
 				"Bottle": "$20.00"
 			},
 			"available": "yes",
