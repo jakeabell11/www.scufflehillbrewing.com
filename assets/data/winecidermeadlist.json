@@ -85,11 +85,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Pinot Noir",
-			"style": "Pinot Noir",
+			"name": "Tempranillo",
+			"style": "Spanish Red",
 			"producer": "",
-			"description": "Presents aromas of light grape accompanied by tasting notes of cherry and raspberry, possessing a medium-high acidity with low smooth tannins!",
-			"abv": "13.2",
+			"description": "Presents aromas of light cherry and plum accompanied by tasting notes of cherry, plum, tobacco, leather, oak and vanilla, possessing a medium acidity with medium to high tannins!",
+			"abv": "12.5",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
