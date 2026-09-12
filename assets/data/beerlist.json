@@ -200,15 +200,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Trainwreck Tripel Threat",
-			"style": "Belgian Tripel",
-			"description": "A Belgian Tripel with a moderate bouquet of spiciness, fruity esters, and low hop aroma. The tasting notes are sweet banana upfront balanced with a soft clove finish. Other notes are orange and pear. The alcohol is well integrated and perceived as a warm sensation!",
-			"abv": "9.5",
-			"ibu": "23",
+			"name": "Kings Mountain Kolsch",
+			"style": "Kolsch",
+			"description": "A traditional Kolsch made with german malts and noble hops. Clean, crisp and refreshing with slight tasting notes of biscuit, apple, and pear.",
+			"abv": "5.0",
+			"ibu": "19",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.25",
-				"13oz": "$7.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
