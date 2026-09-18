@@ -136,7 +136,7 @@
 				"16oz": "$6.50",
 				"20oz": "$7.00"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
@@ -216,25 +216,27 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Oatmeal Cookie",
-			"style": "Imperial Porter",
-			"description": "Rich and smooth with flavors of oatmeal cookies, brown sugar, chocolate, and a hint of raisin!",
-			"abv": "9.2",
-			"ibu": "20",
+			"name": "The Legend of Bernard",
+			"style": "Pivo Grodziskie",
+			"description": "A historic beer from Poland made with 100% oak smoked wheat! Bringing slight oaky, smoky flavors accompanied by a nice wheat body!",
+			"abv": "4.1",
+			"ibu": "22",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.25",
-				"13oz": "$7.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
-			"name": "Schottland House",
-			"style": "West Coast Pilsner",
-			"description": "This isn’t your typical pilsner, it’s like a pilsner that had a baby with a West Coast IPA. Made with Citra, Mosaic, Nelson Sauvin, Cryo Mosaic, & Cryo Nelson Sauvin hops expect tasting notes of citrus, pineapple, white grape up front with classic herbaeous, grapefruit peel, and slightly piney finish. It’s also crisp, clean, and dry what you’d expect from a pilsner!The Schottland House is one of Martinsville’s most recognizable historic homes. Built around 1900 by Colonel C.B. Bryant, the residence was purchased by businessman Michael Big Mike Schottland around 1918, who transformed the home with its distinctive two-story Colonial Revival front porch and expanded wings. The Schottland family lived in the house for more than 60 years before donating the property to Piedmont Arts in 1981. Today, the Schottland House serves as the heart of Piedmont Arts, housing galleries, exhibits, and community arts programs.",
-			"abv": "5.0",
-			"ibu": "37",
+			"name": "Red Hill Wit",
+			"style": "Sour Cherry Belgian Witbier",
+			"description": "A refreshing Belgian Witbier with tart sour cherry, soft wheat, and classic citrusy spice. Mahlab adds a subtle almond-like, cherry-kernal character with hints of vanilla and warm spice giving this brew a unique depth while keeping the finish crisp and fruity. Takes the name from Patrick Henry's estate Red Hill.",
+			"abv": "4.9",
+			"ibu": "18",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.75",
