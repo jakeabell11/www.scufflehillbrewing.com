@@ -262,18 +262,19 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Blue Raspberry",
-			"style": "Hard Slushie Seltzer",
-			"description": "A refreshing hard seltzer bursting with sweet and tart blue raspberry flavor and icy slushie vibes.",
-			"abv": "6.7",
-			"ibu": "",
+			"name": "Oktoberfest",
+			"style": "Marzen",
+			"description": "Our take on a tradional German Oktoberfest! Boasting good flavors of German Malts accompanied by some toasty and biscuity notes along with some sweet aromas of caramel,toasted bread and dark fruit esters!",
+			"abv": "6.0",
+			"ibu": "20",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.00",
-				"8oz": "$5.00",
-				"16oz": "$7.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
