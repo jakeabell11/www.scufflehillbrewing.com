@@ -124,19 +124,19 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Scuffle or Shuffle?",
-			"style": "Peach Hefeweizen",
-			"description": "A tongue-in-cheek nod to the time Star News accidentally called us Shuffle Hill Brewing, prompting us and the community to swiftly spell check them on their news post. This brew is refreshing with tasting notes of sweet, juicy peach complimented by classic hefeweizen notes of banana and clove with a soft wheat backbone.",
-			"abv": "4.7",
-			"ibu": "11",
+			"name": "Roggen Roll",
+			"style": "Roggenbier",
+			"description": "A traditional German Rye Beer with a smooth, slightly spicy rye character, soft notes of clove and nutmeg, with hints of banana and bubblegum supported by a bready malt backbone! Think a Rye Hefeweizen!",
+			"abv": "5.5",
+			"ibu": "23",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.75",
-				"8oz": "$4.25",
-				"16oz": "$6.50",
-				"20oz": "$7.00"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no"
 		},
 		{
