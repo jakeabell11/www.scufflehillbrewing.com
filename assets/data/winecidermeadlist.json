@@ -62,9 +62,9 @@
 				"5oz": "$3.25",
 				"13oz": "$7.50"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no",
-			"house" : "yes",
+			"house" : "no",
 			"guest" : "no"
 		},
 		{
@@ -204,11 +204,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Peach Wine",
+			"name": "Apple Wine",
 			"style": "Semi Sweet Fruit Wine",
 			"producer": "",
-			"description": "Fresh peach aroma leads the way in this semi-sweet wine, bursting with juicy stone fruit flavor and a smooth, refreshing finish. Light-bodied and easy drinking, it balances natural peach sweetness with just enough crispness to keep you coming back for another sip. Perfect for warm days on the deck or sharing with friends.",
-			"abv": "8.0",
+			"description": "Crisp and refreshing with bright apple flavor, a touch of sweetness, a hint of tartness, and a smooth, clean finish!",
+			"abv": "9.5",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.00",
