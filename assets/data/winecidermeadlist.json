@@ -69,10 +69,10 @@
 			"guest" : "no"
 		},
 		{
-			"name": "White Zinfandel",
-			"style": "White Zinfandel",
+			"name": "White Sangria",
+			"style": "Semi Sweet Fruit Wine",
 			"producer": "",
-			"description": "Light and refreshing with notes of strawberry, watermelon, and a hint of citrus, finishing crisp and smooth.",
+			"description": "A refreshing blend of crisp white wine and tropical fruits with a light sweetness and a smooth, refreshing finish.",
 			"abv": "10.4",
 			"picture": "",
 			"tap_room": {
@@ -80,9 +80,9 @@
 				"6oz": "$7.50",
 				"Bottle": "$20.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
