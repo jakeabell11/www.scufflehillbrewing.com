@@ -171,11 +171,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Green Tea Lemonade Mead",
+			"name": "Sour Cherry Lime Vanilla Mead",
 			"style": "Sweet Melomel Mead",
 			"producer": "",
-			"description": "A light and refreshing mead blending smooth green tea with bright, tart lemonade and honey sweetness.",
-			"abv": "13.0",
+			"description": "A refreshing mead blending tart sour cherries, zesty lime, and smooth vanilla for a perfect balance of sweet and tart flavors.",
+			"abv": "13.1",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.85",
