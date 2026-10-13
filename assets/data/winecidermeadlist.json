@@ -52,19 +52,20 @@
 			"guest": "no"
 		},
 		{
-			"name": "Pineapple Vanilla",
+			"name": "Cranberry Orange Cinnamon Vanilla",
 			"style": "Session Mead",
 			"producer": "",
-			"description": "Our sparkling session mead made with WG Bee Farm's wildflower honey, pineapple puree, and madagascar vanilla bean! It provides tasting notes resembling a tart pineapple cider, with honey, floral, and vanilla undertones!",
-			"abv": "8.7",
+			"description": "A light, refreshing session mead featuring sweet cranberry, bright orange, warm cinnamon, and smooth vanilla. Sweet with just a hint tartness and a touch of spice.",
+			"abv": "6.8",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$3.25",
-				"13oz": "$7.50"
+				"8oz": "$5.00",
+				"16oz": "$7.50"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		},
 		{
