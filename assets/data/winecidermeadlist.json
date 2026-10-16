@@ -222,15 +222,16 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Blue Raspberry",
+			"name": "Blueberry Wine",
 			"style": "Sweet Fruit Wine",
 			"producer": "",
-			"description": "This Sweet Fruit Wine provides tasting notes reminiscent of your favorite blue raspberry candies!",
-			"abv": "10.0",
+			"description": "A smooth, fruit-forward wine bursting with sweet juicy blueberry, balanced by a subtle tartness!",
+			"abv": "9.6",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.70",
-				"6oz": "$7.50"
+				"8oz": "$7.50",
+				"Bottle": "$20.00"
 			},
 			"available": "yes",
 			"comingSoon": "no",
