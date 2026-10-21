@@ -142,16 +142,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Watermelon Gose",
-			"style": "Fruited Gose",
-			"description": "A tart German sour ale made with sea salt, coriander, and watermelon puree! Well balanced between the tartness of the style and sweetness of the watermelon.",
-			"abv": "4.7",
-			"ibu": "8",
+			"name": "Oktoberfest",
+			"style": "Marzen",
+			"description": "Our take on a traditional German Oktoberfest! Boasting good flavors of German Malts accompanied by some toasty and biscuity notes along with some sweet aromas of caramel, toasted bread and dark fruit esters!",
+			"abv": "6.0",
+			"ibu": "20",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.75",
-				"8oz": "$4.25",
-				"16oz": "$6.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
 			"available": "yes",
 			"comingSoon": "no"
