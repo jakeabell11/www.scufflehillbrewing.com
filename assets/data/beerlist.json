@@ -219,17 +219,16 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "The Legend of Bernard",
-			"style": "Pivo Grodziskie",
-			"description": "A historic beer from Poland made with 100% oak smoked wheat! Bringing slight oaky, smoky flavors accompanied by a nice wheat body!",
-			"abv": "4.1",
-			"ibu": "22",
+			"name": "Space Attic",
+			"style": "New England",
+			"description": "A smooth, hazy NEIPA brewed with Galaxy, Comet, and Eclipse hops. It brings notes of citrus and tangerine with subtle herbaceous and earthy notes. Named after the Space Attic arcade that once occupied our current location, the space-themed hops were the perfect fit for the beer!",
+			"abv": "6.4",
+			"ibu": "35",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.50",
-				"8oz": "$4.00",
-				"16oz": "$6.00",
-				"20oz": "$6.50"
+				"5oz": "$3.25",
+				"8oz": "$5.00",
+				"16oz": "$7.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
@@ -277,7 +276,7 @@
 				"16oz": "$6.25",
 				"20oz": "$6.75"
 			},
-			"available": "yes",
+			"available": "no",
 			"comingSoon": "no"
 		},
 		{
