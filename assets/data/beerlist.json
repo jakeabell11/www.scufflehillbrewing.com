@@ -189,15 +189,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "P.O.G. Trainwreck Tripel Threat",
-			"style": "Belgian Tripel W/ Passion Fruit, Orange, & Guava",
-			"description": "This brew uses our Trainwreck Tripel Threat base but is heavy on the orange and orange peel notes with hints of guava and passionfruit.",
-			"abv": "6.0",
-			"ibu": "23",
+			"name": "The Great Wagon Road",
+			"style": "German Pilsner",
+			"description": "A crisp, dry biscuity and bready German Pilsner with an earthy bitter bite! Named after the old immigration route taken by German settlers when they came to America! A leg of this route once ran through what is now Martinsville city!",
+			"abv": "5.0",
+			"ibu": "36",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.25",
-				"13oz": "$7.50"
+				"5oz": "$2.50",
+				"8oz": "$4.00",
+				"16oz": "$6.00",
+				"20oz": "$6.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
