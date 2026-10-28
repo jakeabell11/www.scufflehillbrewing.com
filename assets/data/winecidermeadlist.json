@@ -154,11 +154,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Lemon Lavender Mead",
-			"style": "Sweet Melomel Mead",
+			"name": "Peach Cinnamon Vanilla Mead",
+			"style": "Semi Sweet Melomel Mead",
 			"producer": "",
-			"description": "Crafted with lemons, lavender, lemon blossom honey, and wildflower honey, this sweet mead offers a bright lemony citrus character balanced by soft floral notes and lavender aromatics! ",
-			"abv": "11.5",
+			"description": "A smooth, semi sweet mead with juicy peach flavors, warm cinnamon, and a hint of creamy vanilla for a comforting finish!",
+			"abv": "13.5",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.85",
