@@ -290,20 +290,20 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Moscato",
-			"style": "Sweet White Wine",
+			"name": "Pumpkin Spice Mead",
+			"style": "Sweet Melomel Mead",
 			"producer": "",
-			"description": "A nice sweet white presenting tasting notes of white peach, apricot, orange blossom, and honeysuckle!",
-			"abv": "10.6",
+			"description": "A smooth, sweet, spiced mead with warm notes of pumpkin, cinnamon, clove, and nutmeg.",
+			"abv": "13.2",
 			"picture": "",
 			"tap_room": {
-				"2oz": "$2.70",
-				"6oz": "$7.50",
-				"Bottle": "$20.00"
+				"2oz": "$2.85",
+				"6oz": "$8.50",
+				"Bottle": "$32.00"
 			},
-			"available": "no",
+			"available": "yes",
 			"comingSoon": "no",
-			"house" : "no",
+			"house" : "yes",
 			"guest" : "no"
 		}
 	]
