@@ -223,14 +223,14 @@
 		{
 			"name": "Space Attic",
 			"style": "New England",
-			"description": "A smooth, hazy NEIPA brewed with Galaxy, Comet, and Eclipse hops. It brings notes of citrus and tangerine with subtle herbaceous and earthy notes. Named after the Space Attic arcade that once occupied our current location, the space-themed hops were the perfect fit for the beer!",
-			"abv": "6.4",
+			"description": "A collaboration between Veteran Brewers and our friends at Forgotten Road Ales , Surf City Brewing Company, & Wild Heart Brewing Company for Veterans Day coming up! Double Dry Hopped with Citra, Galaxy, Vera, & Nectaron provides tasting of citrus, peach, tropical fruit, & a little dank.",
+			"abv": "7.1",
 			"ibu": "35",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$3.25",
-				"8oz": "$5.00",
-				"16oz": "$7.50"
+				"5oz": "$3.50",
+				"8oz": "$5.25",
+				"16oz": "$8.00"
 			},
 			"available": "yes",
 			"comingSoon": "no"
