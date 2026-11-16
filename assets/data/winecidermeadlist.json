@@ -1,11 +1,11 @@
 {
 	"winecidermead": [
 		{
-			"name": "Bochet Reserve",
-			"style": "Semi Sweet Bochet Mead",
+			"name": "Pumpkin Spice Mead",
+			"style": "Sweet Melomel Mead",
 			"producer": "",
-			"description": "A rich bochet mead crafted from caramelized honey, aged on whiskey chips and Madagascar vanilla bean. Tasting notes of whiskey, toasted marshmallow, chocolate, oak warmth, and faint vanilla sweetness!",
-			"abv": "13.4",
+			"description": "A smooth, sweet, spiced mead with warm notes of pumpkin, cinnamon, clove, and nutmeg!",
+			"abv": "13.2",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.85",
