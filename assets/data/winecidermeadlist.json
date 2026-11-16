@@ -290,11 +290,11 @@
 			"guest" : "no"
 		},
 		{
-			"name": "Pumpkin Spice Mead",
+			"name": "Spicy Banana Mead",
 			"style": "Sweet Melomel Mead",
 			"producer": "",
-			"description": "A smooth, sweet, spiced mead with warm notes of pumpkin, cinnamon, clove, and nutmeg.",
-			"abv": "13.2",
+			"description": "A smooth, sweet, mead with tasting notes of sweet banana and a subtle heat from the jalepeno addition.",
+			"abv": "13.7",
 			"picture": "",
 			"tap_room": {
 				"2oz": "$2.85",
