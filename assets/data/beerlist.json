@@ -205,17 +205,17 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Kings Mountain Kolsch",
-			"style": "Kolsch",
-			"description": "A traditional Kolsch made with german malts and noble hops. Clean, crisp and refreshing with slight tasting notes of biscuit, apple, and pear.",
-			"abv": "5.0",
-			"ibu": "19",
+			"name": "The Tan Suit",
+			"style": "Honey Porter",
+			"description": "A smooth porter with notes of roasted malt, chocolate and caramel, balanced by a touch of buckwheat honey sweetness.",
+			"abv": "6.0",
+			"ibu": "12",
 			"picture": "",
 			"tap_room": {
 				"5oz": "$2.50",
 				"8oz": "$4.00",
-				"16oz": "$6.00",
-				"20oz": "$6.50"
+				"16oz": "$6.25",
+				"20oz": "$6.75"
 			},
 			"available": "yes",
 			"comingSoon": "no"
