@@ -142,17 +142,15 @@
 			"comingSoon": "no"
 		},
 		{
-			"name": "Oktoberfest",
-			"style": "Marzen",
-			"description": "Our take on a traditional German Oktoberfest! Boasting good flavors of German Malts accompanied by some toasty and biscuity notes along with some sweet aromas of caramel, toasted bread and dark fruit esters!",
-			"abv": "6.0",
-			"ibu": "20",
+			"name": "D&W: Train to Nowhere",
+			"style": "Imperial Maple Oatmeal Stout",
+			"description": "All the tasting notes of our Flagship Dick & Willie Maple Oatmeal Stout but stronger and more robust!",
+			"abv": "10.2",
+			"ibu": "19",
 			"picture": "",
 			"tap_room": {
-				"5oz": "$2.50",
-				"8oz": "$4.00",
-				"16oz": "$6.25",
-				"20oz": "$6.75"
+				"5oz": "$4.25",
+				"10oz": "$8.50"
 			},
 			"available": "yes",
 			"comingSoon": "no"
